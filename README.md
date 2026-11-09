@@ -18,6 +18,8 @@
 
 필요한 것: Claude Code, Python 3
 
+**Claude 데스크톱 앱의 Code 탭에서 쓰는 걸 권장한다.** 미야의 표정 이미지가 대화창에 바로 보인다. 터미널(CLI)이나 다른 환경에서는 이미지가 안 보이지만 수업은 그대로 된다.
+
 ```bash
 git clone https://github.com/miku-craft/nihongo-partner.git
 ```
@@ -26,11 +28,12 @@ git clone https://github.com/miku-craft/nihongo-partner.git
 cd nihongo-partner && claude
 ```
 
+- 데스크톱 앱: Code 탭에서 clone한 `nihongo-partner` 폴더를 선택해 세션을 연다.
+- 터미널: 위 명령으로 연다.
+
 Claude Code가 열리면 **"일본어 수업하자"** 또는 `/miya`. 스킬이 `.claude/skills/miya/`에 있어서 이 폴더에서 열어야 잡힌다.
 
 첫 수업이면 레벨 확인 퀴즈부터 한다. 그만하고 싶으면 "그만"이라고 하면 오늘 배운 걸 저장하고 끝낸다.
-
-> 표정 이미지는 Claude Code 데스크톱 앱 대화창에 바로 보인다. 다른 환경에서는 이미지가 안 보일 수 있지만 수업은 그대로 된다.
 
 ## 수업 한 번의 흐름
 

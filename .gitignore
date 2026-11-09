@@ -1,0 +1,17 @@
+# 에디터·OS
+.vscode/
+.DS_Store
+__pycache__/
+
+# 개인 학습 기록
+progress/
+
+# NovelAI 원본 (생성 정보가 들어 있음)
+images_src/
+
+# 다시 받을 수 있는 원본 데이터 (data/README.md 참고)
+data/raw/
+
+# 이미지 제작 노트 (개인 작업 참조가 많음)
+prompt.md
+nais3_scenes.json

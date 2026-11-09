@@ -1,0 +1,631 @@
+order	word	reading	meaning_en	pos	freq_rank	ex_ja	ex_en	ex_ja_kor	ex_ko
+1	あ	あ	Ah	int	29	あ！まずい！ガソリンが切れてきた。	Oh, no! We're running out of gas.		
+2	彼	かれ	he; boyfriend	pn	34	彼のスイングは実に見事だ。	He has a perfect swing.		
+3	こと	こと	thing; matter	n	37	問題はお金がないということです。	The trouble is that we have no money.	見たことない現象だ。	본 적 없는 현상이야.
+4	そう	そう	really	aux; adj-na	38	まもなく雨が降りそうだ。	It is going to rain soon.	そうだ！	그래!
+5	君	きみ	(informal) You (used by men towards women)	pn	42	宿題を忘れるなんて君は不注意だった。	It was careless of you to forget your homework.		
+6	用	よう	use	n	51	何の用でここに来たのですか。	What has brought you here?		
+7	彼女	かのじょ	she; girlfriend	pn	63	問題は彼女が来るかどうかである。	The point is whether she will come or not.	彼女は若かった。	그는 어렸다.
+8	僕	ぼく	I (used by males)	pn	75	僕をかもだと思っているんだろう。	You take me for a sucker, don't you?		
+9	ああ	ああ	like that	adv	96	ある人はこうだと言い、またある人はああだと言う。	One man says this, another that.	ああ、もう最悪。ティッシュをポケットに入れたまま洗濯しちゃった。	아, 진짜 최악. 휴지를 주머니에 넣은 채로 세탁해버렸어.
+10	必要	ひつよう	necessary	adj-na	99	歯医者に行く必要はないですよ。	You don't need to go to the dentist's.	行く必要はないよ。	갈 필요는 없어.
+11	為	ため	in order to	n; adv	101	それは、おまえの声をよく聞くためだよ。	It is in order to hear your voice well.		
+12	気	き	spirit; mood	n	106	彼は親切というよりむしろ気がやさしい。	He is more gentle than kind.		
+13	そんな	そんな	that sort of	adj-pn	119	どうしてそんなことが起こったの？	How did such a thing come about?	そんなものだよ。	그런 거야.
+14	考える	かんがえる	to consider	v1; vt	126	あなたは家族の事を考えるべきです。	You must think of your family.	素敵な考えね。	멋진 생각이네.
+15	日	ひ	day; sun	n	129	冬が近づくにつれて日が短くなる。	The days grow shorter as winter approaches.		
+16	見つける	みつける	to discover	v1; vt	134	ぼくはこの本を古本屋で見つけた。	I came across this book in a secondhand bookstore.	見つけた！	찾았다!
+17	なさる	なさる	(respectful) to do	v5aru; vt	147	ステーキの焼き方はどうなさいますか。	How would you like your steak?	安心しなさい。	안심하세요.
+18	場所	ばしょ	location	n	165	このソファーは場所を取りすぎる。	This sofa takes too much room.	この場所に？	여기서요?
+19	子	こ	child	n; n-suf	182	彼はきっすいのロンドン子です。	He's a genuine Londoner.		
+20	もし	もし	if	adv	183	もし電話がなったら出てくれますか。	If the telephone rings, can you answer it?	もしもし。	여보세요?
+21	はず	はず	it should be so	aux	185	トムは今にもここに来るはずです。	Tom should be here any minute.	役に立つはずだ。	도움이 될 것이다.
+22	くださる	くださる	(respectful) to give	v5aru; vt	193	もう一度言ってくださいますか。	Could you repeat that, please?	お待ちください。	기다리세요
+23	見える	みえる	to be in sight	v1; vi	195	すべてのものがすばらしく見えた。	Everything looked nice.	よく見える？	잘 보이시나요?
+24	通る	とおる	to go through	v5r; vi	196	私は毎日その教会の前を通る。	I go by that church every day.		
+25	皆	みな	everybody	n; pn; adv	198	私の親族は皆この町に住んでいる。	All my relatives live in this city.		
+26	つもり	つもり	intention	n	203	私は来年留学するつもりです。	I intend to study abroad next year.	私はいつも忙しい。	저는 항상 바빠요.
+27	世界	せかい	the world	n	211	愛の力は世界を動かす。	Love makes the world go round.	世界は奇人の巣だ。	이 세상은 미치광이들의 소굴이다
+28	止める	とめる	to stop something	v1; vt	222	急にジムは銀行の前で車を止めた。	Suddenly Jim pulled the car up in front of the bank.	もう止めて！	이제 그만해!
+29	警察	けいさつ	police	n	224	その場合には警察を呼びなさい。	In that case, call the police.	７名の警察官が殺害された。	7명의 경찰관이 살해당했다.
+30	心配	しんぱい	to worry	n; vs; vt; adj-na	225	その男の子は心配して病気になった。	The boy got sick from anxiety.	私達は心配だった。	우리들은 걱정했다.
+31	逃げる	にげる	to escape	v1; vi	230	現実から逃げることはできない。	You can't escape from reality.	逃げろ！	도망가!
+32	関係	かんけい	relationship	n; vs; vi	234	これとあれはどういう関係があるの。	How is this connected to that?	年齢は関係ない。	나이는 상관 없다.
+33	生きる	いきる	to live	v1; vi	235	生きるものはすべていつかは死ぬ。	All living things die some day.	このホラー映画では死者が生き返ることが可能だ。	이 공포 영화에선 죽은 사람이 다시 살아나는 것이 가능하다.
+34	連れる	つれる	to lead	v1; vt	238	でもさ、母を連れて行かなくてはいけないんだ。	But, I have to take my mother.	病院へ連れて行って下さい。	병원으로 데려가 주세요.
+35	力	ちから	strength; power	n	246	あなたは集中する力を失ってしまった。	You've lost the ability to concentrate.		
+36	島	しま	island	n	247	その島にはとても近づきにやすい。	The island is very easy to reach.		
+37	最後	さいご	last; end	n	255	最後の試験は来月にまたがるだろう。	The final exams will probably carry over into next month.	これで最後だ。	이걸로 끝이다.
+38	息子	むすこ	(humble) son	n	257	母親は息子にやかましく言って聞かせた。	The mother whipped sense into her boy.	息子だ、娘だ？	아들이야, 딸이야?
+39	娘	むすめ	(humble) daughter	n	259	私はヘレンカートライトの娘です。	I'm Helen Cartwright's daughter.		
+40	間	あいだ	a space	n	263	二人の間がしっくり行かない。	They don't get along together.		
+41	調べる	しらべる	to investigate	v1; vt	276	ちょっと調べてることがあるから。	I just wanna nose around a bit.	小学校のときから、酸性・アルカリ性という性質をリトマス紙で調べたりしてきていますね。	초등학교 때부터, 산성, 알칼리성이라고 하는 성질을 리트머스지로 조사해오고 있죠.
+42	理由	りゆう	reason	n	277	本学に入学したい理由は何ですか。	What is the reason you want to enter this college?	理由聞いてもいい？	이유를 물어봐도 돼?
+43	もちろん	もちろん	of course	adv	278	「ご一緒してもいいですか」「もちろんです」	"""May I go with you?"" ""Of course."""	もちろん僕もやるよ！	물론 나도 할게!
+44	準備	じゅんび	to prepare	n; vs; vt	282	準備ができるまでちょっと待ってくれ。	Hang on a bit until I'm ready.	準備をするためにもっと時間が必要だ。	좀더 준비할 시간이 필요해.
+45	うん	うん	(informal) yes	int	284	うん、休みが終わるまででいいの。	Oh, just over the holidays.	うん。	응.
+46	連絡	れんらく	contact	n; vs; vt	286	ここに来た時は、必ず連絡してね。	Please get in touch with me when you are here.	これが私の連絡先です。	이게 제 연락처입니다.
+47	別	べつ	different	adj-no; adj-na; n	288	また別のときにチェスをしましょう。	Let's play chess another time.		
+48	心	こころ	core; heart	n	289	私は心によい考えを持っている。	I have a good idea in my mind.		
+49	以上	いじょう	more than; this is all	n-suf	291	以上ですか？	Is that all?	最新の出来事は以上です。	최근의 사건은 이상입니다
+50	始める	はじめる	to begin	v1; vt	299	いつゴルフを始めたのですか。	When did you begin playing golf?	いつ始めるつもりですか？	언제 시작할 생각이에요?
+51	危険	きけん	danger	n; adj-na	302	危険は見くびるとすぐやってくる。	Danger comes soonest when it is despised.	それでは君が危険になる。	그러면 네가 위험해져.
+52	続ける	つづける	to continue	v1; vt	303	ケンはその歌を歌い続けた。	Ken kept on singing that song.	踊り続けて。	계속 춤 춰.
+53	女性	じょせい	woman	n; adj-no	305	その少女は大きくなってすらりとした女性になった。	The girl has grown into a slender woman.	国際女性の日おめでとうございます！	세계 여성의 날을 축하합니다.
+54	安全	あんぜん	safety	n; adj-na	308	私たちは思っているほど安全ではない。	We are not all that safe.	安全運転しなさい。	안전운전하세요.
+55	こう	こう	this way	adv	309			行こう！	가자!
+56	急	きゅう	urgent; steep	adj-na	311	この川の流れは急だ。	The current of this river is rapid.		
+57	最初	さいしょ	beginning; first	adj-no; n; adv	313	私は最初からその事は知っていた。	I knew that all along.	最初は難しいんだよ。	처음은 어려운 거야.
+58	約束	やくそく	promise	n; vs; vt	315	約束したことを思い出して下さい。	I must remind you of your promise.	約束は守るよ。	약속은 지킬게.
+59	訳	わけ	meaning; reason	n	324	そういうわけで私はこんなに早く帰って来たのです。	That's why I came back so soon.		
+60	計画	けいかく	to plan	n; vs; vt	330	その計画では彼に同調できました。	We went with him on that plan.	彼は計画を実行した。	그는 계획을 실행했다.
+61	無理	むり	impossible	adj-na; n	331	それは無理な注文だ。	Your demands are unreasonable.	無理しないでね。	너무 무리하지는 마.
+62	聞こえる	きこえる	to be heard	v1; vi	338	車が家の前に止まる音が聞こえた。	I heard a car stop in front of the house.	君の声が聞こえる。	너의 목소리가 들려
+63	ほど	ほど	extent	n; adv	354	スージーほど上手にピアノをひけるとよいのだが。	I wish I could play the piano as well as Susie.	多ければ多いほど良い。	많으면 많을수록 좋다.
+64	明日	あす	tomorrow	n; adv	374	あしたは一日中ひまです。	I'll be free all day tomorrow.	明日は雨です。	내일은 비가 와요.
+65	確か	たしか	definite	adj-na	384	彼が間違っているのは確かです。	It is certain that he is wrong.	それは確かかい。	그건 확실한 거냐.
+66	怖い	こわい	frightening	adj-i	385	私は怖かったよりもびっくりした。	I was not so much scared as amazed.	一人になるのが怖いの。	혼자가 되는 게 무서워.
+67	今夜	こんや	tonight	n; adv	395	今夜、パーティーを開きます。	We're giving a party tonight.	今夜は勉強を忘れて楽しもう。	오늘 밤은 공부는 잊고 즐기자.
+68	受ける	うける	to take a lesson or test	v1; vt	402	病気なので試験が受けられません。	I can't sit for the examination because I am ill.	どうして引き受けたの？	왜 맡았어?
+69	伝える	つたえる	to report	v1; vt	404	その話は親から子へと伝えられた。	The story was handed down from father to son.	みんなに伝えて。	모두한테 말해.
+70	妻	つま	(humble) wife	n	410				
+71	うち	うち	within	n; adv	414	教会は私の家とあなたの家の中にあります。	The church is between my house and yours.	私のうちは小さくて、狭いです。	제 집은 작고 좁습니다.
+72	説明	せつめい	explanation	n; vs; vt	419	あなたはそれをどう説明しますか。	How do you account for that?	説明下手でごめんね。	설명이 별로라서 미안해.
+73	だめ	だめ	no good	adj-na; n	427	もうだめだ。	It's all over.	だめだ、2時間しか寝てないから全然頭働かない。	망했어, 2시간밖에 안 자서 머리가 전혀 돌아가지 않아.
+74	正しい	ただしい	correct	adj-i	428	これが正しいかどうか自信がないんだ。	I'm not sure if this is correct.		
+75	夢	ゆめ	dream	n	435	あなたの夢がみんな実現されますように。	May all your dreams come true!		
+76	終わり	おわり	the end	n	447	さぁ、一日を終わりとしましょう。	Let's call it a day.	これで終わりです。	이것으로 끝입니다.
+77	ちゃん	ちゃん	suffix for familiar female person	suf	450	あら、あなたのところの娘のはるちゃんはとても陽気ですね。	Oh, your daughter Haru is very cheerful.	赤ちゃんが寝る。	아기가 잔다.
+78	きっと	きっと	surely	adv	453	でもよー、オラのおとうさんは良い気しねーよ、きっと。	But I don't think Dad would like me to.	明日はきっとよい天気になる。	내일은 분명 좋은 날씨로 된다.
+79	血	ち	blood	n	456	私たちは血がつながっている。	We are related by blood.		
+80	まず	まず	first of all	adv	461	バリウムをまず一口飲んでください。	First, swallow one dose of barium.	まず例文を見てみましょう。	먼저 예문 볼게요.
+81	捕まえる	つかまえる	to seize	v1; vt	469	その男は少年の手をつかまえた。	The man took the boy by the hand.	捕まえろ。	잡아라.
+82	十分	じゅうぶん	enough	adj-na	476	私はこの本を買うのに十分なお金を持っている。	I have enough money to buy this book.	十分休憩しよう。	10분간 쉬죠.
+83	変える	かえる	to change	v1; vt	478	なんで彼は考えを変えたのか。	What made him change his mind?	過去は知られているが変えられない。未来は未知だが変えることができる。	과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다.
+84	過ぎる	すぎる	to exceed	v1; vi	490	このスープは、しょっぱ過ぎて飲めないよ。	This soup is too salty to eat.	３時を過ぎたところよ。	세 시를 넘은 참이야.
+85	残念	ざんねん	disappointment	adj-na; n	491	お伺いできないのが残念です。	I regret to say I can't come.	残念ながらそれは本当なのです。	유감스럽게도 사실이네요.
+86	自由	じゆう	freedom	n; adj-na	492	お金を使うも貯めるも自由にしなさい。	You may spend or save at will.	何でもご自由に召し上がってください。	먹고 싶은 것들 마음껏 먹어.
+87	簡単	かんたん	simple	adj-na; n	498	テニスをすることは私には簡単だ。	Playing tennis is easy for me.	その本は簡単です。	이 책은 간단해요.
+88	音	おと	sound; note	n	499	ここから海の音が聞こえる。	We can hear the ocean from here.		
+89	アメリカ	アメリカ	America	n	509	私は去年の秋にアメリカにいった。	I went to America last fall.	アメリカ人じゃないです。	저는 미국인이 아니에요
+90	昔	むかし	olden days; former	n; adj-no; adv	524	この本を読むたびに昔を思い出す。	I never read this book without being reminded of my old days.		
+91	戦争	せんそう	war	n; vs; vi	536	戦争が起こらなければいいと思う。	I hope war doesn't break out.	これは戦争犯罪だ。	이것은 전쟁 범죄입니다.
+92	決める	きめる	to decide	v1; vt	537	そこに行くことに決めた。	I made up my mind to go there.	私たちがそこへ行くかどうかを決めるのは君の責任だ。	우리가 가든지 안 가든지는 네가 결정해.
+93	深い	ふかい	deep	adj-i	542	湖の深さはどのくらいですか。	What is the depth of the lake?	興味深い話でした。	흥미로운 이야기였어요.
+94	変	へん	strange	adj-na	559	そのオレンジは後味が変だった。	The orange left a strange taste in my mouth.		
+95	捨てる	すてる	to throw away	v1; vt	574	そんな計画は捨ててしまいなさい。	Put the plan on the scrap heap.	トムはりんごの芯をゴミ箱に捨てた。	톰은 사과 심을 쓰레기통에 버렸다.
+96	研究	けんきゅう	research	n; vs; vt	583	あなたのご研究は、いかがですか。	How are your studies going?	私達はその植物を数週間詳しく研究した。	우리는 그 식물을 몇 주 동안 자세하게 연구했다.
+97	星	ほし	star	n	595	ドアには大きな金色の星がついていました。	There was a big gold star on the door.		
+98	気持ち	きもち	feeling; mood	n	597	気持ちのいい朝ではありませんか。	Isn't it a lovely morning?	昨夜よく寝たので、今朝気持ちがいい。	간밤에 잘 잤으므로 오늘 아침 기분이 좋다.
+99	興味	きょうみ	an interest	n	600	あなたは花に興味がありますか。	Are you interested in flowers?	興味深い話でした。	흥미로운 이야기였어요.
+100	生活	せいかつ	to live	n; vs; vi	610	どのようにして生活していきますか。	How are you getting along?	小額の年金で生活するのは彼には困難であった。	적은 연금으로 생활하는 것은 그에게는 곤란했다.
+101	気分	きぶん	mood	n	613	とても気分がリフレッシュされる。	I feel like a brand new person.	最悪の気分！	최악의 기분
+102	夫	おっと	husband	n	619	妻は夫より長生きするものだ。	Wives usually outlive husbands.		
+103	以外	いがい	with the exception of	n-suf	629	その仕事以外ならなんでもやる。	I'll do anything but that job.	日曜日以外は毎日働く。	일요일 이외에는 매일 일한다.
+104	運転	うんてん	to drive	n; vs; vt; vi	631	キャロルはレンタカーを運転しています。	Carol is driving a rent-a-car.	安全運転しなさい。	안전운전하세요.
+105	普通	ふつう	usually; normally; ordinary; local train (stopping at every station)	n	635	私はふつう自転車で通学します。	I usually go to school by bicycle.	レイラはごく普通の１５歳の女の子だった。	라일라는 매우 평범한 15세 여자아이였다.
+106	事故	じこ	accident	n	636	その事故について彼に質問した。	I asked him about the accident.	事故があった。	사고가 벌어졌다.
+107	今度	こんど	now; next time	n; adv	640	今度の土曜日、テニスをしませんか。	How about playing tennis next Saturday?		
+108	大事	だいじ	important; valuable; serious matter	adj-na	641	彼は私たちにとって大事な人だ。	He is precious to us.	お大事に。	몸 조심해.
+109	場合	ばあい	situation	n	643	システムが作動しない場合がある。	There are cases where the system doesn't go.	火事の場合には１１９番すべきです。	화재의 경우에는 119를 불러야 합니다.
+110	特別	とくべつ	special	adj-na; adj-no; adv; n	674	特別料理がございますが。	We have something special for you, sir.		
+111	用意	ようい	preparation	n; vs; vt	686	その部屋はあなたが使えるよう用意ができています。	The room is now ready for you.	母が私に食卓の用意をするよう頼んできた。	어머니가 내게 식탁의 준비를 하라고 부탁했다.
+112	最近	さいきん	latest; nowadays	n; adj-no; adv	690	最近は読書の時間がほとんどない。	I've got little time for reading these days.	それは最近の写真？	이 사진 최근 거에요?
+113	落ちる	おちる	to fall or drop	v1; vi	704	勉強しないと試験に落ちるよ。	If you don't study, you will fail the exam.	１年前に比べれば価格は大きく落ち込んでいる。	1년 전에 비하면 가격은 크게 떨어져 있다.
+114	失敗	しっぱい	failure; mistake	n; vs; vt; vi	709	１度や２度の失敗はだれにでもある。	Everybody fails once or twice.	君が失敗したのは努力が足りなかったからだ。	네가 실패한 이유는 노력이 부족했기 때문이다.
+115	あんな	あんな	such	adj-pn	712	あんないい男そうそういないぞ！！	There aren't many blokes that nice!	何か言いたいことでもあんの？	뭐 할 말이라도 있냐고.
+116	美しい	うつくしい	beautiful	adj-i	716	私たちは美しい入り日に見とれた。	We admired the beautiful sunset.	美しい！	예!
+117	客	きゃく	guest; customer	n	718	春先だから客もあまりいませんでした。	It was early spring, so there weren't many customers.		
+118	決して	けっして	never	adv	727	これは決して小さなことではない。	It's no small matter.	彼は決して幸福ではなかった。	그는 결코 행복하지 않았다.
+119	必ず	かならず	certainly; necessarily	adv	745	あの歌は必ずヒットするよ。	That song's bound to be a hit.	必ず時間を守るようにしてくださいね。	반드시 시간을 지킬 수 있도록 해 주세요.
+120	ビル	ビル	building or bill	n	747			このビルの所有者は何度も変わっています。	이 건물의 소유자는 몇 번이고 바뀌었습니다.
+121	壁	かべ	wall	n	759	壁はぬりかえなければなりませんか。	Must I repaint the wall?		
+122	経験	けいけん	to experience	n; vs; vt	780	この仕事では経験がものを言う。	Experience counts in this job.		
+123	注意	ちゅうい	caution	n; vs; vi	782	彼に遅れないように注意した。	I cautioned him against being late.	注意深く運転してください。	주의해서 운전해 주세요.
+124	腕	うで	arm	n	785	けがをした腕を見せて下さい。	Please show me your injured arm.		
+125	予定	よてい	arrangement	n; vs; vt	813	私は６時にボブに会う予定だった。	I was meeting Bob at six.	今晩は予定がある？	오늘 밤에 해야 하는 일 있어?
+126	科学	かがく	science	n	814	私は、ずっと科学を習っている。	I have been learning a science.		
+127	点	てん	point; dot	n	826	どんな小さな点でも見ることができる。	I can see the tiniest spot.		
+128	首	くび	neck	n	827	あなたの首は風前のともし火だ。	Your job hangs by a thread.		
+129	時代	じだい	era	n	839	大学時代に私は英字新聞をとっていた。	I took an English newspaper when I was in college.		
+130	光	ひかり	light	n	858	光が世にやって来た。	Light has come into the world.		
+131	残る	のこる	to remain	v5r; vi	862	もう３ページ残っている。	I have three more pages to go.		
+132	眠い	ねむい	sleepy	adj-i	865	テレビを見ているとすぐ眠くなる。	I fall asleep easily while watching television.	眠いからもう寝るね。	졸리니까 이제 잘게.
+133	利用	りよう	utilization	n; vs; vt	867	学生は図書館の本を利用すべきだ。	Students should make use of the books in the library.		
+134	技術	ぎじゅつ	art; technology; skill	n	873	近代技術は多くの物を与えてくれる。	Modern technology gives us many things.	この技術の利点って何なのかな？	이 기술의 이점은 무엇인가요?
+135	ほとんど	ほとんど	mostly	adv	876	ケイトは中国語をほとんど話せない。	Kate can hardly speak Chinese.	ほとんど終わった？	거의 다 끝났어?
+136	線	せん	line	n; n-suf	890	この線の終点はどこですか。	Where is the end of this line?		
+137	さっき	さっき	some time ago	n; adv	891	さっきなぜかマイクが入らなかった。	For some reason the microphone didn't work earlier.	彼女はさっぱりした服装をしている。	그녀는 깔끔한 복장을 하고 있다.
+138	しっかり	しっかり	firmly; steadily	adv; adv-to; vs	894	君にはもっとしっかり仕事をしてもらいたい。	I want you to work harder.		
+139	遅れる	おくれる	to be late	v1; vi	904	電車はほとんど一時間遅れだった。	The train was almost an hour behind time.	列車に乗り遅れるな。	열차 탑승에 늦지 마라.
+140	別れる	わかれる	to separate	v1; vi	905	ジョンとメアリーは先週別れた。	John and Mary broke up last week.	そんなにトムが好きなら私と別れてトムと付き合えば？	그렇게 톰이 좋으면 나랑 헤어지고 톰이랑 사귀는 게 어때?
+141	似る	にる	to be similar	v1; vi	926	私も似た話を聞いたことがある。	I also heard a similar story.		
+142	立てる	たてる	to stand something up	v1; vt	931	図書館では物音を立ててはいけない。	Don't make a noise in the library.	謝罪はあったにせよ、私はまだ彼に腹を立てている。	그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.
+143	森	もり	forest	n	955	私は森の中で野うさぎをみつけた。	I caught sight of the rabbit in the middle of the forest.		
+144	原因	げんいん	cause; source	n; vs; vi	957	火事の原因はだいたいわかっている。	There is not much doubt about the cause of the fire.		
+145	世話	せわ	to look after	n; vs; vt	965	あなたはペットの世話ができない。	You can't care for pets.	お世話になりました。	신세 많이 졌습니다.
+146	食事	しょくじ	to have a meal	n; vs; vi	968	食事は母に作ってもらっています。	I'm cooked meals by my mother.	彼は私を食事に招いてくれた。	그는 나를 저녁 식사에 초대했다.
+147	火	ひ	fire	n	995	いすをもっと火の近くに寄せなさい。	Draw your chair closer to the fire.		
+148	特に	とくに	particularly; especially	adv	1004	私は音楽、特にロックが大好きだ。	I love music, especially rock.		
+149	負ける	まける	to lose	v1; vi	1008	３対０で彼には負けています。	He's beating me, three to zip.	だから俺は負け続けるんだ。	그래서 나는 계속 지는 거야.
+150	代わり	かわり	substitute; alternate	n; adj-no	1014	その代わりにトランプをしようよ。	Let's play cards instead.	月に代わってお仕置きよ！	정의의 이름으로 용서하지 않겠어!
+151	集める	あつめる	to collect something	v1; vt	1018	毎週月曜日にゴミを集めにきます。	They collect our garbage every Monday.	僕たちは全世界の切手を集める。	우리는 전 세계의 우표를 모은다.
+152	髪	かみ	hair	n	1033	長い髪をした女の子に会いました。	I saw a girl with long hair.		
+153	しばらく	しばらく	little while	adv	1072	ここしばらく彼にまるで会わない。	I haven't seen anything of him for some time.		
+154	億	おく	one hundred million	num	1079	１０億人の人たちが英語を話しています。	One billion people speak English.		
+155	やっと	やっと	at last	adv	1082	こ、こら！ナニやっとるかぁぁ！！	H-Hey! What're you up to!!	よくやった！	잘 했어!
+156	はっきり	はっきり	clearly	adv; adv-to	1088	私はまだはっきりとは知らない。	I don't know for certain yet.	彼が偉大な芸術家であることははっきりしている。	그가 재능있는 예술가인 것은 확실하다.
+157	迎える	むかえる	to go out to meet	v1; vt	1089	６時にホテルに車で迎えて下さい。	Please pick me up at the hotel at six o'clock.	妻は養子を迎えたいと思っていた。	아내는 양자를 들이고 싶다고 생각하고 있었다.
+158	意見	いけん	opinion	n	1091	ここではどんどん意見をおっしゃってかまいません。	You can speak out freely here.	斬新な意見だね。	참신한 의견이네요.
+159	機会	きかい	opportunity	n	1100	またの機会にしましょう。	Let's make it some other time.	彼女に自己紹介する機会がなかった。	그녀에게 자기소개를 할 기회가 없었다.
+160	おかげ	おかげ	owing to	n	1103	私が今日あるのは両親のおかげである。	I owe what I am to my parents.	何でこれをおかしいと思うの？	왜 이게 이상하다고 생각해?
+161	歴史	れきし	history	n	1120	私は地理より歴史が好きだ。	I prefer history to geography.	歴史には全く興味がないんだ。	역사에는 전혀 흥미가 없어.
+162	反対	はんたい	opposition	n; vs; vi; adj-no; adj-na	1121	この考えには反対せざるをえない。	I have to oppose this idea.	私たちの中で彼の考えに反対してる者はいない。	우리 중 아무도 그 사람의 의견에 반대하지 않는다.
+163	出発	しゅっぱつ	to depart	n; vs; vi	1133	すぐに出発した方がいいですよ。	You had better depart at once.	彼は早く出発することを勧めた。	그는 일찍 출발하는 것을 조언했다.
+164	住所	じゅうしょ	an address; a residence	n	1140	あなたの名前と住所を記入しなさい。	Fill in your name and address.	彼の住所なら分かるよ。	그의 주소라면 알고 있어.
+165	ガス	ガス	petrol	n	1142			ガスが漏出した。	가스가 누출됐다
+166	男性	だんせい	male	n; adj-no	1149	男性の方は上着を着用してください。	Jackets are requested for men.		
+167	紹介	しょうかい	introduction	n; vs; vt	1161	あなたを私の両親に紹介したい。	I want you to meet my parents.	彼女に自己紹介する機会がなかった。	그녀에게 자기소개를 할 기회가 없었다.
+168	裏	うら	reverse side	n	1166	靴の裏にガムがこびりついちゃった。	There's gum stuck to the bottom of my shoe.		
+169	尋ねる	たずねる	to ask	v1; vt	1170	お尋ねしてもよろしいでしょうか。	May I have the honor of asking you?		
+170	よろしい	よろしい	(respectful) OK; all right	adj-i	1181	あなたに頼んでもよろしいですか。	May I request a favour of you?	どうぞよろしく。	만나서 반갑습니다.
+171	スーツ	スーツ	suit	n	1187	スーツを着て彼は目立っていた。	He was conspicuous in his suit.	スーザンの料理が立派だ。	수잔의 음식 솜씨가 훌륭하다.
+172	悲しい	かなしい	sad	adj-i	1191	そんな悲しい目で見ないで。	Don't give me such a sad look.	起きた時私は悲しかった。	일어났을 때 슬펐어.
+173	教会	きょうかい	church	n	1205	その教会は１１７３年までさかのぼる。	The church dates back to 1173.	この通りには教会が2堂あります。	이 거리에는 두 개의 교회가 있습니다.
+174	途中	とちゅう	on the way	n; adv	1207	途中であきらめるな。	Don't give up halfway.	学校へ行く途中でトムに会った。	학교에가는 도중에 톰 만났다.
+175	凄い	すごい	terrific	adj-i	1210	凄い明かりが野球場にあたっていた。	A great light was diffused over the baseball stadium.	自然って凄いなぁ。	자연이란 대단하구나.
+176	楽しみ	たのしみ	joy	n; adj-na	1211	お便り楽しみにお待ちしております。	I am looking forward to hearing from you.	楽しい週末をね。	즐거운 주말 되십시오
+177	楽しむ	たのしむ	to enjoy oneself	v5m; vt	1211	グレイ先生は仕事を楽しんでいませんでした。	Mr Grey did not enjoy his job.	楽しい週末をね。	즐거운 주말 되십시오
+178	動く	うごく	to move	v5k; vi	1215	まだ動くうちに売ってしまわなきゃ。	I should sell it while it still runs.		
+179	指	ゆび	finger	n	1217	ドアに指をはさみました。	I caught my finger in the door.		
+180	席	せき	seat	n	1230	この席を見ていてくれませんか。	Can you save this seat for me?		
+181	熱	ねつ	fever	n	1250	１０２゜Ｆの熱があります。	I have a fever of 102 degrees.		
+182	優しい	やさしい	kind	adj-i	1256	みんなには優しく話してください。	Speak gently to everyone.		
+183	なるほど	なるほど	now I understand	int; adv	1277	ああ、なるほど！	Ah, gotcha!		
+184	会議	かいぎ	meeting	n; vs; vi; vt	1280	会議は終わりに近づきつつあった。	The conference was drawing to an end.	会議は明日開かれる。	회의는 내일 열린다.
+185	壊れる	こわれる	to be broken	v1; vi	1282	このイヤホンは壊れています。	These earphones don't work.	何か壊れたの？	무언가 부서졌어?
+186	安心	あんしん	relief	n; adj-na; vs; vi	1299	あいつに仕事を任せておけば安心だ。	You can trust him with any job.	安心しなさい。	안심하세요.
+187	社会	しゃかい	society; public	n	1303	彼の一生は社会の下積みで終わった。	He lived and died in obscurity.	社会が変化している。	사회가 변화하고 있다.
+188	以内	いない	within	n; n-suf; adv	1310	１週間以内に電話します。	I'll call you within a week.		
+189	会話	かいわ	conversation	n; vs; vi	1317	その作家は会話を書くのがうまい。	The writer is very good at a dialog.	教授は英会話を教えている。	교수는 영회화를 가르치고 있다.
+190	案内	あんない	to guide	n; vs; vt	1329	私をあちこちに案内してください。	Please show me around.		
+191	周り	まわり	surroundings	n	1348	周りを見渡しなさい。	Look about you.	自販機の周りにペットボトルがたくさん捨てられてる。	자판기 주위에 많은 페트병이 버려져 있다.
+192	市民	しみん	citizen	n	1356	私は千葉市民ですが、東京で勤めています。	I am a citizen of Chiba, but work in Tokyo.		
+193	親	おや	parents	n	1376	私たちは親をあてにしてはいけない。	We should not depend on your parents.		
+194	寂しい	さびしい	lonely	adj-i	1383	それで、彼女はとてもさびしく思っています。	And she misses them very much.	メアリーに話し相手はいないが、彼女は寂しいと思っていない。	메리에게 말동무는 없지만, 그녀는 쓸쓸하다고 생각하지 않는다.
+195	市	し	city	n; n-suf	1395	その町は大きくなって市となった。	The town grew into a city.		
+196	いっぱい	いっぱい	full	adj-na; adj-no; n-suf	1426	このボトルに水をいっぱい入れてください。	Please fill this bottle with water.	彼女の目は涙でいっぱいだった。	그녀의 눈이 눈물로 가득했다.
+197	お金持ち	おかねもち	rich man	n	1439	どうしたらお金持ちになれるのかしら？	How can I become rich?	細かいお金持ってない？	잔돈 가지고 있지 않아?
+198	怒る	おこる	to get angry; to be angry	v5r; vi	1443	それをそのままにしておきなさい。そうしないと怒られますよ。	Leave it as it is, or you will be scolded.		
+199	足りる	たりる	to be enough	v1; vi	1450	今、ちょっとお金が足りなくてね。	I'm a bit short of money now.	メモリが足りないのかなぁ。	충분한 RAM 메모리가 없어요.
+200	思う	おもう	to think; to feel	v5u; vt	1462	晴れだと思うよ。	I think it will be sunny.	勝つと思う？	이길 거라 생각해?
+201	両方	りょうほう	both sides	n; adj-no	1492	この手袋は両方がそろっていない。	Their gloves are not in pairs.	私はひざを曲げずに両方の手のひらを床に付けることができる。	나는 무릎을 굽히지 않고 양쪽 손바닥을 바닥에 닿게 할 수 있어.
+202	慣れる	なれる	to grow accustomed to	v1; vi	1494	朝早く起きるのには慣れています。	I'm accustomed to getting up early.	彼女は料理をするのに慣れている。	그녀는 요리하는데 익숙하다.
+203	政治	せいじ	politics; government	n	1500	政治については語りたくない。	I'd rather not say anything about politics.	あの政治家は職権乱用で国民の反感を買った。	저 정치가는 직권 남용으로 국민들의 반감을 샀다.
+204	具合	ぐあい	condition; health	n	1501	時計の具合が悪い。	Something is the matter with my watch.	ステーキの焼き具合は、いかがいたしましょうか。	스테이크 굽기는 어떻게 해드릴까요?
+205	高校	こうこう	high school	n	1508	私の息子は、高校に入学した。	My son entered high school.	私たちは１８歳で高校を卒業する。	우리는 18살에 고등학교를 졸업합니다.
+206	遠く	とおく	distant	n; adv; adj-no	1520	遠くにぼんやりした明かりが見えた。	We saw a dim light in the distance.	遠くに富士山が見えた。	저 멀리 후지산이 보였다.
+207	ベル	ベル	bell	n	1535	電話はベルによって発明された。	The telephone was invented by Bell.	ベルンはスイスの首都です。	베른은 스위스의 수도입니다.
+208	指輪	ゆびわ	finger ring	n	1538	この指輪をある場所で買った。	I bought this ring at a certain place.	あれ、指輪はどうしたの？	어, 반지는 어쨌어?
+209	そろそろ	そろそろ	gradually; soon	adv; adv-to	1551	そろそろ寝る時間だぞ。	It's time you went to bed.		
+210	複雑	ふくざつ	complexity; complication	adj-na; n	1556	どのぐらい複雑なのだろうか。	How complex?		
+211	相談	そうだん	to discuss	n; vs; vt	1562	あなたに相談したいことがあるの。	I have something to talk over with you.	恋愛の悩みは恋人に相談するのが一番だよ。	연애의 고민은 연인에게 상담하는 게 가장 좋아.
+212	規則	きそく	regulations	n	1583	この規則はあなたにも当てはまる。	This rule applies to you, too.	トムは規則を知らない。	톰은 규칙을 몰라.
+213	厳しい	きびしい	strict	adj-i	1585	厳しい冬になるという話です。	They say we are going to have a severe winter.		
+214	赤ん坊	あかんぼう	baby	n	1593	うちの赤ん坊は口をきくようになってきました。	Our baby is learning to speak.	母親は赤ん坊をひざの上であやしている。	어머니는 아기를 무릎 위에서 달래고 있다.
+215	法律	ほうりつ	law	n	1598	この法律はすべての人に適用される。	This law applies to everybody.		
+216	招待	しょうたい	to invite	n; vs; vt	1600	ご招待をありがとうございます。	Thank you for your invitation.	トムとメアリーは招待されてなかったんだ。	톰과 매리는 초대받지 않았어.
+217	片付ける	かたづける	to tidy up	v1; vt	1618	あすの朝まっさきにそれを片付けます。	I'll do that first thing in the morning.		
+218	表	おもて	the front	n	1646	この紙はどちらが表だか見分けがつかない。	I cannot tell which is the right side of this paper.		
+219	工場	こうじょう	factory	n	1654	その工場は来月から作業を中止する。	The factory will cease operations next month.	工場の排気ガスが大気を汚染している。	공업 배기가스가 공기를 오염시킨다.
+220	試合	しあい	match; game	n; vs; vi	1657	その試合は何時に始まりますか。	What time does the game start?	僕はこのテニスの試合に勝てるという確信がある。	나는 이 테니스 시합에 이길 수 있다는 확신이 있다.
+221	石	いし	stone	n	1717	私にはこの石は持ち上がらない。	I cannot lift this stone.		
+222	倍	ばい	double	n; adj-no	1720	あの山はこの山の５倍の高さである。	That mountain is five times as high as this one.		
+223	プレゼント	プレゼント	present	n; vs; vt	1737	ハーモニカはお父さんからのプレゼントですか。	Is the harmonica a present from his father?	彼女は彼にプレゼントをあげた。	그녀는 그에게 선물을 주었다.
+224	届ける	とどける	to reach	v1; vt	1742	家に届けていただけますか。	Can you deliver it to my house?	君に届けてほしいメッセージがあるんだ。	너에게 전해주고싶은 메시지가 있어.
+225	間違える	まちがえる	to make a mistake	v1; vt	1748	急いで物事をすると間違えますよ。	You make mistakes if you do things in a hurry.	ごめん間違えた。	미안, 실수했어.
+226	形	かたち	shape	n	1756	物質は温度によって形を変える。	Matter changes its form according to temperature.		
+227	将来	しょうらい	future; prospects	n; adv	1768	将来の事を考えずにはいられない。	I can't help thinking of the future.		
+228	泥棒	どろぼう	thief	n	1770	そこの乞食が泥棒である事がわかった。	The beggar turned out to be a thief.		
+229	贈り物	おくりもの	gift	n	1775	ジェニーは贈り物をありがとうと言った。	Jenny thanked me for the gift.		
+230	知らせる	しらせる	to notify	v1; vt	1791	彼女はそれをどのようにして知らせたのですか。	How did she tell them?	彼はその知らせを聞いてがっかりした。	그는 그 소식을 듣고 실망했다.
+231	承知	しょうち	to consent	n; vs; vt	1793	人はすべて死すべきものと承知している。	We know that all men are mortal.		
+232	空気	くうき	air; atmosphere	n	1804	山の中では空気がとてもきれいだ。	The air is very pure in the mountains.	はい、そうですね。空気がすごく湿気ってますね。	네, 그래요. 공기 중에 습기가 너무 많아요.
+233	社長	しゃちょう	company president	n	1811	この会社の社長は誰ですか。	Who is the boss of this company?	社長から金一封を賜りました。	사장님께서 금일봉을 주셨습니다.
+234	タイプ	タイプ	type; style	n	1840	こういうタイプの人はおもしろくない。	That type of person is dull.	いいタイミングだ。	좋은 타이밍이야.
+235	例えば	たとえば	for example	adv	1852	例えば、ロンドンは今は朝７時です。	For example, it is 7:00 a.m. in London now.	例えば、これはペンです。	예를 들면, 이것은 펜이다.
+236	空港	くうこう	airport	n	1867	どの空港から出発しますか。	Which airport do I leave from?	空港はどこですか？	공항은 어디에 있습니까?
+237	卒業	そつぎょう	graduation	n; vs; vi	1879	私はポップ・ミュージックはそろそろ卒業しようと思っているの。	I feel I'm growing out of pop music.	私たちは１８歳で高校を卒業する。	우리는 18살에 고등학교를 졸업합니다.
+238	都合	つごう	circumstances; convenience	n	1887	何時がご都合よいでしょうか。	What time will be right for you?		
+239	育てる	そだてる	to rear; to bring up	v1; vt	1897	クッキーはケイトによって育てられた。	Cookie was raised by Kate.	トムは庭でトマトを育てている。	톰은 마당에서 토마토를 기르고있다
+240	味	あじ	flavour	n	1931	このチーズはピリッとした味がする。	This cheese has a sharp taste.		
+241	倒れる	たおれる	to break down	v1; vi	1940	彼は横にばったり倒れた。	He fell flat on the floor.	トムは過労で倒れた。	톰은 과로로 쓰러졌다.
+242	予約	よやく	reservation	n; vs; vt	1947	「ホテルの予約はしてありますか」「すみませんが、まだなんです」	"""Have you reserved a hotel room?"" ""Sorry, not yet."""	席は予約したの？	자리는 예약했어?
+243	親切	しんせつ	kindness	adj-na; n	1992	あなたの家族はきっと親切でしょう。	Your family must be very nice.	質問に対しては親切に答えて下さった。	질문에 대하여 친절하게 답해 주셨다.
+244	いらっしゃる	いらっしゃる	(respectful) to be; to come or to go	v5aru; vi	1994			いらっしゃい。	어서오세요.
+245	ケーキ	ケーキ	cake	n	2005	ケイトはケーキの作り方を知っています。	Kate knows how to make a cake.	ジーンとケートは双子だ。	진과 케이트는 쌍둥이야.
+246	投げる	なげる	to throw or cast away	v1; vt	2016	その子は犬に石を投げた。	That child threw a stone at the dog.	インスは学校に行こうと職場での仕事を投げ出した。	인수는 학교에 가려고 직장을 잡어치웠다.
+247	返事	へんじ	reply	n; vs; vi	2041	すぐ返事をしてもらいたいと思っています。	I hope you will answer me soon.	トムから返事来た？	톰한테 답장 왔어?
+248	背中	せなか	back of the body	n	2066	このブラウスはボタンが背中にある。	This blouse buttons at the back.	背中が凝ってるの。	등이 뻐근하다.
+249	人形	にんぎょう	doll; figure	n	2079	メアリーは私にアメリカの人形をくれた。	Mary gave me an American doll.		
+250	泣く	なく	to weep	v5k; vi	2080	ビルは何時間も泣き続けた。	Bill kept on crying for hours.		
+251	虫	むし	insect	n	2089	鳥は虫を探していた。	The bird was looking for worms.		
+252	道具	どうぐ	tool; means	n	2119	この道具はなんの役にもたたない。	This tool is good for nothing.		
+253	鏡	かがみ	mirror	n	2138	少女は立って鏡をのぞきこんだ。	The girl stood looking into the mirror.		
+254	手伝う	てつだう	to assist	v5u; vt	2164	いつでもお手伝いします。	I am always ready to help you.	忙しいので、手伝えません。	바빠서 도와드릴 수 없습니다.
+255	注射	ちゅうしゃ	injection	n; vs; vt	2172	注射をしましょう。	I'll give you a shot.		
+256	汚れる	よごれる	to get dirty	v1; vi	2212	この部屋の空気は汚れている。	The air in this room is foul.		
+257	驚く	おどろく	to be surprised	v5k; vi	2214	母はそのニュースを聞いて驚いた。	Mother was surprised at the news.	驚くこと、不思議に思うことは理解し始めるということなんだ。	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.
+258	けれど	けれど	however	conj; prt	2231	ちょっと会いたいのだけれど。	I want to see you for a moment.	行かなければならない。	넌 가야 해요.
+259	試験	しけん	examination	n; vs; vt	2244	とにかく、試験が終わってほっとしたよ。	Anyhow, I'm relieved the test is over.	試験頑張ってね。	시험 잘쳐.
+260	近所	きんじょ	neighbourhood	n; adj-no	2278	彼が近所に越してきた。	He moved into my neighborhood.		
+261	放送	ほうそう	to broadcast	n; vs; vt	2286	ニュースは毎時放送しています。	We broadcast news on the hour.		
+262	番組	ばんぐみ	television or radio program	n	2289	今晩どんな番組がありますか。	What's on the air this evening?		
+263	遠慮	えんりょ	to be reserved; to be restrained	n; vs; vt; vi	2346	ここでのおタバコはご遠慮願います。	Please refrain from smoking here.		
+264	中々	なかなか	considerably	adv; adj-na	2364	試験中はなかなか大変だった。	It was tough going during the exams.		
+265	遊び	あそび	play	n	2390	今度の旅行は仕事じゃなくて遊びです。	Our next trip is for pleasure, not for work.	マリーはトムと遊びに行った。	메리는 톰과 놀러 갔다.
+266	増える	ふえる	to increase	v1; vi	2409	大雨で川の水が急に増えた。	The river swelled rapidly because of the heavy rain.	最近は海外へ行く学生が増えている。	요즘 해외여행 가는 학생들이 늘고 있다.
+267	コンピュータ	コンピュータ	computer	n	2415	そのコンピューターは新しいです。	The computer is new.	うちの会社で、コンピューターの世界に飛び込んだのは彼が最初だ。	우리 회사에서 컴퓨터의 세계에 뛰어든 그가 처음이다.
+268	恥ずかしい	はずかしい	embarrassed	adj-i	2437	私は恥ずかしくてそれができない。	I am too ashamed to do it.	自分の下手な英語が恥ずかしい。	내 서투른 영어가 부끄럽다.
+269	パソコン	パソコン	personal computer	n	2459	パソコンが起動しなくなりました。	My computer won't start up anymore.	トムはパソコンに詳しい。	톰은 컴퓨터에 대해 잘 알아.
+270	騒ぐ	さわぐ	to make noise; to be excited	v5g; vi	2486	どうかそんなに騒がないで下さい。	Don't be so noisy, please.		
+271	運動	うんどう	to exercise	n; vs; vi	2501	週に一度でいいから運動しなさい。	Try to exercise at least once a week.		
+272	ずいぶん	ずいぶん	extremely	adv; adv-to	2526	私たちはもうずいぶん長くここにいます。	We've been here long enough.	今日はずいぶん冷えるのに。	오늘은 꽤 쌀쌀한 걸.
+273	勝つ	かつ	to win	v5t; vi	2533	この病気に勝てる人は少ない。	Not many survive this disease.	勝つと思う？	이길 거라 생각해?
+274	あいさつする	あいさつする	to greet	n; vs; vi		私にあいさつするような人はいない。	There is no one to greet me.		
+275	あかちゃん	あかちゃん	infant	n		その赤ちゃんは歯が生えはじめている。	The baby is cutting his teeth.		
+276	致す	いたす	(humble) to do	v5s; vt		お取り寄せいたしましょうか。	Would you like me to order it?		
+277	いただく	いただく	(humble) to receive	v5k; vt		九時に来ていただきたいのですが。	I'd like you to come at nine.	いただきます。	잘 먹겠습니다.
+278	一生懸命	いっしょうけんめい	with utmost effort	adv; adj-na; n		もっと一生懸命勉強すべきだったのに。	You should have worked harder.		
+279	うかがう	うかがう	to visit	v5u; vt		体重をおうかがいしてもよろしいですか。	May I ask you what your weight is?	彼の話からその見聞の広さがうかがわれた。	그의 말에서 그 견문의 넓이가 엿보였다.
+280	うれしい	うれしい	glad	adj-i		あなたに再会できてうれしい。	I am pleased to see you again.		
+281	運転手	うんてんしゅ	driver	n		運転手は車のスピードを上げた。	The driver accelerated his car.	安全運転しなさい。	안전운전하세요.
+282	おいでになる	おいでになる	(respectful) to be	exp; v5r		いつ旅行においでになりますか。	When will you go on a journey?		
+283	おかしい	おかしい	strange or funny	adj-i		君のジョークは何度聞いてもおかしい。	Your joke is funny no matter how many times I hear it.	何でこれをおかしいと思うの？	왜 이게 이상하다고 생각해?
+284	起す	おこす	to wake	v5s; vt		病気の子供はベッドの上で体を起こした。	The sick child sat up in bed.		
+285	お嬢さん	おじょうさん	young lady	n		お嬢さんは試験に合格なさったそうですね。	Your daughter passed the examination, I hear.		
+286	おつり	おつり	change from purchase; balance	n		１ドルでおつりがありますか。	Have you got change for a dollar?		
+287	落す	おとす	to drop	v5s; vt		リストから私の名を落とさないで下さい。	Don't take my name off your list.		
+288	思い出す	おもいだす	to remember	v5s; vt		あなたを見るとお兄さんを思い出します。	You remind me of your brother.	この写真を見ると、私は必ず子供のころを思い出す。	이 사진을 보면, 나는 반드시 어렸을 때를 기억한다.
+289	泳ぎ方	およぎかた	way of swimming	n		君に泳ぎ方を教えよう。	I'll tell you how to swim.	彼は泳ぎに行こうと勧めた。	그는 수영하러 가자고 권했다.
+290	お礼	おれい	expression of gratitude	n		息子に成り代わってお礼を申し上げます。	I thank you on behalf of my son.		
+291	会議室	かいぎしつ	meeting room	n		クラブの会員は会議室に集まった。	The club members assembled in the meeting room.	会議は明日開かれる。	회의는 내일 열린다.
+292	ガソリンスタンド	ガソリンスタンド	petrol station	n		この辺にガソリンスタンドはありますか。	Is there a gas station around here?		
+293	かっこう	かっこう	appearance	n		とても見られたかっこうじゃないよ。	You're not fit to be seen.		
+294	かまう	かまう	to mind	v5u; vi		どうか私にかまわないでください。	Please don't mind me.	時をつかまえろ！	시간을 잡아라!
+295	彼ら	かれら	they	pn		彼らは二度と会うことはなかった。	They would never meet again.	彼らは俳優です。	그들은 배우입니다.
+296	看護婦	かんごふ	female nurse	n		なぜ看護婦になりたいのですか。	Why do you want to be a nurse?	彼女は看護師になった。	그녀는 간호사가 됐어요.
+297	くれる	くれる	to give	v1-s; vt		友達がはがきをくれるように私に頼んだ。	A friend of mine asked me to send her a postcard.	開けてくれ。	열어줘.
+298	けがする	けがする	to injure	n; vs; vt; vi		特定の食べ物を食べた後に、胸やけがするのですか？	Do you get heartburn after eating certain foods?		
+299	けんかする	けんかする	to quarrel	n; vs; vi		ケンとけんかしたのか。	Did you have a fight with Ken?		
+300	研究室	けんきゅうしつ	study room; laboratory	n		私たちはその研究室を利用した。	We have made use of the laboratory.	私達はその植物を数週間詳しく研究した。	우리는 그 식물을 몇 주 동안 자세하게 연구했다.
+301	高校生	こうこうせい	high school student	n		私はアメリカの高校生と文通をしている。	I am corresponding with an American high school student.	私たちは１８歳で高校を卒業する。	우리는 18살에 고등학교를 졸업합니다.
+302	高等学校	こうとうがっこう	high school	n		彼は高等学校の生徒ではありません。	He is not a high school student.	メアリーはカトリック系の高等学校へ行きました。	메리는 가톨릭계 고등학교에 갔다.
+303	公務員	こうむいん	government worker	n		私は公務員です。	I'm a government worker.		
+304	御主人	ごしゅじん	(honorable) your husband	n		あなたのご主人は食事にうるさいのかな？	Is your husband a picky eater?		
+305	ごちそう	ごちそう	a feast	n		なんとすばらしいごちそうでしょう。	What a splendid dinner!	美味しいコーヒー、ごちそうさまでした。	맛있는 커피, 잘 먹었습니다.
+306	このあいだ	このあいだ	the other day; recently	n; adv		この間の台風で、時速２００キロの風が吹きました。	In the last typhoon, the wind blew at over 200 kilometers per hour!		
+307	ごらんになる	ごらんになる	(respectful) to see	exp; v5r		私たちの新居をご覧になってはいかがですか。	What do you think of our new abode?		
+308	これから	これから	after this	exp		これからも人生を楽しんでください。	Wishing you an enjoyable future.	楽しいのはこれからだと思うよ。	즐거운 것은 지금부터다라고 생각해.
+309	壊す	こわす	to break	v5s; vt		その事が彼のすべての夢を壊した。	That destroyed all his dreams.		
+310	再来月	さらいげつ	the month after next	n; adv		再来月は１２月だ。	The month after next is December.		
+311	再来週	さらいしゅう	the week after next	n; adv		再来週の木曜日はどう？	How about two weeks from Thursday?		
+312	しかる	しかる	a particular	adj-pn		親は子供が悪さをするのをしかる。	Parents punish their children for misbehavior.	待つしかない。	기다릴 수 밖에 없다.
+313	事務所	じむしょ	office	n		私のおじはこの事務所で働いている。	My uncle works in this office.		
+314	小学校	しょうがっこう	elementary school	n		あなたは小学校に通っているの？	Do you go to an elementary school?	小学校のときから、酸性・アルカリ性という性質をリトマス紙で調べたりしてきていますね。	초등학교 때부터, 산성, 알칼리성이라고 하는 성질을 리트머스지로 조사해오고 있죠.
+315	食料品	しょくりょうひん	groceries	n		あの店では良質の食料品を売っている。	They sell good foods at that shop.	食料品買わなくちゃ。	식료품 사지 않고는 안 된다.
+316	新聞社	しんぶんしゃ	newspaper company	n		どちらの新聞社にお勤めですか。	Which newspaper do you work for?	新聞どこ？	신문 어딨어?
+317	すっと	すっと	straight; all of a sudden	adv; vs		カタツムリがすっと角を出した。	The snail shot out its horns.	今日は天気がすっごく良いね。	오늘은 날씨가 너무 좋네.
+318	すばらしい	すばらしい	wonderful	adj-i		その日は実にすばらしい日だった。	It was a really beautiful day.	東京の夜景はすばらしい。	도쿄는 야경이 끝내줘.
+319	すると	すると	then	conj		するとあなたは幸せでしょう。	Then you will be happy.	勉強する。	공부해요.
+320	それで	それで	because of that	conj		それで、その金はどこから出るんだよ？	And where is the money coming from?	それは何ですか。	그것은 무엇입니까?
+321	それに	それに	moreover	conj		それに、みんなに仲間もできるしね。	And, we get each other's company to boot.	それは何ですか。	그것은 무엇입니까?
+322	それほど	それほど	to that extent	adv		いや、それほど混んでなかったよ。	No, the traffic wasn't too bad.	トムはお金は持っている。だがそれほど幸せというわけではない。	톰은 돈을 가지고 있다. 그러나 그만큼 행복한 것은 아니다.
+323	そんなに	そんなに	so much; like that	adv		でも、そんなに悪くはなかったよ。	Well, it wasn't all that bad.	そんなものだよ。	그런 거야.
+324	大学生	だいがくせい	university student	n		私の兄は大学生です。	My brother is a college student.	兵庫大学に入りました。	효고 대학에 들어갔습니다.
+325	チェックする	チェックする	to check	n; adj-no		私は仕事を一つ終えるごとにリストの上でチェックする。	I check off each task on my list as soon as I complete it.		
+326	中学校	ちゅうがっこう	junior high school; middle school	n		この歌を聞くと私の中学校時代を思い出します。	This song reminds me of my junior high school days.		
+327	駐車場	ちゅうしゃじょう	parking lot	n		駐車場には人ひとり見えなかった。	Not a soul was to be seen in the parking lot.	駐車禁止！	주차 금지!
+328	できるだけ	できるだけ	as much as possible	exp; adv; adj-no		できるだけ多くの本を読みなさい。	Read as many books as you can.	できるだけたくさんの本を読みなさい。	가능한 한 많은 책을 읽으렴.
+329	天気予報	てんきよほう	weather forecast	n		天気予報が当たったよ。	The weather forecast was right.	天気予報が当たったよ。	일기예보가 맞았어.
+330	展覧会	てんらんかい	exhibition	n		私たちは毎年展覧会を開く。	We hold an exhibition every year.		
+331	動物園	どうぶつえん	zoo	n		コンドルは動物園では決して育たない。	Condors have never bred in zoos.	モルモットは社会的動物である。	모르모트는 사회적 동물이다.
+332	とこや	とこや	barber	n		おや、床屋へ行ってきたのだね。	Oh, you've been to the barbershop.	あったかいとこ行こう。	따뜻한 곳에 가자.
+333	直る	なおる	to be fixed; to be repaired	v5r; vi		いったい、いつになったらそのケチは直るの？	When will you ever loosen your purse strings?	彼がショックから立ち直るのに数週間かかった。	그가 충격에서 벗어나는 데는 몇 주 걸렸다.
+334	亡くなる	なくなる	to die	v5r; vi		父が亡くなってから３年になります。	My father has been dead for three years.	彼女は２日前に亡くなった。	그녀는 이틀전에 돌아가셨다.
+335	無くなる	なくなる	to disappear; to get lost	v5r; vi		あなたの青いペンがなくなってしまいました。	I misplaced your blue pen.	お金が無くなってしまった。	난 돈이 다 떨어지고 말았다.
+336	二階建て	にかいだて	two storied	n		私は２階建ての家に住んでいる。	I live in a two story house.		
+337	ねだん	ねだん	price	n		このラジオの値段はいくらですか。	What is the price of this radio?		
+338	ねっしん	ねっしん	enthusiasm	adj-na; n		彼女は熱心に小鳥にえさをやった。	She was eager to feed the birds.		
+339	歯医者	はいしゃ	dentist	n		今日歯医者へ行きました。	Today I went to the dentist's.		
+340	飛行場	ひこうじょう	airport	n		その島の飛行場は、今では草がぼうぼうだ。	The airfield on the island is now covered with weeds.	天気が悪くて飛行機が延着した。	날씨가 나빠서, 비행기가 연착되었다.
+341	久しぶり	ひさしぶり	after a long time	adj-no; adj-na; n		彼女から久しぶりに電話があった。	I had a call from her for the first time in a long time.	こんにちは。お久しぶりです。	안녕하세요. 오랫만입니다.
+342	美術館	びじゅつかん	art gallery	n		このバスは美術館まで行きますか。	Does this bus go to the museum?		
+343	非常に	ひじょうに	extremely	adv		車を運転することは非常に楽しい。	It is a lot of fun to drive a car.	あのヘビは非常に危険なんです。	그 뱀은 매우 위험합니다.
+344	びっくりする	びっくりする	to be surprised	vs; vi; adv		彼はびっくりするほどのアクロバットができる。	He can do the most amazing acrobatics.	洋子はみんながびっくりするような優雅さで踊った。	요코는 모두가 놀랄 만한 우아함으로 춤을 췄다.
+345	ひどい	ひどい	awful	adj-i		この薬はひどい味がする。	This medicine tastes horrible.	ひどい風邪が治った。	독한 감기가 나았다.
+346	降り出す	ふりだす	to start to rain	v5s; vi		その上雨が降り出している。	Besides, it's starting to rain.		
+347	または	または	or; otherwise	conj		紅茶またはコーヒーはいかが？	Would you like some tea or coffee?	また来てね。	다시 와.
+348	間に合う	まにあう	to be in time for	v5u; vi		急げば何とか間に合うと思います。	I think we'll make it if we hurry.	今日、会社間に合った？	오늘, 회사, 시간에 대었나?
+349	湖	みずうみ	lake	n	2550	湖の深さはどのくらいですか。	What is the depth of the lake?		
+350	召し上がる	めしあがる	(polite) to eat	v5r; vt		ここで召し上がりますか、それともお持ち帰りですか。	Is this to eat here, or to go?	何でもご自由に召し上がってください。	먹고 싶은 것들 마음껏 먹어.
+351	もうすぐ	もうすぐ	soon	exp; adv		明るくなってきた。もうすぐ朝だ。	It's getting light. Morning is coming.	もうすぐ晴れてきそうだよ。	이제 곧 맑아질 것 같아.
+352	木綿	もめん	cotton	n		このブラウスは木綿製です。	This blouse is cotton.		
+353	もらう	もらう	to receive	v5u; vt		あさって彼にここへ来てもらうつもりです。	I will have him come here the day after tomorrow.	そうさせてもらいます。	그렇게 하겠습니다.
+354	役に立つ	やくにたつ	to be helpful	exp; v5t		それ以上はお役に立てません。	Beyond that I cannot help you.	役に立つはずだ。	도움이 될 것이다.
+355	止む	やむ	to stop	v5m; vi		雨がちょうど止んだ、出発しよう。	The rain just stopped, so let's leave.		
+356	ワープロ	ワープロ	word processor	n		このワープロをお借りしていいですか。	May I use this word processor?		
+357	沸かす	わかす	to boil; to heat	v5s; vt		お湯を少し沸かしてください。	Boil some water.		
+358	海岸	かいがん	coast	n	2568	このバスは、海岸に行きますか。	Does this bus go to the beach?		
+359	珍しい	めずらしい	rare	adj-i	2573	これは珍しい種類の魚です。	This is a strange kind of fish.		
+360	教育	きょういく	education	n; vs; vt	2574	この世界の教育にはがっかりしてしまう。	Education in this world disappoints me.	この世界の教育にはがっかりしてしまう。	이 세상의 교육이 나를 실망시켜요.
+361	留守	るす	absence	n; vs; vt; vi; adj-no	2591	彼女に留守を頼んで外出しました。	I went on the trip, leaving the house in her care.	留守中にウェストという人から電話があったよ。	부재중에 웨스트라는 사람으로부터 전화가 왔었어.
+362	火事	かじ	fire	n	2615	その火事はおととい発生した。	A fire broke out the day before yesterday.	火事の場合には１１９番すべきです。	화재의 경우에는 119를 불러야 합니다.
+363	お祝い	おいわい	congratulation	n	2653	心からお祝いを申し上げます。	I offer you my hearty congratulations.		
+364	帰り	かえり	return	n	2657	どうして帰りがこんなに遅くなったの。	Why did you come home so late?	お帰りなさい。	잘 다녀왔어요.
+365	国際	こくさい	international	adj-no; n	2675	英語は国際言語である。	English is an international language.	国際女性の日おめでとうございます！	세계 여성의 날을 축하합니다.
+366	翻訳	ほんやく	translation	n; vs; vt	2681	彼女はそれを一語一語翻訳した。	She translated it word for word.	このテキストを日本語からフランス語に翻訳してください。	이 텍스트를 일본어에서 불어로 번역하시오.
+367	ガラス	ガラス	a glass pane	n	2682	ビールびんはガラスでできている。	Beer bottles are made of glass.		
+368	医学	いがく	medical science	n	2690	二人の医者が医学の話をしていた。	Two doctors were talking shop.		
+369	交通	こうつう	traffic; transportation	n; vs	2712	交通に注意しなければいけない。	You must take care driving.		
+370	趣味	しゅみ	hobby	n	2720	趣味については話しましたか？	Did you talk about your hobby?	水泳は私の趣味です。	제 취미는 수영입니다.
+371	申し上げる	もうしあげる	(humble) to say; to tell	v1; vt	2753	お礼の申し上げようもありません。	I can never thank you enough.		
+372	喜ぶ	よろこぶ	to be delighted	v5b; vt; vi	2759	喜んで質問に答えましょう。	I'll be happy to answer your question.	彼らはとても喜ぶでしょう。	그들은 매우 기뻐할 것입니다.
+373	済む	すむ	to finish	v5m; vi	2766	１０時ちょっと前に仕事が済んだ。	We got through the work just before ten.		
+374	下げる	さげる	to hang; to lower; to move back	v1; vt	2832	ラジオの音を下げてくれませんか。	Could you turn down the radio?	俺には高すぎるわぁ。もうちょい値段下げてくれない？	내게는 너무 비싸. 좀 더 가격 낮춰주지 않을래?
+375	用事	ようじ	things to do	n	2843	悪いけどほかに用事があるの。	I'm sorry, I have another engagement.		
+376	ガソリン	ガソリン	petrol	n	2854	この車はあまりガソリンを食わない。	This car is very economical on gas.		
+377	たまに	たまに	occasionally	adv	2868	たまには会いに来て下さい。	Come and see me once in a while.	ご伝言、うけたまわります。	전하실 말씀 있으시면 남겨주세요.
+378	仕方	しかた	method	n	2940	あなたはチェスの仕方を知っていますか。	Do you know how to play chess?		
+379	祖父	そふ	grandfather	n	2965	祖父はステッキがないと歩けない。	My grandfather cannot walk without a stick.	祖父は戦争で負傷した。	우리 할아버지는 전쟁에서 부상당했다.
+380	訪ねる	たずねる	to visit	v1; vt	3024	いつでも私のオフィスを訪ねなさい。	Call at my office at any time.		
+381	建てる	たてる	to build	v1; vt	3031	この寺院は７８０年に建てられた。	This temple dates back to 780.		
+382	下りる	おりる	to get off	v1; vi	3047	一行は、歩いてその山を下りた。	The party walked down the mountain.		
+383	付く	つく	to be attached	v5k; vi	3054	うちの車にはエアコンが付いている。	Our car is equipped with air conditioning.	すぐに追い付くから先に行ってて。	바로 따라갈 테니 먼저 가.
+384	故障	こしょう	to break-down	n; vs; vi	3057	車が故障したので遅れました。	I was late because my car broke down.	クーラーが故障してしまった。	쿨러가 고장났다.
+385	探す	さがす	to look for	v5s; vt	3065	私は貸間を探しているところです。	I'm looking for a room for rent.		
+386	ぜひ	ぜひ	without fail	adv	3093	ぜひパーティーにおいでください。	You must come to the party by all means.	ぜひまたお越しください。	부디 또 들러주세요.
+387	決まる	きまる	to be decided	v5r; vi	3113	いつ始めるのかはまだ決まっていない。	It is still undecided when we will begin.	「トムは会社行きたくねえなあとか思うことないの？」「あるよ。あるに決まってんじゃん」	"""톰은 회사 안 가고 싶다고 생각한 적 없어?"" ""있지. 있는게 당연하잖아."""
+388	笑う	わらう	to laugh; to smile	v5u; vi	3157	しかし、彼はめったに笑いませんでした。	But he did not often smile.		
+389	祈る	いのる	to pray	v5r; vt	3162	早くよくなられるように祈っています。	I hope you'll get well soon.		
+390	うそ	うそ	a lie	n; adj-no	3182	えっ嘘でしょ。	Oh my God, I can't believe this.		
+391	祖母	そぼ	grandmother	n	3200	私は祖母が大好きです。	I love my grandmother very much.	彼がパブロと結婚するつもりだと公に宣言したとき、彼の祖母は心臓が止まりそうになったし、彼の叔母は目玉が飛び出してしまいそうだった。でも彼の妹は鼻高々だった。	그가 파블로와 결혼할 생각이라고 공식적으로 선언했을 때, 그의 할머니는 심장이 멈출 뻔했고, 그의 숙모는 눈알이 튀어나올 것처럼 되었습니다. 그러나 그의 여동생은 기고만장했습니다.
+392	入院	にゅういん	to hospitalise	n; vs; vi	3204	入院しなければいけませんか。	Do I have to stay in the hospital?	入院する必要がありますか。	입원 할 필요가 있습니까?
+393	やはり	やはり	as I thought; absolutely	adv	3205	やっぱり何とかやってのけたね。	You managed it after all.		
+394	続く	つづく	to be continued	v5k; vi	3258	どれくらいこの寒い天気は続きますか。	How long will this cold weather go on?		
+395	毛	け	hair or fur	n	3309	犬の毛はいわばセーターだ。	The dog's hair is, as it were, a sweater.		
+396	釣る	つる	to fish	v5r; vt	3313	思っていたほど魚は釣れなかった。	I could not catch as many fish as I had expected.		
+397	折れる	おれる	to break or be folded	v1; vi	3335	医者は彼の折れた足をついだ。	The doctor set his broken leg.	鼻が折れた。	코가 부러졌다.
+398	部長	ぶちょう	head of a section	n	3407	社長は新しい部長を任命した。	The president appointed a new manager.	部長から記念品を頂きました。	부장님께서 저에게 기념품을 주셨어요.
+399	競争	きょうそう	competition	n; vs; vt; vi	3416	みんなでカブトムシを競争させた。	We raced our beetles.		
+400	比べる	くらべる	to compare	v1; vt	3426	ロンドンはパリに比べると大きい。	London is large, compared with Paris.	１年前に比べれば価格は大きく落ち込んでいる。	1년 전에 비하면 가격은 크게 떨어져 있다.
+401	もっとも	もっとも	extremely	adv	3476	ケンは三人のなかでもっとも速く走ります。	Ken runs fastest of the three.	写真もっと撮ればよかったな。	사진을 더 찍었으면 좋았을 텐데.
+402	盗む	ぬすむ	to steal	v5m; vt	3495	盗まれたお金があきらめられない。	I won't give up on the stolen money.		
+403	校長	こうちょう	headmaster	n	3522	校長が先生の後ろから入ってきた。	The principal came in after the teacher.		
+404	経済	けいざい	finance; economy	n	3578	アメリカはサービス経済の国だ。	The U.S. is a service economy.	経済学を専攻しています。	난 경제학을 전공하고 있어.
+405	港	みなと	harbour	n	3579	その船はいま港にある。	The ship is now in the harbor.		
+406	真ん中	まんなか	middle	n	3592	トラックが道の真ん中に止まっていた。	A truck was standing in the middle of the road.		
+407	屋上	おくじょう	rooftop	n	3640	デパートの屋上にアドバルーンが上がっている。	There is an advertising balloon flying above the department store.		
+408	地震	じしん	earthquake	n	3665	地震のときにはガスを止めなさい。	In case of an earthquake, turn off the gas.	昨日地震があった。	어제 지진이 있었어요.
+409	眠る	ねむる	to sleep	v5r; vi	3867	もし眠るといけないので目覚し時計をセットしなさい。	In case you sleep, set the alarm.	無色の緑の概念が激しく眠る。	무색의 초록색 관념들이 격렬히 잔다.
+410	米	こめ	uncooked rice	n	3874	日本人は米を食べて生きている。	The Japanese live on rice.		
+411	小説	しょうせつ	novel	n	3918	トムは小説を読んでいる。	Tom is reading a novel.	夢は小説家になることです。	제 꿈은 소설가가 되는 것입니다.
+412	すっかり	すっかり	completely	adv; adv-to	3965	私はすっかり息が切れた。	I am completely out of breath.	うるさいなっ！少しの頭痛くらい我慢しろ。余は魔力がすっからかんだ。それもこれも姫のせいだぞ。	시끄럽다! 약간의 두통 정도는 참거라. 이 몸은 마력이 없다. 이것도 저것도 공주의 탓이다.
+413	どんどん	どんどん	more and more	adv; adv-to	3987	だれかがドアをどんどんたたいている。	Someone is battering at the door.		
+414	草	くさ	grass	n	4015	月には草が生えて無い。	There is no grass on the moon.		
+415	文化	ぶんか	culture	n	4020	私はギリシャ文化について学んだ。	I learned about Greek culture.		
+416	割れる	われる	to break	v1; vi	4035	プラスチックは割れにくい。	Plastic does not break easily.		
+417	数学	すうがく	mathematics; arithmetic	n	4050	私にはこの数学の問題はわからない。	This math problem beats me.	数学は独自の言語だ。	수학은 독자적인 언어이다.
+418	以下	いか	less than	n-suf	4076	それは千円以下では買えません。	You can't buy it under 1,000 yen.	以下の文章を読んで下さい。	아래의 문장을 읽어주십시오.
+419	アフリカ	アフリカ	Africa	n	4130	アフリカにはたくさんの自然がある。	Africa has a lot of nature.	彼はアフリカで生まれた。	그는 아프리카에서 태어났다.
+420	適当	てきとう	suitability	adj-na; n	4257	あなたが適当だと思う本なら何でも読みなさい。	Read whatever books you think proper.		
+421	産業	さんぎょう	industry	n	4286	日本は産業国である。	Japan is an industrial country.		
+422	おっしゃる	おっしゃる	(respectful) to say	v5aru; vt	4340	全くおっしゃる通りです。	You are absolutely right.		
+423	送る	おくる	to send	v5r; vt	4381	この手紙を日本に送ってくれませんか。	Could you send this letter to Japan?		
+424	棚	たな	shelves	n	4394	その本はいちばん上の棚に置いてください。	Put the book on the top shelf.		
+425	日記	にっき	journal	n	4423	彼女はそのことを日記に書いた。	She wrote about it in her diary.	天気が悪くてもひとつくらい良いことはある。日記を書いていられるし、スペイン語のレベルアップもできそうだ。	날씨가 나빠도 장점 하나는 있지, 일기쓰기를 계속할 수 있고 스페인어 수준도 끌어올릴 수 있겠다.
+426	出席	しゅっせき	to attend	n; vs; vi	4428	出席できないんですか。どうして？	You can't attend? Why not?		
+427	雲	くも	cloud	n	4429	雲がだんだん黒くなっています。	The clouds are getting darker.		
+428	細かい	こまかい	small; fine	adj-i	4481	彼はひどく金に細かい。	He is very careful with his money.	細かいお金持ってない？	잔돈 가지고 있지 않아?
+429	習慣	しゅうかん	custom; manners	n	4498	その習慣は中国で始まった。	The custom originated in China.		
+430	下着	したぎ	underwear	n	4550	私は新しい下着が気に入っている。	I'm pleased with my new underwear.		
+431	アジア	アジア	Asia	n	4594	ヨーロッパはアジアより人口が少ない。	Europe has a smaller population than Asia.		
+432	アルコール	アルコール	alcohol	n	4625	このビールはアルコール分が５％だ。	This beer contains 5% alcohol.	その報告書から１０代の多くの子供がアルコール中毒にかかっていることが分かった。	그 보고서를 통해 10대의 많은 아이들이 알코올 중독에 걸려있다는 것을 알게 되었다.
+433	都	と	metropolitan	n	4637	「都庁舎でもらえますよ」と係員が付け加えた。	"""You can get it at the Metropolitan Government Office,"" the clerk added."		
+434	サンドイッチ	サンドイッチ	sandwich	n	4642	サンドイッチだったらどれくらいかかりますか。	How long would a sandwich take?	あなたのサンドイッチをください。	당신의 샌드위치를 주세요.
+435	ピアノ	ピアノ	piano	n	4713	ナンシーはピアノを持っています。	Nancy has a piano.	私はピアノが弾けます。	저는 피아노를 칠 수 있어요.
+436	いじめる	いじめる	to tease	v1; vt	4763	彼はよく友人をいじめたものだ。	He used to bully his friends.		
+437	変わる	かわる	to change	v5r; vi	4789	私のE-mailアドレスが変わりました。	My e-mail address has been changed.	彼女は気が変わりそうだ。	그녀가 마음을 바꿀 것 같다.
+438	田舎	いなか	countryside	n	4791	去年の夏、父の田舎に行きました。	I visited my father's hometown last summer.	田舎には娯楽がない。	시골에는 즐길 거리가 없다.
+439	レポート	レポート	report	n; vs; vt	4797	このレポートを終えたら休もうと思う。	On finishing this report, I will rest.		
+440	焼ける	やける	to burn; to be roasted	v1; vi	4805	このトーストはよく焼けていません。	This toast is not done enough.	ホットケーキうまく焼けて嬉しい。	핫케이크가 맛있게 구워져 기뻐
+441	ソフト	ソフト	soft	adj-na; adj-no	4810	スミスさんはソフトな語り口の人物です。	Mr Smith is a softly-spoken person.	このソフト、どうやったらアップデートできるの？	이 소프트웨어 어떻게 하면 업데이트할 수 있어?
+442	大体	だいたい	generally	adv	4848	それらはだいたい同じくらいの大きさだ。	They are more or less the same size.		
+443	退院	たいいん	to leave hospital	n; vs; vi	5075	彼女は１時間前に退院しました。	She left the hospital an hour ago.		
+444	郊外	こうがい	outskirts	n	5081	私は東京の郊外に住んでいる。	I live on the outskirts of Tokyo.		
+445	おもちゃ	おもちゃ	toy	n	5100	あのおもちゃは木で作られている。	That toy is made of wood.		
+446	たいてい	たいてい	usually	adj-na; adv; n	5117	夜はたいていの人が寝る時である。	Night is when most people go to bed.		
+447	字	じ	character	n	5130	君は字がうまいね。	You write very neatly, don't you?		
+448	手袋	てぶくろ	glove	n	5183	この手袋は両方がそろっていない。	Their gloves are not in pairs.		
+449	人口	じんこう	population	n	5196	インドの人口はどのくらいですか。	What is the population of India?		
+450	葉	は	leaf	n	5352	こちらには大きなハスの葉があります。	We have very big lotus leaves.		
+451	集まる	あつまる	to gather	v5r; vi	5442	通りに人がたくさん集まっている。	There is a crowd of people on the street.		
+452	堅い	かたい	hard	adj-i	5465	ダイヤモンドは本来堅いものだ。	Diamond is essentially hard.		
+453	ステーキ	ステーキ	steak	n	5474	ステーキの焼き方はどうなさいますか。	How would you like your steak?	ステーキの焼き具合は、いかがいたしましょうか。	스테이크 굽기는 어떻게 해드릴까요?
+454	まじめ	まじめ	serious	adj-na; n	5541	サムは仕事に関してまじめです。	Sam is serious about his work.	彼は初めてヘルスクラブに行ったときには一所懸命だったが、何ヶ月後、まじめな態度を失って、結局、ヘルスクラブを辞めた。	그는 처음 헬스클럽에 갔을때는 정말 열심이었지만 몇 달이 지난후 게으름을 피우기 시작했고 결국 관두고 말았다.
+455	課長	かちょう	section manager	n	5550	私は課長に任命された。	I was appointed to section chief.		
+456	大分	だいぶ	greatly	adv	5583	だいぶ痛みがなくなりました。	The pain has mostly gone away.		
+457	におい	におい	a smell	n	5605	あの花はにおいが強いな。	That flower has a powerful smell.	犬はにおいに敏感だ。	개는 냄새에 민감하다.
+458	急ぐ	いそぐ	to hurry	v5g; vi; vt	5627	ニックはバスに間に合うように急いだ。	Nick hurried to catch the bus.		
+459	回る	まわる	to go around	v5r; vi	5657	私たちは車の後ろに回って押した。	We got behind the car and pushed.		
+460	糸	いと	thread	n; n-suf	5663	長い糸はからまりやすい。	A long thread is easily entangled.		
+461	踏む	ふむ	to step on	v5m; vt	5727	足を踏むつもりはなかったのです。	I didn't mean to step on your foot.		
+462	引き出し	ひきだし	drawer; drawing out	n	5733	きれいなタオルは引き出しにありますよ。	The clean towels are in the drawer.		
+463	引き出す	ひきだす	to withdraw	v5s; vt	5733	彼のいいところを引き出すようにしなさい。	Try to bring out the best in him.		
+464	踊り	おどり	a dance	n	5790	私のガールフレンドは踊りがうまい。	My girlfriend is a good dancer.	踊り続けて。	계속 춤 춰.
+465	踊る	おどる	to dance	v5r; vi	5790	なぜ彼と踊らなかったの？	Why didn't you dance with him?	彼女は踊るのが上手だと私は思います。	저는 그녀가 춤을 잘 춘다고 생각합니다.
+466	生産	せいさん	to produce	n; vs; vt	5799	この工場はＣＤプレーヤーを生産している。	This factory produces CD players.		
+467	柔らかい	やわらかい	soft	adj-i	5852	風が柔らかく木立に触れた。	The wind gently kissed the trees.		
+468	揺れる	ゆれる	to shake; to sway	v1; vi	5908	大地が揺れるのが感じられた。	The earth was felt to tremble.	「トム地震のとき起きてた？」「え、地震あったの？」「うん、1時半すぎ。けっこう大きな揺れだったよ」「まじか。普通に爆睡してたわ」	"""톰 지진 때 깨 있었어?"" ""뭐, 지진이 있었어?"" ""응, 1시 반 넘어서. 꽤 크게 흔들렸어."" ""진짜? 평범하게 숙면 중이었어."""
+469	痩せる	やせる	to become thin	v1; vi	5921	彼女はレールのように痩せていた。	She was as thin as a rail.		
+470	季節	きせつ	season	n; adj-no	5930	秋は読書にもってこいの季節だ。	Fall is a good season for reading.	桜の季節が大好きです。	벚꽃의 계절을 정말 좋아합니다.
+471	参る	まいる	(humble) to go; to come	v5r; vi	5968	ジョーはその女の子にすっかり参っている。	Joe's nuts about the girl.		
+472	行う	おこなう	to do	v5u; vt	5974	いう事と行う事はまったく別だ。	To say is one thing, and to do quite another.		
+473	会場	かいじょう	assembly hall or meeting place	n	6010	私たちは会場の後ろに座った。	We sat at the back of the hall.		
+474	払う	はらう	to pay	v5u; vt	6047	ジャックはブラシで上着のほこりを払った。	Jack brushed the dust off his coat.	今日は、私が払うわ。	오늘은 내가 낼게.
+475	講義	こうぎ	lecture	n; vs; vt	6088	その講義へ来た人はほとんどいなかった。	Few people came to the lecture.		
+476	隅	すみ	corner; nook	n; n-suf	6093	隅のテーブルがいいのですが。	Could we have a table in the corner?		
+477	砂	すな	sand	n	6114	後ろ足で砂をかけるようなことをした。	He raised his heel against me.		
+478	家内	かない	housewife	n	6142	家内は海外旅行中で、よく電話をかけてくる。	My wife often rings me up, while she travels abroad.		
+479	ちっとも	ちっとも	not at all (used with a negative verb)	adv	6230	最近エリザベスにちっともあってない。	I have not seen anything of Elizabeth lately.		
+480	飾る	かざる	to decorate	v5r; vt	6239	その広間は日本画で飾られていた。	The hall was decorated with Japanese paintings.		
+481	お祭り	おまつり	festival	n	6281	お祭りでロブスターを食べました。	I ate lobster at the festival.		
+482	戻る	もどる	to turn back	v5r; vi	6313	やってしまったことは元に戻らない。	What is done cannot be undone.	彼がいつ戻るか確かではない。	그가 언제 돌아올지 확실하지 않다.
+483	ぜんぜん	ぜんぜん	not entirely (used in a negative sentence)	adv	6329	私はビールはぜんぜん飲みません。	I never touch beer.		
+484	向かう	むかう	to face	v5u; vi	6350	あなたは何処へ向かっているのですか。	Where are you bound for?	彼は快方に向かっている。	그는 차도가 있는 쪽으로 향하고 있다.
+485	とうとう	とうとう	finally; after all	adv	6375	トムはとうとうタバコをやめた。	Tom finally gave up smoking.		
+486	昼間	ひるま	daytime; during the day	n; adv	6470	フクロウは昼間は目が見えない。	Owls cannot see in the daytime.		
+487	冷える	ひえる	to grow cold	v1; vi	6498	冷えたビールがあればたまらないね。	A cold beer would hit the spot!	今日はずいぶん冷えるのに。	오늘은 꽤 쌀쌀한 걸.
+488	味噌	みそ	bean paste	n	6512	この電子辞書は携帯しやすいところが味噌です。	The good thing about this electronic dictionary is that it's easy to carry.	朝食にお味噌汁は欠かせません。	아침 식사에 된장국은 빠질 수 없습니다.
+489	打つ	うつ	to hit	v5t; vt	6525	８時をちょうど打ちましたね。	It has just struck eight, hasn't it?		
+490	景色	けしき	scene; landscape	n	6556	それは私が見たことのない景色だ。	The landscape is unfamiliar to me.		
+491	丁寧	ていねい	polite	adj-na; n	6585	漢字を書くときは点やはらいに気をつけて、なるべく早くていねいに書きましょう。	When drawing kanji be careful of dots and sweeps, write as carefully and quickly as possible.		
+492	支度	したく	to prepare	n; vs; vt	6641	すぐに旅の支度をしなさい。	Get ready for the trip at once.		
+493	枝	えだ	branch; twig	n	6662	たくさんの鳥が枝にとまっている。	Many birds are on the branch.		
+494	お宅	おたく	(polite) your house	n	6688	近いうちにお宅にうかがいます。	We'll visit you one of these days.	お宅に日本車があるなんて驚きですよ。	댁에 일본 차가 있다니 놀랐습니다.
+495	つき	つき	moon	n	6738	まもなく月旅行が出来るだろう。	It won't be long before we can travel to the moon.	いい思いつきね。	좋은 생각이네.
+496	カーテン	カーテン	curtain	n	6774	カーテンが風になびいた。	The curtains blew in the wind.	緑の絨毯ではこの青いカーテンと調和しないだろう。	녹색 융단으로는 이 파란 커튼과 조화하지 않겠지.
+497	スーツケース	スーツケース	suitcase	n	6813	私は彼にスーツケースを運ばせた。	I made him carry the suitcase.		
+498	暮れる	くれる	to get dark; to come to an end	v1; vi	6822	知らぬ間に日はとっぷりと暮れていた。	Night had completely fallen before we knew.	夕暮れ時、空は紫色の光に染まっています。	해질 무렵, 하늘이 보랏빛으로 물들어 있습니다.
+499	お見舞い	おみまい	calling on someone who is ill; enquiry	n	6826	彼女のお見舞いに行こうよ。	Why don't we go and see her in the hospital?		
+500	拝見	はいけん	(humble) to look at	n; vs; vt	6842	パスポートを拝見できますか。	May I see your passport, please?		
+501	お土産	おみやげ	souvenir	n	6849	これは北海道からのお土産です。	This is a souvenir from Hokkaido.		
+502	のど	のど	throat	n	6913	のどがヒリヒリします。	My throat burns.	のどが渇いた。	난 목이 마르다.
+503	サラダ	サラダ	salad	n	6997	もう少しサラダはいかがですか。	Would you like some more salad?	かしこまりました。サラダバーはあちらです。	알겠습니다. 샐러드 바는 저쪽입니다.
+504	小鳥	ことり	small bird	n	7043	小鳥たちはたのしそうにさえずっています。	The birds are singing merrily.		
+505	引っ越す	ひっこす	to move house	v5s; vi	7076	去年の秋、私たちはニューヨークに引っ越した。	We moved to New York last fall.	彼は私の引っ越しを手伝ってくれた。	그는 내 이사를 도와줬다.
+506	受付	うけつけ	receipt	n; vs; vt; vi	7083	受付で入院の手続きをしてください。	You have to fill out an application for admission to the hospital at the front desk.		
+507	差し上げる	さしあげる	(polite) to give	v1; vt	7098	飲み物を差し上げましょうか。	May I offer you a drink?	私の本、差し上げますよ。	제 책, 드릴게요.
+508	店員	てんいん	shop assistant	n	7120	店員はその荷物にラベルをつけた。	The clerk labeled the baggage.		
+509	入学	にゅうがく	to enter school or university	n; vs; vi	7167	私はこの学校に２年前に入学した。	I entered this school two years ago.		
+510	コンサート	コンサート	concert	n	7237	コンサートはどうだった？	How did you enjoy the concert?	トムは今日の夕方コンサートに行きます。	톰은 오늘 저녁 콘서트에 갑니다.
+511	レジ	レジ	register	n	7241	レジはどこですか。	Where's the checkout counter?	レジ袋はたたんでバッグに入れておきます。	비닐봉투는 접어서 가방에 넣어 두고 있습니다.
+512	なるべく	なるべく	as much as possible	adv	7261	なるべく安いほうがいいです。	I would like the least expensive one.		
+513	湯	ゆ	hot water	n	7329	いい湯だなあ。	Ah, this hot water's good!		
+514	苦い	にがい	bitter	adj-i	7528	このコーヒーは苦い味がする。	This coffee tastes bitter.		
+515	電灯	でんとう	electric light	n	7542	ルーシーは電灯のスイッチをつけた。	Lucy turned on the light switch.		
+516	漫画	まんが	comic	n	7566	仕事中に漫画の本を読むのはやめること。	Stop reading comic books while working.	この漫画は知っていますか？	이 만화 아세요?
+517	貿易	ぼうえき	trade	n; vs; vi	7703	日本は貿易に頼っている。	Japan depends on foreign trade.		
+518	工業	こうぎょう	the manufacturing industry	n	7714	７月の工業生産は急増した。	Industrial production rose sharply in July.		
+519	スクリーン	スクリーン	screen	n	7863	それらの単語は彼のコンピューター・スクリーンに現れたのだった。	The words would appear on his computer screen.		
+520	先輩	せんぱい	senior	n; suf	7875	彼は仕事の上では私の先輩だ。	He has more experience on the job than I.		
+521	水道	すいどう	water supply	n	7911	昨日水道を止められた。	The water was cut off yesterday.	昨日水道を止められた。	어제 수도가 끊겼다.
+522	忘れ物	わすれもの	lost article	n	8060	今日忘れ物をした。	I left behind something today.	忘れ物ない？	잃어버린 거 없어?
+523	植える	うえる	to plant; to grow	v1; vt	8161	私は庭にバラを植えた。	I planted roses in the garden.		
+524	テキスト	テキスト	text; text book	n	8232	このテキストは初心者向きにできている。	This text is aimed at beginners.	このテキストを日本語からフランス語に翻訳してください。	이 텍스트를 일본어에서 불어로 번역하시오.
+525	パート	パート	part time	adj-no; n	8317	ごめんね。明日は朝からパートがあるのよ。	Sorry, I have a part-time job starting tomorrow morning.	パーフェクト！	퍼펙트해!
+526	発音	はつおん	pronunciation	n; vs; vt	8485	あなたのお名前はどのように発音するのですか。	How do you pronounce your name?	発音悪くてごめん。	발음이 나빠서 미안해.
+527	空く	あく	to open; to become empty	v5k; vi	8491	放課後は空いてますか？	Are you free after school?		
+528	水泳	すいえい	swimming	n; vs; vi	8492	水泳が私の楽しみの１つです。	Swimming is one thing I enjoy.	水泳は私の趣味です。	제 취미는 수영입니다.
+529	答	こたえ	response	n	8552	それの正しいこたえを教えてくれ。	Tell me the right answer to it.		
+530	寺	てら	temple	n	8653	以前はちょうどここにお寺があった。	There used to be a temple right here.		
+531	急行	きゅうこう	speedy; express	n	8808	急行の料金は幾らですか。	How much is the express?		
+532	ごみ	ごみ	rubbish	n	8825	毎週月曜日にゴミを集めにきます。	They collect our garbage every Monday.	人ごみは大嫌い。	사람 많은 게 싫어요.
+533	林	はやし	woods; forester	n	8957	林に竹が目立つ。	Bamboo stands out in the woods.		
+534	電報	でんぽう	telegram	n	9007	私は、彼女から電報を受け取った。	I received a telegram from her.		
+535	テニス	テニス	tennis	n	9147	１日中テニスをしていたのだから。	He was playing tennis all day.	毎週月曜日はテニスをします。	매주 월요일은 테니스를 합니다.
+536	乗り物	のりもの	vehicle	n	9300	乗り物は子供向けである。	Rides in the cars are for kids.	電車を乗り間違えた。	전차를 잘못 탔다.
+537	文学	ぶんがく	literature	n	9390	彼女はスペイン文学に明るいです。	She is well versed in Spanish literature.		
+538	乗り換える	のりかえる	to change between buses or trains	v1; vt	9404	東京駅で列車を乗り換えなさい。	Change trains at Tokyo Station.		
+539	開く	ひらく	to open an event	v5k; vi; vt	9415	庭のバラの木のつぼみが少しずつ開き始める。	Little by little, the buds on the rosebush in my garden begin to open.		
+540	見物	けんぶつ	sightseeing	n; vs; vt	9456	どこを見物すればいいでしょうか。	What should I see?		
+541	取り替える	とりかえる	to exchange	v1; vt	9482	これを青いのと取り替えてください。	Please change this for a blue one.		
+542	浅い	あさい	shallow; superficial	adj-i	9530	この川はあそこで浅くなっている。	This river becomes shallow at that point.		
+543	すく	すく	to become empty	v5k; vi	9637	どの車両がすいていますか。	Which car is less crowded?	弟は超重要人物だ。すくなくとも奴はそう思っている。	남동생은 매우 중요한 인물이야. 적어도 그 녀석은 그렇게 생각하고 있어.
+544	輸入	ゆにゅう	to import	n; vs; vt	9817	これはドイツから輸入した車です。	This is a car imported from Germany.	私たちはブラジルからコーヒーを輸入しているんです。	우리는 브라질에서 커피를 수입한다.
+545	漬ける	つける	to soak; to pickle	v1; vt	9851	彼はスプーンをスープの中につけた。	He dipped his spoon into the soup.		
+546	ひげ	ひげ	beard	n	9874	お父さんがバスルームでひげを剃っている。	Dad is shaving in the bathroom.		
+547	選ぶ	えらぶ	to choose	v5b; vt	10020	これとあれの中から選んで下さい。	Choose between this and that.	彼はペンを指で転がしながら、どう言葉を選ぶべきか迷っているようだった。	그는 손가락으로 펜을 돌리며, 어떻게 말해야 좋을 지 고민하는 듯 보였다.
+548	じゃま	じゃま	hindrance; intrusion	n; adj-na; vs; vt	10714	その車がじゃまです。動かしてください。	The car is in the way. Please move it.	じゃあね！	안녕!
+549	包む	つつむ	to wrap	v5m; vt	10734	プレゼント用に包んでもらえますか。	Can you gift-wrap this, please?		
+550	焼く	やく	to bake; to grill	v5k; vt	10860	この夏はこんがり焼こうと思います。	I am going to try to get a good tan.		
+551	坂	さか	slope; hill	n	11474	私は何度も転びながら、坂を下っていった。	I went down the slope, falling again and again.		
+552	運ぶ	はこぶ	to transport	v5b; vt	11505	仕事はすらすらと運んだ。	The work progressed smoothly.		
+553	ジャム	ジャム	jam	n	11511	イチゴはジャムに作られる。	Strawberries are made into jam.	ジャンプして！	점프해.
+554	暖房	だんぼう	heating	n; vs; vt	11579	お宅の暖房はどのようにしていますか。	How do you heat the house?		
+555	汽車	きしゃ	steam train	n	11750	汽車はまだ着きません。	The train has not arrived yet.		
+556	上がる	あがる	to rise	v5r; vi	11812	車のバッテリーが上がってるよ。	The car battery is dead.	何でもご自由に召し上がってください。	먹고 싶은 것들 마음껏 먹어.
+557	寝坊	ねぼう	sleeping in late	n; vs; vi; adj-na; adj-no	12058	彼はときどき寝坊する。	He sometimes sleeps in.	朝寝坊して、危うく遅刻するところだったよ。	아침에 늦잠을 자서 하마터면 지각할 뻔했어.
+558	ファックス	ファックス	fax	n; vs; vt	12135	ＦＡＸで地図を送っていただけませんか。	Could you send me a map by facsimile?		
+559	地理	ちり	geography	n	12326	私はこの町の地理をよく知っている。	I am familiar with the geography of this town.		
+560	復習	ふくしゅう	revision	n; vs; vt	12385	その課の復習をしましたか。	Have you gone over the lesson?		
+561	塗る	ぬる	to paint; to plaster	v5r; vt	12629	ジョンがドアにペンキを塗っていた。	John has been painting the door.		
+562	鳴る	なる	to sound	v5r; vi	12688	電話が鳴ったらただちに出なさい。	When the telephone rings, you must answer right away.	ちょうどその時、電話の鳴る音が聞こえた。	마침 그때, 전화벨이 울리는 게 들렸다.
+563	寄る	よる	to visit	v5r; vi	13393	ちょっと寄って行きませんか。	Won't you come in for a moment?		
+564	直す	なおす	to fix; to repair	v5s; vt	13480	あなたの時計は明日までには直しておきますよ。	I will have repaired your watch by tomorrow.		
+565	下宿	げしゅく	lodging	n; vs; vi	13481	彼女は学生を下宿させている。	She boards students.		
+566	アルバイト	アルバイト	part-time job	n; vs; vi	13846				
+567	込む	こむ	to be crowded	v5m; vi	13972	今晩は列車がとても込んでいる。	The train is very crowded this evening.	日本でのツイッター人気の理由の一つは日本語という言語の特性にある。表意文字を使う日本語は、中国語には敵わないものの、他の多くの言語に比べて140字に多くの内容を盛り込むことができる。ちなみにこの例文の日本語版はちょうど140字で書かれているのだが、他の言語では何字になるだろうか？	일본에서 트위터가 인기 있는 이유 중 하나는 일본어라는 언어의 특성에 있다. 표의문자를 쓰는 일본어는 중국어에는 비할 바가 못되지만, 다른 많은 언어들과 비교하면 140자 안에 많은 내용을 담을 수 있다. 덧붙여서 말하면 이 일본어 버전의 예문은 마침 140자로 쓰여 있는데, 다른 언어라면 몇 글자가 될 것일까?
+568	布団	ふとん	Japanese bedding; futon	n	14036	布団をたたみなさい。	Fold up your bedding.	少なくとも週に２回は布団を干します。	적어도 주2회는 이불을 넙니다.
+569	畳	たたみ	Japanese straw mat	n	14065	彼は畳の上に大の字になった。	He lay on the mat at full length.		
+570	写す	うつす	to copy or photograph	v5s; vt	14149	その写真は空から写されたものである。	The picture was taken from the air.		
+571	一度	いちど	once	n; adv	14304	人間はこの世に一度しか生きない。	One lives but once in the world.	もう一度チャンスをくれ。	한 번 더 기회를 줘.
+572	オートバイ	オートバイ	motorcycle	n	14393	オートバイに乗るのは楽しい。	It's fun to ride a motorcycle.		
+573	舟	ふね	ship	n	14631	船は３時に出ることになっている。	The ship is sailing at three.		
+574	ほめる	ほめる	to praise	v1; vt	14860	ヘレンはみんなにほめられて顔を赤くした。	Helen blushed at their praise.		
+575	合う	あう	to match	v5u; vi	14964	このチョッキは前が合わない。	This waistcoat won't meet at the front.	あのドレスは彼女によく似合う。	그 드레스는 그녀에게 잘 어울린다.
+576	割合	わりあい	rate; ratio; percentage	n	15036	クラスの女生徒の男生徒に対する割合は３対２だ。	The proportion of girls to boys in our class is three to two.		
+577	サンダル	サンダル	sandal	n	15184	あんな底の厚いサンダル履いてたら、転んで捻挫しちゃうぞ。	You're going to fall and sprain your ankle wearing sandals with such huge platforms.		
+578	不便	ふべん	inconvenience	n; adj-na	15864	もし電話がなければ、不便だろう。	Without telephones, it would be inconvenient.		
+579	絹	きぬ	silk	n	16077	この美しいドレスは絹で出来ている。	This beautiful dress is made of silk.		
+580	品物	しなもの	goods	n	16239	これらの品物は非売品です。	These articles are not for sale.		
+581	だから	だから	so; therefore	conj	16377	１日中テニスをしていたのだから。	He was playing tennis all day.	何だか疲れました。	뭔가 지쳤습니다.
+582	昼休み	ひるやすみ	noon break	n; adv	16624	お昼休みは、１時間です。	Lunch break is an hour long.		
+583	西洋	せいよう	western countries	n	16703	それらは西洋の風呂よりずっといいです。	They are much better than Western baths.		
+584	アクセサリー	アクセサリー	accessory	n	16732	この服にはどんなアクセサリーを付けるの？	What sort of jewelry are you going to wear with this dress?		
+585	輸出	ゆしゅつ	to export	n; vs; vt	16738	ドル安は輸出にはずみをつけています。	The cheap dollar is charging up exports.		
+586	泊まる	とまる	to lodge at	v5r; vi	17017	私は先週おじの家に泊まりました。	I stayed with my uncle last week.		
+587	沸く	わく	to boil; to grow hot; to get excited	v5k; vi	17162	市の産業はみんな好景気に沸いている。	All the industries in the city are booming.		
+588	売り場	うりば	place where things are sold	n	17359	スナック売り場は、どこですか。	Where can I buy snacks?		
+589	拾う	ひろう	to pick up; to gather	v5u; vt	17397	ホテルの前で私を車で拾ってください。	Please pick me up by car in front of the hotel.		
+590	ステレオ	ステレオ	stereo	n	17472	私はあの店で新しいステレオを買った。	I got a new stereo at that store.		
+591	台風	たいふう	typhoon	n	17625	台風のため学校が休みになった。	We had no school on account of the typhoon.	かなり多くの家が台風で壊された。	꽤 많은 집이 태풍으로 부서졌다.
+592	足す	たす	to add a number	v5s; vt	17735	６０にするためには１７に何を足せばよいの。	What do you have to add to 17 to get 60?		
+593	移る	うつる	to move house or transfer	v5r; vi	17892	もっとお金があれば大きな家に移れるのにな。	If I had more money, I could move to a bigger house.		
+594	文法	ぶんぽう	grammar	n	18129	文法なんかくそくらえだ。	Grammar be hanged.	ドイツ語の文法に手こずっています。	독일어 문법에 어려움을 겪고 있습니다.
+595	神社	じんじゃ	Shinto shrine	n	18709	京都には多くの神社がある。	There are many shrines in Kyoto.	教科書問題や歴史認識、靖国神社への首相の参拝などで、日中関係に波風が立っている。	교과서 문제나 역사 의식, 야스쿠니 신사로의 수상의 참배 등으로 중일 관계에 풍파가 일고 있다.
+596	ぶどう	ぶどう	grapes	n	19061	私たちはぶどうをたくさん手に入れた。	We got many grapes.		
+597	ハンドバッグ	ハンドバッグ	handbag	n	19433	私のハンドバッグをどうしたの？	What did you do with my purse?		
+598	光る	ひかる	to shine; to glitter	v5r; vi	19684	上部前方で何かが光っている。	Something is flashing up ahead.		
+599	盛ん	さかん	popularity; prosperous	adj-na	19746	日本では英語教育が盛んである。	English education flourishes in Japan.		
+600	特急	とっきゅう	limited express train (faster than an express train)	n	20115	時計がおくれていたので、私は特急にのりそこねた。	As my watch was slow, I missed the special express.		
+601	ぬれる	ぬれる	to get wet	v1; vi	20710	木のおかげで雨にぬれずにすんだ。	The trees kept me out of the rain.		
+602	すり	すり	pickpocket	n	22051	すりは人ごみの中に消えた。	The pickpocket disappeared into the crowd.		
+603	講堂	こうどう	auditorium	n	22066	その教師は講堂に学生を集めた。	The teacher assembled the students in the hall.		
+604	エスカレーター	エスカレーター	escalator	n	22230	上りのエスカレーターはどこですか？	Where's the up-escalator?		
+605	予習	よしゅう	preparation for a lesson	n; vs; vt	22593	予習を始めた方がいいですよ。	You may as well begin to prepare your lessons.		
+606	滑る	すべる	to slide; to slip	v5r; vi	22943	来年はうまく滑れるようになるでしょう。	You will be able to ski well next year.		
+607	アナウンサー	アナウンサー	announcer	n	22980	アナウンサーは早口が出来る。	The announcer can talk rapidly.		
+608	申す	もうす	(humble) to be called; to say	v5s; vt	24523	こちらはスミスと申します。ジョンソンさんはおいででしょうか。	This is Mr Smith speaking. Is Mr Johnson in?		
+609	乾く	かわく	to get dry	v5k; vi	24557	そのぬれたシャツはすぐに乾くだろう。	The wet shirt will soon dry up.		
+610	下がる	さがる	to get down; to descend	v5r; vi	25597	ロープから下がっていなさい。	Stand back from the rope.	お米の質が下がると日本人は死にます。	쌀의 질이 떨어지면 일본인은 죽습니다.
+611	折る	おる	to break or to fold	v5r; vt	25802	その紙を四つ折りにしなさい。	Fold the paper in four.		
+612	噛む	かむ	to bite; to chew	v5m; vt	26018	噛むと痛いですか。	Does it hurt when you chew?		
+613	通う	かよう	to commute	v5u; vi	28188	マイクはバスで学校に通っている。	Mike goes to school by bus.		
+614	冷房	れいぼう	air conditioning	n; vs; vt	29382	冷房が効きすぎているのですが。	How do I fix the air-conditioner?		
+615	着物	きもの	kimono	n	29847	彼女はその着物を着ると変に見える。	She looks odd in those clothes.		
+616	謝る	あやまる	to apologize	v5r; vt; vi	31776	私は彼女に謝らなければならない。	I must make an apology to her.	メアリーはとても頑固で、謝ることを知らない。	메리는 고집불통이라, 사과할 줄을 모른다.
+617	触る	さわる	to touch	v5r; vi; vt	32490	触らずそのままにしておきなさい。	Don't touch it. Leave it as it is.		
+618	押し入れ	おしいれ	closet	n	32774	強盗はその子供を押し入れに閉じ込めた。	The burglar shut the child in the closet.		
+619	消しゴム	けしゴム	eraser	n	32905	ちょっと消しゴムをかしてくれませんか。	Can I borrow your eraser for a moment?		
+620	太る	ふとる	to become fat	v5r; vi	36268	あまり太ったのでカラーの前が合わなかった。	He got so stout that his collar did not meet.		
+621	柔道	じゅうどう	judo	n	37580	柔道では力より技のほうが大切である。	In judo, technique is more important than strength.		
+622	うまい	うまい	delicious	adj-i	39695	それはあまりにもうますぎる話だ。	That's too good a story to be true.	うまい！	맛있어!
+623	旅館	りょかん	Japanese hotel	n	40457	あの旅館は家庭的だ。	The hotel has a homey atmosphere.		
+624	ご存じ	ごぞんじ	knowing; acquaintance	n	41155	シンガポールについてご存じですか。	Do you know about Singapore?		
+625	このごろ	このごろ	these days; nowadays	adv; n	41273	このごろは読書する時間が少しはある。	I have a little time for reading these days.		
+626	辞典	じてん	dictionary	n	42665	私はいつも辞典を３冊手元に置いています。	I always keep three dictionaries at hand.		
+627	治る	なおる	to be cured; to heal	v5r; vi	44814	２週間もすれば自然に治ります。	It will go away by itself in two weeks.	この風邪、治るのに時間がかかりそうだよ。	이번 감기는 나을 때까지 시간이 걸릴 것 같아.
+628	進む	すすむ	to make progress	v5m; vi	46115	英語の勉強は進んでいますか？	How are you getting along with your English study?		
+629	花見	はなみ	cherry-blossom viewing	n; vs	47101	花見ができる春が待ち遠しい。	I can't wait for spring to come so we can sit under the cherry trees.		
+630	見つかる	みつかる	to be discovered	v5r; vi	47355	運悪く仕事が見つからなかった。	He had no luck in finding work.	ところで、あの時なくした傘って見つかったの？	그런데, 그때 잃어버린 우산은 찾았어?

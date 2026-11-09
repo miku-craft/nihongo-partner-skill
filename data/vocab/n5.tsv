@@ -1,0 +1,675 @@
+order	word	reading	meaning_en	pos	freq_rank	ex_ja	ex_en	ex_ja_kor	ex_ko
+1	私	わたし	I; me (わたくし is the humble/formal reading)	pn	23	私は泳げません。	I don't know how to swim.		
+2	何	なん	what	pn	26	学校の前に何本か木が見えます。	You see some trees in front of the school.		
+3	する	する	to do	vs-i	32	ログアウトするんじゃなかったよ。	I shouldn't have logged off.	勉強する。	공부해요.
+4	それ	それ	that	pn	33	わたしはそれを見てぎょっとした。	I was appalled at the sight.	それは何ですか。	그것은 무엇입니까?
+5	あなた	あなた	you	pn	39	ねえあなたたち行かないで。	Don't go, dears.	あなたにキスしたい。	당신에게 키스할래요.
+6	どう	どう	how; in what way	adv	41			どうぞよろしく。	만나서 반갑습니다.
+7	じゃ	じゃ	well then…	conj	47	じゃあ、キーをもらえますか。	Can I have the key now, please?	じゃあね！	안녕!
+8	これ	これ	this	pn	53	これは兄です。かっこいいですね。	This is my brother. Handsome, isn't he?	これトムの？	이거 톰 꺼야?
+9	この	この	this	adj-pn	54	このコップをミルクで満たした。	I filled this glass with milk.	この場所に？	여기서요?
+10	ここ	ここ	here	pn	56			ここよく来るの？	여기 자주 와?
+11	人	ひと	person	n	57	どんな人でもいないよりはましだ。	Anybody would be better than nobody.		
+12	その	その	that	adj-pn	61			その人は医者です。	그는 의사예요.
+13	誰	だれ	who	pn	62	誰がこれをしたのかはわからない。	There is no telling who did this.		
+14	見る	みる	to see; to watch	v1; vt	65	わたしはそれを見てぎょっとした。	I was appalled at the sight.	私は男を見る。	나는 남자를 봐요.
+15	話	はなし	talk; story	n	68	話を聞かせてくれ。	I want a full report though.		
+16	三	さん	three	num	72	二、三デメリットがありますね。	There are a few disadvantages to it.		
+17	もう	もう	already	adv	73	もう～、なにやってんだよ。	Jeez, what're you up to?	もう止めて！	이제 그만해!
+18	できる	できる	to be able to	v1; vi	77	あの二人はどうもできているらしい。	They seem to be in love with each other.	スキーできる？	스키를 탈 수 있어?
+19	今	いま	now	n; adj-no; adv	82	今のアナウンスは何だったのですか。	What did the announcement just say?		
+20	出る	でる	to appear; to leave	v1; vi	86	電話には出なかったからメールしておきました。	He didn't answer the phone, so I left him an email.		
+21	どこ	どこ	where	pn	89	あなたはどこでテレビを見ますか。	Where do you watch television?	新聞どこ？	신문 어딨어?
+22	前	まえ	before	n	97	外へ出る前に靴を磨きなさい。	Shine your shoes before going out.		
+23	中	なか	middle	n	98	テントの中ではなくて外で食べよう。	Let's eat outside instead of in our tents.		
+24	物	もの	thing	n	102	どちらのかばんがあなたの物ですか。	Which bag is yours?		
+25	あの	あの	that over there	adj-pn	103	あのおいしいワインをなぜ飲まないんだい。	Why not try that delicious wine?	あの子、可愛いね。	저 아이 귀엽네.
+26	大丈夫	だいじょうぶ	all right	adj-na	109	いや、大丈夫だ。	No, no, that's okay.	大丈夫、心配するな。	괜찮아, 걱정하지 마.
+27	自分	じぶん	oneself	pn	111	自分でそれをしなければならない。	You must do it for yourself.	お前ら、自分勝手だな。	너희들, 제멋대로구나.
+28	時間	じかん	time	n	113	いつだって読書の時間は見つけられる。	We can always find time for reading.	私は時間がない。	난 시간이 없다.
+29	一	いち	one	num; pref	114	これは東京一のインドレストランです。	This is the best Indian restaurant anywhere in Tokyo.		
+30	なぜ	なぜ	why	adv	115	あなたはなぜ働いているの。	How come you're still working?	なぜ？	왜?
+31	家	いえ	house	n	116	木立の間に家が見える。	I see a house among the trees.		
+32	まだ	まだ	yet; still	adv	118	なすべきことがまだたくさんある。	There still remains much to be done.	卵がまだ熱い。	달걀이 아직 뜨겁다.
+33	ありがとう	ありがとう	Thank you	int	123	はるばる来てくれてありがとう。	It was nice of you to come all the way.	ありがとう！	고마워!
+34	嫌	いや	unpleasant	adj-na	124	毎日うっとうしくていやですね。	Don't you just hate this weather?		
+35	男	おとこ	man	n; n-pref	125	その男とつきあってはいけないよ。	You must have nothing to do with the man.		
+36	年	とし	year	n	128	お年をお聞きしてよろしいでしょうか。	Might I ask your age?		
+37	方	かた	person; way of doing	n	130	こちらはあなたがお話しになるお方です。	This is the man for you to speak to.		
+38	仕事	しごと	job	n; vs; vi	132	仕事をサボったからクビになった。	He got the sack for slacking off at work.	彼は仕事に夢中だ。	그는 업무에 정신이 없다.
+39	手	て	hand	n	133	ここに手のないナベがある。	Here is a pan without handles.		
+40	ちょっと	ちょっと	somewhat	adv	135	ちょっと、そこのきみ！	Hey, you there!	ちょっと待って。	좀 기다려.
+41	いつ	いつ	when	pn	137	いつ旅行においでになりますか。	When will you go on a journey?	いい思いつきね。	좋은 생각이네.
+42	後	あと	afterwards	n; adj-no	140	雨天の後には晴天が来る。	After rain comes fair weather.		
+43	そこ	そこ	that place	pn	142	バスでそこまで２時間かかります。	It takes two hours to go there by bus.	あそこを見て。	저기 봐.
+44	一緒	いっしょ	together	n	143	「ご一緒してもいいですか」「もちろんです」	"""May I go with you?"" ""Of course."""	一緒に勉強しましょう！	함께 공부합시다!
+45	電話	でんわ	telephone	n; vs; vt; vi	144	ブラウンさんから電話のようです。	It's a phone call from a Mr Brown.	電話借りてもいい？	전화기 좀 빌려도 돼?
+46	すぐ	すぐ	immediately; soon; easily; right (near); honest; upright	adv; n	145	すぐわかるところにあるよ。	It's in plain sight.	すぐに戻ります。	곧 돌아올께요.
+47	悪い	わるい	bad	adj-i	146	これは悪い話ではないでしょう？	This isn't an unappealing proposition, is it?	気分が悪い人いる？	기분 안 좋은 사람 있어?
+48	ええ	ええ	yes	int	150	「テニスをしましょうか」「ええ」	"""Let's play tennis."" ""Yes let's."""		
+49	目	め	eye	n	152	彼女はきれいな目をしている。	She has beautiful eyes.		
+50	所	ところ	place	n; adv; suf	153	どんな所でアルバイトできるの。	Where can you get a part-time job?		
+51	車	くるま	car; vehicle	n	155	車のわきの男の子をごらんなさい。	Look at the boy beside the car.		
+52	より	より	than; (used for comparison)	prt	160	もうこれよりほかに手はない。	There's no other way than this now.	愛より尊い物はない。	사랑보다 귀중한 것은 없다.
+53	また	また	again; and	adv	164	ジムもまたパーティーに来ます。	Jim is coming to the party, too.	また来てね。	다시 와.
+54	みんな	みんな	everyone	n; pn; adv	166	女の子はほとんどみんなやさしい。	Almost all girls are kind.	みんなはどこ？	다들 어디야?
+55	欲しい	ほしい	want	adj-i; aux-adj	170	友人はマイカーを欲しがっている。	My friend wants a car of his own.	弟が欲しかった。	남동생을 원했어.
+56	同じ	おなじ	same	adj-f; adj-na	171	この木はあの木とほぼ同じ高さだ。	This tree is about as high as that one.	僕もまったく同じだよ。	나도 완전히 같아.
+57	白	しろ	white	n; adj-no	173	黒に黒をたしても白にはならぬ。	Two blacks do not make a white.		
+58	問題	もんだい	problem	n	174	問題はお金がないということです。	The trouble is that we have no money.	何が問題なの？	무엇이 문제입니까?
+59	こんな	こんな	such	adj-pn	175	こんな本を読んで何になるのか。	What is the good of reading such books?	こんにちは。	안녕하세요.
+60	子供	こども	child	n	178	あなたには何人子供がいますか。	How many children do you have?	子供たちは寝た？	아이들은 자?
+61	名前	なまえ	name	n	180	あなたの名前はリストからはずされた。	Your name was dropped from the list.	私の名前はトムです。	제 이름은 톰입니다.
+62	好き	すき	likeable	adj-na; n	189	あなたのそんなところが好きです。	I like that about you.	今好きな人いる？	지금 좋아하는 사람 있어?
+63	少し	すこし	few	adv	192	少しテレビを見てもいいですか。	Do you mind if I watch TV for a while?	もう少し安くならない？	좀 더 싸게는 안돼?
+64	さあ	さあ	well…	int	194	さあ、パーティーをおしまいにしよう。	Let's break up the party.	さあね。	글쎄.
+65	教える	おしえる	to teach; to tell	v1; vt	197	生年月日を教えてくださいますか？	May I have your birth date?	3年前にトムに教えたんだ。	3 년 전에 톰에게 가르쳤어.
+66	入れる	いれる	to put in	v1; vt	201	それは引き出しに入れておきました。	I put it in the drawer.	コーヒーに砂糖は入れないよ。	커피에 설탕 안 넣어.
+67	よく	よく	often; well	adv	202	ジャック、よく来てくれたね。	You are welcome, Jack!	よくやった！	잘 했어!
+68	来る	くる	to come	vk; vi	204	１０時までに来ます。	I'll come by 10.	ここよく来るの？	여기 자주 와?
+69	早い	はやい	early	adj-i	205	時のたつのは早いものだ。	Time flies.	祖父は朝が早いんですよ。	할아버지는 아침 일찍 일어나셔요.
+70	上	うえ	on top of	n	212	テーブルの上にリンゴがあります。	There is an apple on the table.		
+71	もっと	もっと	more	adv	214	父がもっと長生きしていたらなあ。	I wish my father had lived longer.	写真もっと撮ればよかったな。	사진을 더 찍었으면 좋았을 텐데.
+72	女	おんな	woman	n; n-pref	221	人は男か女のどちらかである。	A person is either male or female.		
+73	今日	きょう	today	n; adv	229	今日は何をしたいですか。	What would you like to do today?	今日は。	안녕하세요.
+74	こっち	こっち	this person or way	pn	233	こっちへ来い、ぐずぐずしないで。	Get over here and be quick about it!	おい、君！こっちに来い。	야, 너! 이리 와 봐.
+75	家族	かぞく	family	n	237	あなたの家族はきっと親切でしょう。	Your family must be very nice.	家族は大切だ。	가족은 소중하다.
+76	外	そと	outside	n	240	外に出してやってくれませんか。	Could you let him out?		
+77	起きる	おきる	to get up	v1; vi	243	お子さんはまだ起きているのですか。	Is the kid still up?	まだ起きてるよ。	아직 깨어있어.
+78	いいえ	いいえ	no	int	244			いいなあ。	네가 부러워.
+79	あれ	あれ	that	pn	251			あれは鉛筆です。	그거 연필이야
+80	忘れる	わすれる	to forget	v1; vt	252	電話するのを忘れてごめんなさい。	Please forgive me for forgetting to call you.	忘れ物ない？	잃어버린 거 없어?
+81	意味	いみ	meaning	n; vs; vt	253	その語にはいくつかの意味がある。	The word has several meanings.	この文って、どういう意味？	이 문장은 무슨 뜻이야?
+82	しかし	しかし	however	conj	254	しかしこの本をしまっておきなさい。	However, please put this book away first.	待つしかない。	기다릴 수 밖에 없다.
+83	次	つぎ	next	n; adj-no	260	次はいつ来ればいいのでしょうか。	When should I come again?		
+84	つける	つける	to turn on	v1; vt	268	テレビをつけて。	Please turn on the television.	見つけた！	찾았다!
+85	全部	ぜんぶ	all	n; adj-no; adv	269	トッピングは全部のせて下さい。	I want everything on it.	全部が美味しいですよ！	전부가 맛있어요!
+86	頭	あたま	head	n	273	アリスは頭に花をさしています。	Alice has a flower in her hair.		
+87	とても	とても	very	adv	283	この雨の中を外出することはとてもできないことです。	Going out in this rain is out of the question.	それはとても賢かった。	그건 정말로 현명했어.
+88	一人	ひとり	one person	n	290	どうしてあなたは一人になったの？	How did you end up on your own?	一人になるのが怖いの。	혼자가 되는 게 무서워.
+89	長い	ながい	long	adj-i	292	だんだん日が長くなっています。	The days are getting longer and longer.	象は鼻が長い。	코끼리는 코가 길다.
+90	部屋	へや	room	n	295	マユコは部屋に入った。	Mayuko entered the room.	トムの部屋は汚い。	톰의 방은 더러워.
+91	見せる	みせる	to show	v1; vt	298	パスポートを見せてくれませんか。	Will you show me your passport, please?	パスポートを見せて下さい。	여권을 보여 주세요.
+92	覚える	おぼえる	to remember	v1; vt	304	日本語は外人にとって覚えにくい。	It is hard for foreigners to learn Japanese.	覚えておきます。	외워두었습니다.
+93	新しい	あたらしい	new	adj-i	312	先生は新しい車が気に入っている。	Our teacher likes his new car.	新しいミシンを買った。	새로운 재봉틀을 샀다.
+94	万	まん	ten thousand	num	314	このテープレコーダーは４万円しました。	I paid 40,000 yen for this tape recorder.		
+95	結婚	けっこん	marriage	n; vs; vi	318	ジョンはジェーンと結婚していた。	John was married to Jane.	8年前に結婚しました。	8년 전에 결혼했어요.
+96	下	した	below	n	320	クッキーはテーブルの下にいる。	Cookie is under the table.		
+97	二	に	two	num	323	このホールには人が二千人入れる。	Two thousand people fit into this hall.		
+98	友達	ともだち	friend	n	325	よい友達がたくさんいてうれしい。	I am happy to have so many good friends.	私の古い友達だよ。	내 오랜 친구야.
+99	食べる	たべる	to eat	v1; vt	326	ちょうど食べたかったものでした。	That hit the spot.	豆腐を食べます。	두부를 먹습니다.
+100	楽しい	たのしい	enjoyable	adj-i	332	あなたと一緒にいて楽しかった。	I really enjoyed your company.	楽しい週末をね。	즐거운 주말 되십시오
+101	こちら	こちら	this person or way	pn	336	今のところこちらだけになります。	The only one we have is this one here.	こちらに英語を話せる人はいますか？	이쪽에 영어가 가능한 사람은 계신가요?
+102	夜	よる	evening; night	n; adv	339	あなたは夜よく寝れませんか。	Don't you sleep well at night?		
+103	はい	はい	yes	int	343	「もしもし、ブラウンさんですか」「はい、そうです」	"""Hello, is this Mrs. Brown?"" ""Yes, this is Mrs. Brown."""	はい。	네.
+104	はく	はく	to wear; to put on trousers	v5k; vt	343	この靴はきつすぎてはけない。	These shoes are too tight to get into.	彼女はくしで髪をとかしてるよ。	그 여자는 빗으로 머리를 빗고 있어.
+105	先	さき	the future; previous	n; adj-no	348	それから先の話を聞きたい。	I'd like to know the rest of the story.		
+106	かける	かける	to call by phone	v1; vt	349	１０円で電話がかけられますか。	Can I make a phone call for ten yen?	彼は死にかけていた。	그는 죽어가고 있었다.
+107	どうぞ	どうぞ	please	adv	351	写真をどうぞ見せて下さい。	Please show me your picture.	どうぞよろしく。	만나서 반갑습니다.
+108	池	いけ	pond	n	352	その池にはほとんど水がない。	There is little water in the pond.		
+109	着る	きる	to put on from the shoulders down	v1; vt	366	このセーターを着てごらんなさい。	Try on this sweater.		
+110	明日	あした	tomorrow	n; adv	374	あしたは一日中ひまです。	I'll be free all day tomorrow.	明日は雨です。	내일은 비가 와요.
+111	二人	ふたり	two people	n	376	二人は何をしているところですか。	What are you two doing?	二人のこどもが塀に座っています。	아이 두 명이 담장에 앉아 있어요.
+112	暗い	くらい	gloomy	adj-i	377	あたりがもう暗くなっていることに気がついた。	I observed that it had already got dark.		
+113	開ける	あける	to open	v1; vt	378	ドアはジムによって開けられます。	The door is opened by Jim.	開けてくれ。	열어줘.
+114	質問	しつもん	question	n; vs; vt; vi; adj-no	381	あの先生に質問してもいいですよ。	You may ask a question of that teacher.	彼は質問に答えた。	그는 질문에 대답했다
+115	どの	どの	which	adj-pn	389	これはほかのどの木よりも高い。	This is taller than any other tree.	どのチームが勝つだろうか。	어떤 팀이 이길까.
+116	答える	こたえる	to answer	v1; vi	390	「はい、ありません」とジョーダンさんは答えた。	"""No, I don't,"" said Mr Jordan."	答えた。	대답했다.
+117	ドア	ドア	Western style door	n	408	入る前にドアをノックして下さい。	Please knock on the door before you enter.	ドアを閉めて！	문을 닫아!
+118	写真	しゃしん	photograph	n	411	なんてキレイな写真なんでしょう。	What a beautiful picture!	写真は見た？	사진은 봤어?
+119	本	ほん	book	n	415	ウイスキーを１本持っています。	I have a bottle of whiskey.		
+120	道	みち	street	n	426	二本の道はそこでクロスしている。	The two roads cross there.		
+121	寝る	ねる	to go to bed; to sleep	v1; vi	429	本を読んでるうちに寝てしまった。	While I was reading, I fell asleep.	赤ちゃんが寝る。	아기가 잔다.
+122	言葉	ことば	word; language	n	430	言葉が出てこなかった。	Words failed me.	そんな難しい言葉どこで覚えたの？	그런 어려운 말은 어디서 배웠어?
+123	たぶん	たぶん	probably	adv	440	君にはたぶんみんなわかっていることでしょう。	I expect you know all about it.	「『菜種油』って『アブラナ』から採れるんだよね？」「たぶん」「じゃぁ、『アブラナ』と『菜の花』って、一緒なんだっけ？」「一緒なんじゃない？」	"""'카놀라유'는 '유채'에서 얻을 수 있지?"" ""아마도."" ""그러면 '유채'와 '평지'는 같은 거였나?"" ""같은 거 아니야?"""
+124	国	くに	country	n	446	あなたの国では何語を話しますか。	What language do you speak in your country?		
+125	強い	つよい	powerful	adj-i	448	トラとライオンとどちらが強いか。	Which is stronger, a tiger or a lion?	トムが一番強い。	톰이 가장 강해.
+126	どれ	どれ	which (of three or more)	pn	449			どれ位かかりますか。	얼마나 걸리나요?
+127	警官	けいかん	policeman	n	455	二人の警官もへとへとになった。	The two policemen were exhausted, too.		
+128	ある	ある	to be; to have (used for inanimate objects)	v5r-i; vi	457	話があったら電話をかけて下さい。	If you want to speak to me, please call me up.	抵抗がある。	저항이 있다.
+129	先生	せんせい	teacher; doctor	n; n-suf	459	校長が先生の後ろから入ってきた。	The principal came in after the teacher.	先生と話します。	선생님과 이야기하겠습니다.
+130	会社	かいしゃ	company	n	464	ビルは三年前にこの会社に入った。	Bill joined our company three years ago.	会社員です。	회사원입니다.
+131	元気	げんき	health; vitality	adj-na; n	479	こんにちは、ロジャー。とっても元気よ。	Hi, Roger. I'm pretty good!	元気？	잘 지냈어？
+132	水	みず	water	n	485	ひざに水がたまっているようです。	I'm afraid I have water in my knee joint.		
+133	門	もん	gate	n	497	ジョンは門のところまで出てきた。	John moved forward to the gate.		
+134	消える	きえる	to disappear	v1; vi	500	火が消えないようにしてください。	Please keep the fire from going out.		
+135	声	こえ	voice	n	503	あなたの声が聞けてうれしいわ。	I am happy to hear your voice.		
+136	多い	おおい	many	adj-i	508	この学校は男子よりも女子が多い。	There are more girls than boys in this school.	ギリシャは島が多い。	그리스에는 섬이 많다.
+137	学校	がっこう	school	n	522	この学校はたくさんの生徒がいます。	This school has many students.	学校へ行きます。	학교에 갑니다.
+138	口	くち	mouth; opening	n	530	口にものをほおばってしゃべるな。	Don't speak with your mouth full.		
+139	あそこ	あそこ	over there	pn	533	先生、アソコがかゆいんです。	Doctor, I've got an itch in my crotch.	あそこを見て。	저기 봐.
+140	病院	びょういん	hospital	n	538	この近くに病院はありますか。	Is there a hospital near here?	病院に行ったんだ。	병원에 갔다.
+141	店	みせ	shop	n	540	店はたたまれ、それっきりだった。	The store closed down for good.		
+142	体	からだ	body	n	547	とりわけ体に気をつけなさい。	Above all, take care of yourself.		
+143	初めて	はじめて	for the first time	adv; adj-no	548	初めてドリアンを食べました。	I ate durian for the first time.	献血はこれが初めてですか？	헌혈은 이게 처음인가요?
+144	高い	たかい	tall; expensive	adj-i	551	二つのうちでどちらが高いですか。	Which is the more expensive of the two?	湿度がすごく高いですね。	습도가 매우 높네요.
+145	など	など	et cetera	prt	555	ぬくもりなどどこにも見つからない。	I can't find anything like warmth anywhere.	そうなって欲しいなどと、言ったおぼえはない。	그렇게 됐으면 좋겠다고 말한 기억은 없어.
+146	犬	いぬ	dog	n	562	その犬はかみついたりしませんよ。	The dog will not harm you.		
+147	番号	ばんごう	number	n	573	番号をまちがえじゃありませんか。	I'm afraid you have got the wrong number.	電話番号は何番ですか。	전화번호가 뭐예요?
+148	兄	あに	(humble) older brother	n	575	これは兄です。かっこいいですね。	This is my brother. Handsome, isn't he?		
+149	こんにちは	こんにちは	hello; good day (daytime greeting, id)	int	576	こんにちはジョージ、どう？	Hi, George! How's it going?	こんにちは。	안녕하세요.
+150	大きな	おおきな	big	adj-pn	577	それらはとても大きなりんごです。	They are very big apples.	私の犬は大きいです。	내 개는 큽니다.
+151	足	あし	foot; leg	n	581	また足がしびれた。	My foot's asleep again!		
+152	薬	くすり	medicine	n	593	４時間おきにこの薬をのみなさい。	Take this medicine every four hours.		
+153	カメラ	カメラ	camera	n	601	おじさんがぼくにカメラをくれました。	My uncle gave me a camera.	これはよいカメラだ。	이것은 좋은 카메라 이에요.
+154	上手	じょうず	skillful	adj-na; n	603	あなたは上手にバスケットボールができますか。	Do you play basketball well?	子供の時は上手く泳げた。	나는 내가 어릴 때 수영을 잘할 수 있었다.
+155	近い	ちかい	near	adj-i	618	クリスマスが近くなってきた。	Christmas is fast approaching.	最近いつも雨が降っている。	최근 항상 비가 오고 있어요.
+156	近く	ちかく	near	n; adj-no; adv	618	７時近くだ。学校へ行かなくては。	It is close to seven o'clock. We have to go to school.	空港はすぐ近くにあります。	공항은 아주 가까이 있습니다.
+157	兄弟	きょうだい	(humble) siblings	n	625	あなたは何人兄弟がいますか。	How many siblings do you have?	あなたは私の兄弟じゃない。	넌 내 형제가 아니야.
+158	大きい	おおきい	big	adj-i	630	もっと大きいサイズはありますか。	Do you have a larger size?	私の犬は大きいです。	내 개는 큽니다.
+159	後ろ	うしろ	behind	n; adj-no	637	校長が先生の後ろから入ってきた。	The principal came in after the teacher.		
+160	歌	うた	song	n	638	歌がうまければいいのになあ。	I wish I were a good singer.		
+161	お菓子	おかし	sweets; candy	n	639	もうすこしお菓子を食べませんか。	Will you have some more cake?	通常は、映画を見るときポップコーンを食べて、コーラを飲む。だけど、今回は、お菓子を食べるんだ。	보통 영화를 볼 때 팝콘이랑 코카콜라를 먹는데 이번엔 사탕을 먹으려해.
+162	医者	いしゃ	medical doctor	n	642	医者になるつもりだったのですが。	I intended to become a doctor.	私は医者です。	나는 의사예요.
+163	あまり	あまり	not very	adv	646	この手の本はあまり読まない。	I don't read this kind of book much.	最近、体調があまりよくないんだ。	요즘 몸이 별로 좋지 않다.
+164	遅い	おそい	late; slow	adj-i	653	遅くなっても何もないよりはまし。	Better late than never.		
+165	静か	しずか	quiet	adj-na	656	キャプテンは静かにするように命じた。	The captain commanded silence.	静かに！	조용히 해!
+166	少ない	すくない	a few	adj-i	659	読書の時間がますます少なくなっている。	I have less and less time for reading.	少なくとも週に２回は布団を干します。	적어도 주2회는 이불을 넙니다.
+167	朝	あさ	morning	n; adv	662	朝のラッシュは今がピークだ。	The morning rush is at its peak now.		
+168	映画	えいが	movie	n	663	その映画をもう一度見たいな。	I want to see the movie again.	映画を見ている。	영화를 보고 있어.
+169	弟	おとうと	younger brother	n	673	弟のことなんかほっときなさい。	Leave him alone.		
+170	古い	ふるい	old (not used for people)	adj-i	678	時は金なりと古いことわざにもある。	An old proverb says that time is money.	私の古い友達だよ。	내 오랜 친구야.
+171	銀行	ぎんこう	bank	n	685	銀行にどれだけお金がありますか。	How much money do you have in the bank?	銀行は閉まってた？	은행 문은 닫혀 있었어요?
+172	たくさん	たくさん	many	adj-no; adj-na; n; adv	687	なすべきことがまだたくさんある。	There still remains much to be done.	彼はたくさんの金を持っている。	그는 많은 돈을 가지고 있다.
+173	昨日	きのう	yesterday	n; adv	695	きのう先生は今日テストをすると言った。	Yesterday the teacher told us that he would give us a test today.	昨日はごめんね。	어제 일은 미안해.
+174	町	まち	town; city	n	702	その町はロンドンのすぐ北にある。	The town lies just above London.		
+175	若い	わかい	young	adj-i	723	「彼女は若いですか」「はい」	"""Is she young?"" ""Yes, she is."""	私はトムよりずっと若いです。	나는 톰보다 훨씬 젊습니다.
+176	女の子	おんなのこ	girl	exp; n	736	女の子はほとんどみんなやさしい。	Almost all girls are kind.	彼女の瞳は青い。	그녀의 눈동자는 파랗다.
+177	嫌い	きらい	hate	adj-na; n	738	ジムくんは行き過ぎの嫌いがある。	Jim tends to go too far.	嫌い！	싫어!
+178	服	ふく	clothes	n; n-suf	743	この服はわたしにはもったいない。	This suit is too good for me.		
+179	両親	りょうしん	both parents	n	756	両親は二人ともまだ生きています。	Both the parents are still living.	両親は無理に私をそこへ行かせた。	부모님은 억지로 나를 그곳에 가게 했다.
+180	痛い	いたい	painful	adj-i	757	ほかに痛いところはありますか。	Do you feel pain in any other part of your body?	頭痛い。	나 머리 아파.
+181	妹	いもうと	(humble) younger sister	n	760	男の子は妹を見下ろしがちである。	Boys tend to look down on their younger sisters.		
+182	違う	ちがう	to differ	v5u; vi	761	ライオンとヒョウの違いは何ですか。	What's the difference between lions and leopards?	違う！	아니야!
+183	借りる	かりる	to borrow	v1; vt	762	この本をお借りしてもよろしいですか。	May I borrow this book?	電話借りてもいい？	전화기 좀 빌려도 돼?
+184	ホテル	ホテル	hotel	n	767	あなたはこのホテルのお客ですか。	Are you staying at this hotel?	ホテルの予約はしたの？	호텔 예약은 했어?
+185	大学	だいがく	university	n	770	大学で何をするつもりですか。	What are you going to do in college?	兵庫大学に入りました。	효고 대학에 들어갔습니다.
+186	降りる	おりる	to get off; to descend	v1; vi	771	ここで降りましょう。	Let's get off here.	雨が降りそう。	비가 올 것 같아.
+187	降る	ふる	to fall (e.g. rain or snow)	v5r; vi	771	シカゴのあたりでは雨が降っていました。	It was raining around Chicago.		
+188	病気	びょうき	illness	n	778	ボブはいったい病気なのだろうか。	Can Bob be sick?	彼が休んだのは病気のためだ。	그가 쉰 것은 병 때문이다.
+189	難しい	むずかしい	difficult	adj-i	781	外国人が日本語を学ぶのは難しい。	It is difficult for a foreigner to study Japanese.	最初は難しいんだよ。	처음은 어려운 거야.
+190	行く	いく	to go	v5k-s; vi	784	お母さん、泳ぎに行ってもいい？	Can I go swimming, Mother?	行くよ。	나는 갈 거에요.
+191	生まれる	うまれる	to be born	v1; vi	794	どんぐりからオークが生まれる。	From acorns come oaks.	韓国生まれです。	한국에서 태어났어요.
+192	空	そら	sky	n	796	空はすっかりもやがかかっていた。	The sky misted over.		
+193	風	かぜ	wind	n	802	カーテンが風になびいた。	The curtains blew in the wind.		
+194	おはよう	おはよう	(abbreviation) Good morning	int	808	おはよう。ご飯をよそっても良いかしら？	Morning. Shall I dish up?	おはようございます。	안녕하세요.
+195	昨夜	ゆうべ	last night	n; adv	811	昨夜はよく眠れましたか。	Did you have a good sleep last night?	昨夜はごめん。	어젯밤 일은 미안해.
+196	ちょうど	ちょうど	exactly	adv	842	ちょうど食べたかったものでした。	That hit the spot.	ちょうどよかったですね。	마침 잘 됐네요.
+197	小さな	ちいさな	little	adj-pn	846	小さなことでくよくよするな。	Don't trouble about small things.	地球は太陽より小さいです。	지구는 태양보다 작아요.
+198	ベッド	ベッド	bed	n	847	どんなベッドでもないよりはよい。	Any bed is better than no bed.	トムはベッドで寝てるんでしょ？	톰은 침대에서 자고 있지?
+199	ニュース	ニュース	news	n	849	そのニュースはラジオで聞いたよ。	I heard the news on the radio.	ニューヨークは私が以前から訪れたいと思っていた都市の一つです。	뉴욕은 제가 이전부터 가보고 싶다고 생각했던 도시 중 하나입니다.
+200	どっち	どっち	which	pn	860	この本とあの本とどっちがやさしい？	Which is easier to read, this book or that one?	めんどっちい。	귀찮아.
+201	疲れる	つかれる	to get tired	v1; vi	864	とても疲れているように見えます。	You look very tired.	疲れたよ。	피곤해요.
+202	忙しい	いそがしい	busy; irritated	adj-i	870	忙しくてそれどころじゃないよ。	I've got no time for that now.	私はいつも忙しい。	저는 항상 바빠요.
+203	向こう	むこう	over there	n	872	その男の子は向こうにいます。	The boy is over there.		
+204	今朝	けさ	this morning	n; adv	879	今朝はとても寒かった。	It was very cold this morning.	今朝は体の調子がよい。	오늘 아침은 몸의 상태가 좋다.
+205	パーティー	パーティー	party	n	884	パーティーはたのしかったですか。	Did you enjoy yourself at the party?	そのパーティーに参加するには忙しすぎる。	그 파티에 참가하기에는 너무 바쁘다.
+206	コーヒー	コーヒー	coffee	n	903	そのコーヒーはいいにおいがする。	That coffee smells good.	コーヒーはお好きですか？	커피 좋아해요?
+207	毎日	まいにち	every day	n; adv	919	毎日うっとうしくていやですね。	Don't you just hate this weather?	勉強は毎日してる？	공부는 매일 하고 있어?
+208	そっち	そっち	over there	pn	921	そっちの天気は？	How's the weather there?	お父さんにそっくりだね。	너는 아빠랑 똑같다.
+209	どちら	どちら	which of two	pn	938	二つのうちでどちらが高いですか。	Which is the more expensive of the two?	どちらさまですか？	누구이십니까?
+210	姉	あね	(humble) older sister	n	944	先月、姉は６ポンドの男の子を生んだ。	Last month my sister gave birth to a six-pound baby.		
+211	結構	けっこう	splendid; enough	adj-na	949	いや結構です。たくさんいただきました。	No more, thank you. I'm full.		
+212	小さい	ちいさい	little	adj-i	960	もっと小さいサイズがありますか。	Do you have a smaller size?	地球は太陽より小さいです。	지구는 태양보다 작아요.
+213	耳	みみ	ear	n	964	なぜ、あなたの耳はそんなに大きいの？	Why are your ears so big?		
+214	動物	どうぶつ	animal	n	966	私はその動物の名前を知っている。	I know the name of this animal.	モルモットは社会的動物である。	모르모트는 사회적 동물이다.
+215	大切	たいせつ	important	adj-na	972	本を読むことは大切です。	To read books is important.	家族は大切だ。	가족은 소중하다.
+216	赤	あか	red	n; adj-no	977	赤インクで書いてはいけない。	Don't write in red ink.		
+217	赤い	あかい	red	adj-i	977	彼女は赤いスカートをはいていた。	She was wearing a red skirt.		
+218	箱	はこ	box	n	992	その箱はほとんどいっぱいでした。	The box was almost full.		
+219	右	みぎ	right side	n; adj-no	996	アラビア語は右から左へ書きます。	Arabic is written from right to left.		
+220	海	うみ	sea	n	1000	何としても海をひと目みたいものだ。	I ache for a sight of the sea.		
+221	窓	まど	window	n	1023	窓を開けっぱなしにしておいたの？	Did you leave the window open?		
+222	山	やま	mountain	n; ctr	1035	その山はどれくらいの高さですか。	How high is the mountain?		
+223	いくら	いくら	how much?	n; adv	1039	このハンカチはいくらですか。	How much is this handkerchief?	卵いくつ買った？	계란 얼마나 샀어?
+224	音楽	おんがく	music	n	1051	この音楽を聞いてくつろぎなさい。	Listen to this music and relax.	私も音楽が大好きです。	저도 음악을 좋아합니다.
+225	半分	はんぶん	half minute	adv; n	1053	ケーキのどちらの半分でもとりなさい。	You may take either half of the cake.		
+226	木	き	tree; wood	n	1065	その木には実がたわわになっていた。	The tree was heavy with fruit.		
+227	手紙	てがみ	letter	n	1067	書かねばならない手紙があります。	I have to write a letter.	もう手紙は書かない。	난 이제 편지 안 써.
+228	テスト	テスト	test	n; vs; vt	1086	そのテストはむずかしかった。	I found the test difficult.		
+229	上げる	あげる	to give	v1; vt	1090	左手を上げなさい。	Raise your left hand.	私の本、差し上げますよ。	제 책, 드릴게요.
+230	左	ひだり	left hand side	n; adj-no	1098	アラビア語は右から左へ書きます。	Arabic is written from right to left.		
+231	ナイフ	ナイフ	knife	n	1112	それはあなたのナイフではない。	That is not your knife.	彼女はナイーブだった。	그는 순진했다.
+232	料理	りょうり	cuisine	n; vs; vt	1126	これらのりんごは料理用にもってこいだ。	These apples are good cookers.	スーザンの料理が立派だ。	수잔의 음식 솜씨가 훌륭하다.
+233	鳥	とり	bird	n	1130	なんてきれいな鳥なんだろう。	What a beautiful bird it is!		
+234	テレビ	テレビ	television	n	1136	あなたはどこでテレビを見ますか。	Where do you watch television?	テレビがないの？	텔레비전이 없어?
+235	大好き	だいすき	to be very likeable	adj-na	1143	ロジャーはパーティーが大好きだ。	Roger is a party animal.	雪が大好きです。	나는 눈이 정말 좋아요.
+236	速い	はやい	quick	adj-i	1150	ショットはとても速いものもある。	Some people have very fast serves.	なんでそんなに頭の回転速いの？	어떻게 그렇게 두뇌 회전이 빨라?
+237	きれい	きれい	pretty; clean	adj-na	1171	それからすっきりきれいにしてくれ。	Then clean it really well.	きれいなドレス！	예쁜 드레스!
+238	晩	ばん	evening	n; adv	1173	晩までにはおそらく雨になるだろう。	It may well rain before tonight.		
+239	出かける	でかける	to go out	v1; vi	1209	出かけるよりもじっとしていたい。	I would sooner stay than go.	今夜は、リサと出かけてくるね。	오늘 밤은 리사와 외출할게.
+240	バス	バス	bus	n	1212	バス通学と積極的差別是正措置などが論争の多い話題だった。	School busing and taking a proactive stance against discrimination were hotly debated topics.	バスで行こう。	버스로 가자.
+241	あっち	あっち	over there	pn	1213	こっちの本はあっちの本よりやさしい。	These books are easier than those books.	事故があった。	사고가 벌어졌다.
+242	絵	え	picture	n	1214	絵がテーブルの上にかかっている。	The picture hangs over the table.		
+243	歯	は	tooth	n	1222	その赤ちゃんは歯が生えはじめている。	The baby is cutting his teeth.		
+244	靴	くつ	shoes	n	1234	靴のほこりをはけではらいなさい。	Brush off the dust from your shoes.		
+245	弱い	よわい	weak	adj-i	1246	それを言われると弱いなあ。	That sure puts me on the spot.		
+246	熱い	あつい	hot to the touch	adj-i	1250	熱いコーヒーを入れてあげましょう。	Let me make you a cup of hot coffee.	卵がまだ熱い。	달걀이 아직 뜨겁다.
+247	黒	くろ	black	n; adj-no	1251	黒に黒をたしても白にはならぬ。	Two blacks do not make a white.		
+248	黒い	くろい	black	adj-i	1251	ナンシーはヘレンよりもほんのすこし色が黒い。	Nancy is a shade darker than Helen.	トムは黒い眼鏡をかけている。	톰은 검은 안경을 쓰고 있다.
+249	建物	たてもの	building	n	1255	建物がとっても小さく見えるよ。	The buildings look so tiny.	この建物は現代的に見える。	이 건물은 현대적으로 보인다.
+250	重い	おもい	heavy	adj-i	1276	トムはジャックよりも１０ポンド重い。	Tom is heavier than Jack by ten pounds.		
+251	荷物	にもつ	luggage	n	1287	これ荷物を上にあげてもよろしい。	Can I put this up for you?	お預けになる荷物はございますか。	맡기실 짐은 있으십니까?
+252	危ない	あぶない	dangerous	adj-i	1292	間一髪！危ないところでした。	That was a close call.	危ない、車来てるよ！	위험해, 차온다!
+253	時々	ときどき	sometimes	adv; adj-no	1293	ジェーンはときどき学校まで走っていく。	Jane sometimes runs to school.		
+254	北	きた	north	n	1301	その町はロンドンのすぐ北にある。	The town lies just above London.		
+255	汚い	きたない	dirty	adj-i	1316	ジャックは私に汚いいたずらをした。	Jack played a dirty trick on me.	トムの部屋は汚い。	톰의 방은 더러워.
+256	旅行	りょこう	travel	n; vs; vi	1319	いつ旅行においでになりますか。	When will you go on a journey?	宇宙旅行はもはや夢ではない。	우주여행은 이제 꿈이 아니다.
+257	話す	はなす	to speak	v5s; vt	1337	英語はカナダで話されている。	English is spoken in Canada.	まだ話すには早過ぎる。	아직 말하기에는 너무 이르다.
+258	色	いろ	colour	n	1345	カメレオンはどんな色にでもなれる。	The chameleon can take on any color.		
+259	川	かわ	river	n	1357	その川はあまりきれいではなかった。	The river was not so clean.		
+260	トイレ	トイレ	toilet	n	1359	トイレの水が止まりません。	The toilet won't stop running.	彼女はトイレにいます。	그녀는 화장실에 있어요.
+261	隣	となり	next door to	n; adj-no	1365	あのビルのとなりです。	It's next to that building.		
+262	アパート	アパート	apartment	n	1366	兄はアパートをさがしています。	My brother is looking for an apartment.		
+263	白い	しろい	white	adj-i	1369	白いベルトがついてるのがいいな。	I like the one with a white belt.	パングラムって面白い！	팬그램이라고 하는 거 재밌네!
+264	新聞	しんぶん	newspaper	n	1382	ジョンのことが新聞に出ていた。	John was mentioned in the paper.	新聞どこ？	신문 어딨어?
+265	花	はな	flower	n	1399	テーブルの上に花が一本あります。	There is a flower on the table.		
+266	遠い	とおい	far	adj-i	1423	それはホテルから遠くありません。	It is not far away from the hotel.	その銀行はここから遠いですか。	그 은행은 여기에서 멉니까?
+267	辛い	からい	spicy	adj-i	1425	このカレーは辛すぎて食べられない。	This curry is too hot to eat.		
+268	時計	とけい	watch; clock	n	1431	あなたの時計では何時ですか。	What time is it by your watch?	時計してる？	시계 착용하고 있어?
+269	有名	ゆうめい	famous	adj-na	1433	そのホテルは食事で有名である。	The hotel is noted for its food.	彼女は有名になった。	그녀는 유명해졌다.
+270	生徒	せいと	pupil	n	1482	この学校はたくさんの生徒がいます。	This school has many students.	生徒の数がだんだん減ってきた。	학생 수가 점점 줄기 시작했다.
+271	南	みなみ	south	n	1510	フランスは英国の南にある。	France is to the south of England.		
+272	いろいろ	いろいろ	various	adj-na; adj-no	1514	先生といってもいろいろある。	There are teachers and then there are teachers.		
+273	雨	あめ	rain	n	1515	木のおかげで雨にぬれずにすんだ。	The trees kept me out of the rain.		
+274	大人	おとな	adult	n; adj-no; adj-na	1543	大人だけこの映画が見える。	Only adults can see this film.	俺みたいな大人にはなるなよ。	나 같은 어른은 되지 마라.
+275	猫	ねこ	cat	n	1547	猫はにゃーにゃーいいつづけた。	The cat continued to mew.		
+276	掃除	そうじ	to clean; to sweep	n; vs; vt	1553	父はガレージを掃除している。	My father is sweeping the garage.	キャロルがその部屋に入ってきたとき、お手伝いさんはもう部屋を掃除してしまっていました。	캐롤이 그 방으로 들어갔을 때, 도우미 분은 이미 방을 청소해버렸었다.
+277	青	あお	blue	n; adj-no	1559	信号が青に変わったわよ。	The traffic light turned green.		
+278	青い	あおい	blue	adj-i	1559	お前はまだ「青い」な。	You're still green.	彼女の瞳は青い。	그녀의 눈동자는 파랗다.
+279	テープ	テープ	tape	n	1564	君はそのコンサートをテープにとったか。	Did you tape that concert?	テーブルの上に猫がいますか。	테이블 위에 고양이가 있나요?
+280	そば	そば	near; beside	n	1573	ガレージは家のそばにあります。	The garage is at the side of the house.		
+281	寒い	さむい	cold	adj-i	1590	寒いからコートを着るべきだ。	It's cold so you should wear a coat.		
+282	電気	でんき	electricity; electric light	n	1643	電気シェーバーから火が出ました。	My electric razor is on fire.	電気消してもいい？	불 좀 꺼도 돼?
+283	練習	れんしゅう	to practice	n; vs; vt	1645	あなたはいつピアノの練習をしますか。	When do you practice the piano?	トムは毎日ピアノを練習するよ。	톰은 매일 피아노를 연습해.
+284	取る	とる	to take something	v5r; vt	1690	そのお金はいざというときのために取っておくよ。	I'm going to lay aside that money for emergencies.		
+285	半	はん	half	n-pref; n	1696	半時間したら彼はここに来るでしょう。	He will be here in half an hour.		
+286	午後	ごご	afternoon	n; adv	1698	午後何時ごろうかがいましょうか。	When shall I call on you this afternoon?	午後10時に駅で会いましょう。	오후 10시에 역에서 만납시다.
+287	公園	こうえん	park	n	1702	この公園はすべての人に公開されている。	The park is open to everybody.	家の前は公園です。	집 앞은 공원입니다.
+288	閉める	しめる	to close something	v1; vt	1705	どうかドアを閉めてくれませんか。	Will you please shut the door?	ドアを閉めて！	문을 닫아!
+289	キロ	キロ	kilometre; kilogram	n	1708	ヘレンはせいぜい４０キロだ。	Helen weighs not more than 40 kilograms.	彼は８０キロを超えている。	그는 80 키로 이상 나간다.
+290	タクシー	タクシー	taxi	n	1728	そのタクシーはいきなり左に曲がった。	The taxi abruptly turned left.	雨が降ってるからタクシーに乗りました。	비가 내려서 택시를 탔습니다.
+291	勉強	べんきょう	to study	n; vs; vt	1754	あなたは何時間勉強していますか。	How many hours have you been studying?	勉強する。	공부해요.
+292	朝ごはん	あさごはん	breakfast	n		朝ごはんにはなにがよろしいですか。	What would you like for breakfast?		
+293	いくつ	いくつ	how many?; how old?	adv		あなたのお父さんはおいくつですか。	How old is your father?	卵いくつ買った？	계란 얼마나 샀어?
+294	いただきます	いただきます	expression of gratitude before meals	exp		８ドル５０セントいただきます。	$8.50, please.	いただきます。	잘 먹겠습니다.
+295	五日	いつか	five days; fifth day	n		１月５日から１月１５日までおねがいします。	From the 5th to the 15th of January, please.		
+296	五つ	いつつ	five	num		この箱にはリンゴが五つ入っている。	This box contains five apples.	この箱にはリンゴが五つ入っている。	이 상자에 사과 다섯 개가 있다.
+297	いる	いる	to be; to have (used for people and animals)	aux-v; v1		すっかり食べ終わってはいない。	I haven't quite finished eating.	俺がいるさ。	내가 있으니까.
+298	映画館	えいがかん	cinema	n		その映画館は人々でいっぱいだった。	The cinema was filled with people.	映画を見ている。	영화를 보고 있어.
+299	おいしい	おいしい	delicious	adj-i		おいしい食事をありがとう。	Thanks for the delicious meal.	このパンおいしそう。	이 빵 맛있어 보이네.
+300	お母さん	おかあさん	(honorable) mother	n		お母さんに口答えしてはいけませんよ。	Don't answer your mother back.	あなたは自分のお母さんを大事にしてますか？	당신은 어머니를 사랑합니까?
+301	お金	おかね	money	n		どうやってそのお金を手に入れたんですか。	How did you come by the money?	お金忘れないでね。	돈 잊지말고 챙겨가.
+302	奥さん	おくさん	(honorable) wife	n		奥さんがどこかに出かけているらしいから。	I think his wife is going out of town.		
+303	お酒	おさけ	alcohol; rice wine	n		マイクはお酒をやめたの？	Is Mike off the bottle?	お酒をいくら飲んだの？	술을 얼마나 마신 거야?
+304	お皿	おさら	plate; dish	n		スープを入れるくぼんだお皿がありますか。	Do you have a bowl for soup?	ごはん作ってくれるんだったら、私がお皿を洗うよ。	식사를 차려 준다면 설거지는 내가 할게.
+305	お祖父さん	おじいさん	grandfather; male senior citizen	n		おじいさんはとてもゆっくりと話す。	Grandfather speaks very slowly.		
+306	お茶	おちゃ	green tea	n		３時はお茶にしよう。	Let's have tea at 3:00.	杏奈、おはよう！一緒にお茶しない？	안나, 좋은 아침! 같이 차 마시지 않을래?
+307	お父さん	おとうさん	(honorable) father	n		お父さんからことづけがあります。	I have a message for you from your father.	お父さんにそっくりだね。	너는 아빠랑 똑같다.
+308	一昨年	おととし	year before last	n; adv		彼女は、一昨年よりもはるかに暮らし向きがよい。	She's far better off than she was the year before last.		
+309	お兄さん	おにいさん	(honorable) older brother	n		私はあなたのお兄さんより年上です。	I'm older than your brother.		
+310	お姉さん	おねえさん	(honorable) older sister	n		あなたのお姉さんは今何をしているの？	What's your older sister doing now?		
+311	お願いします	おねがいします	please	exp		ファーストクラスでお願いします。	I'd like to travel first-class.	宜しくお願いします。	잘 부탁합니다.
+312	おばあさん	おばあさん	grandmother; female senior-citizen	n		トムのおばあさんは元気そうですよ。	Tom's grandmother looks healthy.		
+313	伯母さん	おばさん	aunt	n		叔母さんを訪ねた時はすごいごちそうだったね。	What a feast we had when we visited my aunt!		
+314	おまわりさん	おまわりさん	friendly term for policeman	n		すみません、おまわりさん。ここはどこですか。	Excuse me, officer, where are we now?		
+315	おもしろい	おもしろい	interesting	adj-i		スケートはとてもおもしろかった。	We had a lot of fun skating.	あの人はわたしにその本はおもしろいって言ったの。	그는 나에게 그 책은 재미있다고 했어요.
+316	外国人	がいこくじん	foreigner	n		その外国人はかなりうまく日本語を話す。	The foreigner speaks Japanese fairly well.	外国語の習得には忍耐が必要だ。	외국어 습득에는 인내가 필요하다.
+317	火曜日	かようび	Tuesday	n; adv		火曜日に国会が開かれる。	The Diet will meet on Tuesday.	火曜日に会いましょう。	화요일에 만나요.
+318	かわいい	かわいい	cute	adj-i		ルーシーはかわいい女の子だ。	Lucy is a pretty little girl.	本当にかわいいです！	정말 귀여워요!
+319	喫茶店	きっさてん	coffee lounge	n		私たちは喫茶店で昼食をとった。	We ate lunch in a coffee lounge.		
+320	金曜日	きんようび	Friday	n; adv		あなたは金曜日に何をするつもりですか。	What will you do on Friday?	金曜までに第４章を読んでおきなさい。	금요일까지 4 장을 읽어 두십시오.
+321	月曜日	げつようび	Monday	n; adv		月曜日までにここに来ています。	I'll be here by Monday.	市は月曜ごとに立つ。	시장은 월요일마다 열립니다.
+322	交差点	こうさてん	intersection	n		あの交差点で何が起こったのか。	What happened at that crossing?		
+323	九日	ここのか	nine days; ninth day	n		スピーチコンテストは１１月９日に行われた。	The speech contest took place on the ninth of November.		
+324	九つ	ここのつ	nine	num		私たちの学校にはクラスが９つある。	Our school has nine classes.		
+325	ごちそうさま	ごちそうさま	feast	int		コーヒー、ごちそうさまでした。	Thank you for the coffee.	美味しいコーヒー、ごちそうさまでした。	맛있는 커피, 잘 먹었습니다.
+326	コピーする	コピーする	to copy	n; vs; vt		コピーするページに付箋をつけておいてください。	Put a tag on the pages you want copied.		
+327	ごめんなさい	ごめんなさい	I beg your pardon; excuse me	exp		お話し中、ごめんなさい。	Excuse me for interrupting you.	ほんとにごめんなさい！	정말 미안해요.
+328	再来年	さらいねん	year after next	n; adv		祖父は、再来年引退する予定です。	My grandfather is planning to retire the year after next.		
+329	自転車	じてんしゃ	bicycle	n		ぼくの自転車はパンクしている。	My bicycle has a flat tire.	トムは自転車の乗り方を学びたい。	톰은 자전거를 타는 방법을 배우고 싶어한다.
+330	自動車	じどうしゃ	automobile	n		自動車にひかれたのではないですか。	Wasn't he killed by a car?	昨夜、この自動販売機は愚連隊によって壊されました。	어젯밤, 이 자동판매기는 불량배에 의해 부서졌습니다.
+331	字引	じびき	dictionary	n		ジョンソンさんはまるで生き字引です。	Mr Johnson is, as it were, a walking dictionary.		
+332	閉まる	しまる	to close; to be closed	v5r; vi		あいにく店は閉まっていた。	Unfortunately, the store was closed.	銀行は閉まってた？	은행 문은 닫혀 있었어요?
+333	しょうゆ	しょうゆ	soy sauce	n		同社は醤油その他の食品を生産する。	The company produces soy sauce and other food products.	何かしてみましょう。	뭔가 해보자!
+334	すぐに	すぐに	instantly	adv		すぐに書かなければなりませんか。	Should I fill it in now?	すぐに戻ります。	곧 돌아올께요.
+335	すみません	すみません	sorry; excuse me	exp; int		すみません、この席あいていますか。	Excuse me, is this seat taken?	お邪魔してすみません。	방해해서 죄송합니다.
+336	せっけん	せっけん	economy	n; vs; vt; vi		せっけんだらけの手で私にさわらないで。	Don't touch me with your soapy hands.		
+337	そうして	そうして	and	conj		そうしてくださればとてもうれしい。	I can't be sorry.		
+338	それでは	それでは	in that situation	exp		それでは、あなたは来ないということですか。	Does that mean you won't come?	それで、なにか問題でも？	그래서, 뭔가 문제라도?
+339	大使館	たいしかん	embassy	n		日本大使館はどこにありますか。	Where is the Japanese Embassy?		
+340	誕生日	たんじょうび	birthday	n		誕生日とは人が生まれた日のことだ。	The birthday is the day on which a person was born.	明日は私の誕生日だ。	내일은 내 생일이다.
+341	地下鉄	ちかてつ	underground train	n		地下鉄で行きたいのです。	I want to get there by subway.		
+342	ちゃわん	ちゃわん	rice bowl	n		この茶わんはなんとすばらしいのでしょう。	How nice this cup is!		
+343	つまらない	つまらない	boring	adj-i		このビデオはつまらないよ。	This video is boring.		
+344	テープレコーダー	テープレコーダー	tape recorder	n		このテープレコーダーは新しくない。	This tape recorder is not new.		
+345	では	では	with that...	exp		では今晩またね、さようなら。	See you tonight, then. Cheers!	それは高価ではない。	이것은 안비싸다
+346	どうして	どうして	for what reason	adv		どうしてあなたは一人になったの？	How did you end up on your own?	どうして私なの？	왜 나야?
+347	どうぞよろしく	どうぞよろしく	pleased to meet you	exp		どうぞよろしく。	Nice to meet you.	どうぞよろしく。	만나서 반갑습니다.
+348	どうも	どうも	thanks	int		あの二人はどうもできているらしい。	They seem to be in love with each other.	どうぞよろしく。	만나서 반갑습니다.
+349	十日	とおか	ten days; the tenth day	n		ジャックは８月１０日に生まれた。	Jack was born on August the tenth.		
+350	図書館	としょかん	library	n		図書館の中で話をしてはいけない。	We must not speak in the library.	友達は図書館に勉強するために来ます。	친구는 도서관에 공부하러 와요
+351	土曜日	どようび	Saturday	n; adv		私は土曜日からここにいます。	I've been here since Saturday.	土曜日って、何か予定ある？	토요일에는, 뭔가 예정 있어?
+352	無くす	なくす	to lose something	v5s; vt		私は前日無くした本を見つけた。	I found the book which I had lost the day before.	お金が無くなってしまった。	난 돈이 다 떨어지고 말았다.
+353	七つ	ななつ	seven	num		７つの海って何ですか。	What are the seven seas?		
+354	七日	なのか	seven days; the seventh day	n		一週間は七日です。	There are seven days in a week.		
+355	習う	ならう	to learn	v5u; vt		車の運転を習っています。	I've been learning to drive.	なんでフランス語を習うのやめたの？	왜 프랑스어를 배우는 걸 그만 뒀어?
+356	西	にし	west	n	1755	列車は西へ走っていた。	The train was hurrying west.		
+357	はじめまして	はじめまして	How do you do?; I am glad to meet you	exp		初めましてケン。	Nice to meet you, Ken.		
+358	二十歳	はたち	20 years old; 20th year	n		ムーリエルは２０歳になりました。	Muiriel is 20 now.		
+359	二十日	はつか	twenty days; twentieth	n		私は二十日までに帰るつもりです。	I expect to be back by the 20th.		
+360	飛行機	ひこうき	aeroplane	n		あなたは飛行機で旅行したことがありますか。	Have you ever traveled by air?	天気が悪くて飛行機が延着した。	날씨가 나빠서, 비행기가 연착되었다.
+361	一月	ひとつき	one month	n		金がなくなる頃にはもうひと月ある。	When the money runs out, there'll still be one month left.		
+362	昼御飯	ひるごはん	midday meal	n		昼ご飯を食べに外に出ませんか。	How about going out for lunch?		
+363	二つ	ふたつ	two	num		二つのうちでどちらが高いですか。	Which is the more expensive of the two?	二つしか見つけられなかった。	두 개 밖에 못 찾았어.
+364	二日	ふつか	two days; second day of the month	n		それは１週間前、すなわち４月２日に行われた。	It was due a week ago, namely on April second.		
+365	ふろ	ふろ	bath	n		私は一日おきにふろに入ります。	I have a bath every other day.		
+366	ボールペン	ボールペン	ball-point pen	n		ボールペンのインクがなくなった。	My ballpoint pen just ran out of ink.		
+367	曲る	まがる	to turn; to bend	v5r; vi		２ブロック先まで歩き、左へ曲がりなさい。	Walk two blocks, and turn left.		
+368	まずい	まずい	unpleasant	adj-i		あ！まずい！ガソリンが切れてきた。	Oh, no! We're running out of gas.	まず例文を見てみましょう。	먼저 예문 볼게요.
+369	三日	みっか	three days; third day of the month	n		１０月３日です。	It's the third of October.		
+370	皆さん	みなさん	everyone	n		皆さんじっとしていてください。	Could you keep still, everyone?	家族の皆さんはお元気？	가족들은 모두 건강하고?
+371	六日	むいか	six days; sixth day of the month	n		４月５日か６日に会っていただけませんか。	Would it be possible to set up a meeting with us on April 5 or 6?		
+372	六つ	むっつ	six	num		彼は６行のうちに６つまちがいをした。	He made six mistakes in as many lines.		
+373	もう一度	もういちど	again	exp; adv		もう一度ゆっくりお話しください。	Could you please repeat it slowly?	もう一度チャンスをくれ。	한 번 더 기회를 줘.
+374	木曜日	もくようび	Thursday	n; adv		やあ、フレッド。木曜日にバドミントンはどう。	Hi, Fred, how about badminton on Thursday?	今日は木曜日です。	오늘은 목요일입니다.
+375	八百屋	やおや	greengrocer	n		その八百屋は客にとても親切だ。	The greengrocer is very kind to his customers.		
+376	郵便局	ゆうびんきょく	post office	n		あの～郵便局はどちらでしょうか。	Uh..., where's the post office?	駅の前に郵便局があります。	역 앞에 우체국이 있습니다.
+377	ゆっくりと	ゆっくりと	slowly	adv; adv-to; vs		おじいさんはとてもゆっくりと話す。	Grandfather speaks very slowly.	ごゆっくりご覧くださいませ。	편히 둘러보세요.
+378	八日	ようか	eight days; eighth day of the month	n		学校は４月８日から始まります。	School begins on April 8.		
+379	四日	よっか	four days; fouth day of the month	n		長くても４日しか待てませんよ。	I can wait four days at the longest.		
+380	四つ	よっつ	four	num		その紙を四つ折りにしなさい。	Fold the paper in four.		
+381	ラジカセ	ラジカセ	radio cassette player	n		確かに今の日本では、「ラジカセ」はもう古い言葉なのかもしれない。	"The word ""raji-kase"", meaning radio cassette in Japan, is probably more of an antiquated term by now."		
+382	留学生	りゅうがくせい	overseas student	n		留学生も入れるのかしら。	Can foreign students be in the club?	どうして留学しようと思われたんですか？	왜 유학 가려고 생각하셨어요?
+383	冷蔵庫	れいぞうこ	refrigerator	n		冷蔵庫の中にバターが２ポンドある。	There are two pounds of butter in the icebox.	冷蔵庫に卵いくつある？	냉장고에 계란 얼마나 있어?
+384	ワイシャツ	ワイシャツ	business shirt	n		ワイシャツにボタンをつけて。	Would you sew a button on my shirt?		
+385	鼻	はな	nose	n	1765	鼻が出ているよ。かみなさい。	Your nose is running. Blow it.		
+386	大勢	おおぜい	great number of people	n; adj-no	1785	大ぜいの人たちがいた。	There were lots of people.		
+387	シャツ	シャツ	shirt	n	1796	シャツにアイロンをかけてください。	Please iron the shirt.	シャワーしてきて。	샤워하고 와.
+388	階段	かいだん	stairs	n	1799	その階段を上ってはいけません。	You must not go up the stairs.		
+389	肉	にく	meat	n	1803	肉にはウジがわいていた。	The meat was crawling with maggots.		
+390	男の子	おとこのこ	boy	exp; n	1821	あのハンサムな男の子を見て。	Look at that good-looking boy.	男の人は歯を磨く。	남자는 이를 닦는다.
+391	帽子	ぼうし	hat	n	1832	この帽子は１０００円なら安い。	This hat is cheap at 1000 yen.	彼は帽子を買った。	그는 모자를 샀다.
+392	なる	なる	to become	v5r; vi	1859	ちまたではインターネットなるものがはやっています。	People are talking about this Internet phenomenon.	塵も積もれば山となる。	티끌 모아 태산.
+393	地図	ちず	map	n	1863	この大きなアメリカの地図を見て。	Look at this large map of America.	プエルトリコの位置を地図の上に示しなさい。	푸에르토리코의 위치를 지도 위에 보여주세요.
+394	東	ひがし	east	n	1869	その市はロンドンの東にある。	The city lies east of London.		
+395	食べ物	たべもの	food	n	1878	食べ物はすべてなくなってしまった。	All the food was gone.	豆腐を食べます。	두부를 먹습니다.
+396	低い	ひくい	short; low	adj-i	1883	ラジオの音を低くして下さい。	Please turn down the radio.	私は血圧が低いです。	저혈압입니다.
+397	横	よこ	beside; side; width	n	1886	母親は赤ん坊をベッドに横にした。	The mother laid her baby on the bed.		
+398	背	せ	height; stature	n	1889	トムはジャックと背が同じくらいだ。	Tom is as tall as Jack.		
+399	村	むら	village	n	1902	町は村よりも大きい。	Towns are larger than villages.		
+400	テーブル	テーブル	table	n	1903	このテーブルを頼んだのではない。	I didn't ask for a table here.	テーブルの上に猫がいますか。	테이블 위에 고양이가 있나요?
+401	学生	がくせい	student	n	1911	学生の半数が休んでいた。	Half the students were absent.	まだ学生なの？	아직 학생이야?
+402	入る	はいる	to enter; to contain	v5r; vi	1912	入る前にドアをノックして下さい。	Please knock on the door before you enter.		
+403	さようなら	さようなら	good-bye	int	1917	では今晩またね、さようなら。	See you tonight, then. Cheers!		
+404	英語	えいご	English language	n	1919	アメリカでは英語を話します。	They speak English in America.	あなたは英語が好きですか。	영어 좋아해요?
+405	ほか	ほか	other; the rest	n; adj-no	1938	ほかの女の子たちはどこにいるの。	Where are the other girls?	給料のほかに、彼は投資からも金が入ってくる。	급료와는 별도로, 그는 투자로도 돈을 받았다.
+406	駅	えき	station	n	1953	グランド・セントラル駅までやってください。	Grand Central Station, please.		
+407	甘い	あまい	sweet	adj-i	1966	メアリーにはつい甘くなってしまう。	I have always had a soft spot in my heart for Mary.	トムは甘いもの大丈夫？	톰은 단 거 괜찮아?
+408	いかが	いかが	how	adv	1972	コンタクトを入れるというのはいかがでしょう？	How about wearing contact lenses?	眠いからもう寝るね。	졸리니까 이제 잘게.
+409	出口	でぐち	exit	n	1978	B2出口から地上に出てください。	Go up to ground level at exit B2.	出口はどこですか？	출구는 어디예요?
+410	パン	パン	bread	n	1981			猫はパンを食べる。	고양이는 빵을 먹는다.
+411	辺	へん	area	n	1988	この辺にホテルはありますか。	Is there a hotel around here?		
+412	魚	さかな	fish	n	1996	日本人は魚をたくさん食べますか。	Do Japanese eat a lot of fish?		
+413	卵	たまご	egg	n	1998	卵を一ダースづつつめなさい。	Pack eggs in dozens.		
+414	広い	ひろい	spacious; wide	adj-i	2012	この通りは広いが、あまり長くない。	This avenue is wide but not very long.		
+415	ポケット	ポケット	pocket	n	2026	ポケットに何を持っていますか。	What do you have in your pocket?	電話をかけるため、ポケットに手を入れて硬貨を捜した。	전화를 걸기 위해, 주머니에 손을 넣어서 동전을 찾았다.
+416	始まる	はじまる	to begin	v5r; vi	2027	今コンサートが始まろうとしている。	The concert is beginning now.	８時半に学校は始まる。	8시 반에 학교가 시작된다.
+417	百	ひゃく	hundred	num	2035	百年後にはみな同じになる。	It will be all the same a hundred years hence.		
+418	紙	かみ	paper	n	2047	紙は木から作られる。	Paper is made from wood.		
+419	橋	はし	bridge	n	2063	その橋はどれくらいの長さですか。	How long is the bridge?		
+420	先週	せんしゅう	last week	n; adv	2077	あの人は先週ここにいた人です。	He's the man that was here last week.	先週土曜日に、いや、日曜日に行きました。	지난 주 토요일에, 아니, 일요일에 갔어요.
+421	鳴く	なく	to make a sound (of an animal); to cry; to chirp; to sing (of birds)	v5k; vi	2080	カエルが鳴いたら帰ろう。	Let's return when the frog croaks.		
+422	レストラン	レストラン	restaurant	n	2134	あのレストランはサービスがよい。	They give good service at that restaurant.		
+423	頼む	たのむ	to ask	v5m; vt	2187	あなたに頼んでもよろしいですか。	May I request a favour of you?		
+424	授業	じゅぎょう	lesson; class work	n; vs; vi	2199	それは授業の終わりだった。	That was the end of the class.	授業は午前８時３０分に始まる。	수업은 오전 8시 30분에 시작한다.
+425	休み	やすみ	rest; holiday	n	2202	学校はクリスマスで休みになった。	School has closed for the Christmas holidays.	冬休み何日から？	겨울방학은 며칠부터야?
+426	休む	やすむ	to rest	v5m; vi	2202	父はまだ休んでいる。	Father is still in bed.		
+427	コート	コート	coat; tennis court	n	2219	このコートいいですね。試着してもいいですか。	I like this coat. May I try it on?	コート脱いだら？	코트 벗지 그래?
+428	午前	ごぜん	morning	n; adv	2235	その電車は午前９時にここを出発します。	The train departs here at 9:00 a.m.	授業は午前８時３０分に始まる。	수업은 오전 8시 30분에 시작한다.
+429	短い	みじかい	short	adj-i	2238	日がだんだん短くなっている。	The days are becoming shorter.		
+430	クラス	クラス	class	n	2239	あいつはクラスでいちばんのまぬけだ。	He is the dumbest kid in the class.	クラスは２チームに分かれた。	반은 두 팀으로 나뉘었다.
+431	シャワー	シャワー	shower	n	2259	シャワーの水が出ません。	There's no water coming out of the shower.	シャワーしてきて。	샤워하고 와.
+432	冷たい	つめたい	cold to the touch	adj-i	2268	もう手が冷たくって。	My hand's getting too cold.	最近トムが私に冷たい気がする。	요즘 톰이 나한테 차갑게 구는 것 같은 느낌이 들어.
+433	軽い	かるい	light	adj-i	2272	軽く食べましょう。	Let's catch a bite.	この手作りのイタリア製チタン自転車は、恐ろしく軽い。	이 수제 이탈리아제 티타늄 자전거는 매우 가볍다.
+434	飲み物	のみもの	a drink	n	2277	何か飲み物をいただけますか。	May I have something to drink?	飲みたいです。	마시고 싶어요.
+435	夏	なつ	summer	n; adv	2293	アリは夏じゅうせっせとはたらく。	Ants work away during summer.		
+436	七	しち	seven	num	2313	どういっても七時までにいかないと。	However we go, we must get there by seven.		
+437	散歩	さんぽ	to stroll	n; vs; vi	2334	散歩に出かけてもよろしいですか。	May I go out for a walk?	夜に公園を散歩したらダメだよ！	밤에 공원을 산책하면 안 돼!
+438	財布	さいふ	wallet	n	2353	サイフがないのにふと気がついた。	He suddenly noticed his wallet was missing.	財布をなくしたの。	지갑을 잃어버렸어.
+439	ペン	ペン	pen	n	2356	リンゴと本の間にペンがあります。	There is a pen between the apple and the book.	シャンペンを下さい。	샴폐인 부탁해.
+440	角	かど	a corner	n	2371	角のテーブルがいいのですが。	Could we have a table in the corner?		
+441	遊ぶ	あそぶ	to play; to make a visit	v5b; vi	2390	ビルはよく一人でおもちゃで遊ぶ。	Bill often plays with toys by himself.		
+442	今晩	こんばん	this evening	n; adv	2398	今晩はパーティーがあるのかなあ。	Is there going to be a party tonight?	今晩は予定がある？	오늘 밤에 해야 하는 일 있어?
+443	ゼロ	ゼロ	zero	n	2428	私たちは商売をゼロから始めなければならなかった。	We had to start our business from zero.	これは、カロリーゼロです。	이건 제로 칼로리야.
+444	家庭	かてい	household	n	2429	食事は家庭で食べますか、外食ですか。	Do you eat at home or eat out?		
+445	ページ	ページ	page	n; ctr	2458	もう３ページ残っている。	I have three more pages to go.	トイレにトイレットペーパーがない。	화장실에 휴지가 없다.
+446	千	せん	thousand	num	2460	このホールには人が二千人入れる。	Two thousand people fit into this hall.		
+447	庭	にわ	garden	n	2462	その庭にはバラがまったくなかった。	There weren't any roses in the garden.		
+448	プール	プール	swimming pool	n	2480	サウナとプールがあります。	There's a sauna and a pool.	プーチンは戦争犯罪人だ。	푸틴은 전쟁범죄인입니다.
+449	机	つくえ	desk	n	2485	机の上にペンが一本もありません。	There are no pens on the desk.		
+450	持つ	もつ	to hold	v5t; vt	2506	コートを持ちましょうか。	Shall I carry your coat?		
+451	太い	ふとい	fat	adj-i	2521	彼は太い首をしている。	He has a thick neck.		
+452	そちら	そちら	over there	pn	2556	これとそちらとの違いは何だい。	What is the difference between this and that?		
+453	ボタン	ボタン	button	n	2582	レーンコートのボタンがとれた。	A button has come off my raincoat.		
+454	こんばんは	こんばんは	good evening	int	2587	シカゴのみなさん、こんばんは。	Hello, Chicago!	こんばんは。	안녕하세요.
+455	ラジオ	ラジオ	radio	n	2589	そのニュースはラジオで聞いたよ。	I heard the news on the radio.	僕はテレビを見るよりもラジオを聞くほうが好きだ。	난 TV 보는 것보다 라디오 듣는 게 더 좋다.
+456	今年	ことし	this year	n; adv	2605	今年もよい年でありますように。	May the new year bring you happiness!	今年の夏は寒かった。	올해 여름은 추웠다.
+457	暇	ひま	free time	n	2630	ジョンはひどく急いでいたので話をする暇もなかった。	John was in such a hurry that he had no time for talking.		
+458	帰る	かえる	to go back	v5r; vi	2657	「帰ろ」「マックよってかない？」	"""Let's head back."" ""Shall we drop by McDonald's?"""	あなたのお父さんが、「もし私の息子に会ったら、家に帰るように伝えてください」と言っていました。	네 아버지가 “내 아들을 만나면 집에 돌아오라고 전해 달라”고 말했다.
+459	初め	はじめ	beginning	n; adv	2663	旅行の初めの二日間は雨降りだった。	The first two days of my trip were rainy.	献血はこれが初めてですか？	헌혈은 이게 처음인가요?
+460	安い	やすい	cheap	adj-i	2694	もっと安いものを見せてください。	Show me a cheaper one, please.	これは安いです。	이건 쉬워요.
+461	四	し	four	num	2754	列車でならここからたった四分だ。	It's only four minutes from here by train.		
+462	去年	きょねん	last year	n; adv	2756	ビルは去年の秋に私に会いに来た。	Bill came to see me last autumn.	その会社は去年１０億円の損失を被った。	그 회사가 작년에 십억엔의 손실을 보았다.
+463	緑	みどり	green	n; adj-no	2812	東京ミッドタウンは緑がいっぱい！	There's a lot of greenery in Tokyo Midtown!		
+464	今週	こんしゅう	this week	n; adv	2856	今週はどちらにいらしゃいましたか。	Where have you been this week?	新作のRPGが今週発売されるので楽しみにしている。	신작 RPG가 이번 주에 발매되어 기대하고 있다.
+465	雪	ゆき	snow	n	2881	ひどい雪のため外出できなかった。	The heavy snow kept us from going out.		
+466	冬	ふゆ	winter	n; adv	2892	まもなく冬だ。	It will be winter before long.		
+467	明るい	あかるい	bright	adj-i	2894	外はだんだん明るくなっていく。	It is getting lighter outside.	今夜、空には星がとても明るく輝いている。	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.
+468	来週	らいしゅう	next week	n; adv	2904	来週ヨーロッパへ行くつもりなんです。	I'm going to Europe next week.	来週の日曜日に遊びに来てください。	다음 주 일요일에 놀러 와 주세요.
+469	メートル	メートル	metre	n	2935	前の人から1メートル離れて並んでください。	Form a line, keeping one meter away from the person in front of you.		
+470	五	ご	five	num	2952	どこかは今五時だろう。	It's five o'clock somewhere now.		
+471	暑い	あつい	hot	adj-i	2957	どうして、こんなに暑いのですか。	Why is it so hot?		
+472	スポーツ	スポーツ	sport	n	2969	ビリーはスポーツがうまいです。	Billy is good at sports.	スポーツが好きです。	스포츠를 좋아해요.
+473	カップ	カップ	cup	n	3046	テーブルの上にカップがある。	There is a cup on the table.	布を斜めにカットします。	천을 대각선으로 자릅니다.
+474	着く	つく	to arrive at	v5k; vi	3054	シカゴに着いたらすぐ電話します。	I'll call you as soon as I get to Chicago.	空港にはいつ着くの？	공항엔 언제 도착해?
+475	エレベーター	エレベーター	elevator	n	3055	エレベーターはどこですか。	Where is the elevator?	トムはエレベーターを降りた。	톰은 엘리베이터에서 내렸다.
+476	十	じゅう	ten	num	3165	その会は十時に終わった。	The party ended at ten o'clock.		
+477	昼	ひる	noon; daytime	n	3186	昼はホットドッグを食べたんだ。	I ate a hot dog for lunch.		
+478	毎晩	まいばん	every night	n; adv	3202	私は毎晩家にいます。	I am at home every evening.	トムはほぼ毎晩酔っ払う。	톰은 거의 매일 밤 취한다.
+479	玄関	げんかん	entry hall	n	3207	玄関のカギはどうなっていますか。	How does the front-door lock work?	私は表玄関に鍵をかけた。	나는 앞쪽 현관을 열쇠로 잠갔다.
+480	お風呂	おふろ	bath	n	3225	私はほとんど毎日お風呂に入ります。	I take a bath almost every day.	先にお風呂入っていいよ。	먼저 목욕해도 돼.
+481	でも	でも	but	conj	3266	どんな人でもいないよりはましだ。	Anybody would be better than nobody.	誰でも答えない。	아무도 대답하지 않는다.
+482	まっすぐ	まっすぐ	straight ahead; direct	adj-na; adv; n	3281	まっすぐ前を見てください。	Look forward, please.		
+483	乗る	のる	to get on; to ride	v5r; vi	3295	ほら、あなたの乗る電車が来たわ。	Look, here comes your train.		
+484	ペット	ペット	pet	n	3322	あなたはペットの世話ができない。	You can't care for pets.	自販機の周りにペットボトルがたくさん捨てられてる。	자판기 주위에 많은 페트병이 버려져 있다.
+485	暖かい	あたたかい	warm	adj-i	3330	だんだん暖かくなります。	It will get warmer and warmer.		
+486	外国	がいこく	foreign country	n; adj-no	3348	あなたは外国の本を持っていますか。	Do you have any foreign books?	外国語の習得には忍耐が必要だ。	외국어 습득에는 인내가 필요하다.
+487	どなた	どなた	who	pn	3404	「どなたですか」「お母さんよ」	"""Who is it?"" ""It's your mother."""	どなたか、ナイフを渡していただけますか？	아무나 나이프를 건네주시겠습니까?
+488	使う	つかう	to use	v5u; vt	3445	フラッシュを使ってもいいですか。	Is it all right to use a flash here?	何に使うの？	뭐에 쓰려고?
+489	買い物	かいもの	shopping	n; vs; vi	3449	１日おきに買い物に行く。	I go shopping every other day.	彼女は買い物に行った。	그녀는 장보러 갔다.
+490	勤める	つとめる	to work for someone	v1; vt; vi	3469	父は銀行に勤めています。	My father works for a bank.		
+491	廊下	ろうか	corridor	n	3510	廊下の突き当たりで火事が起きました。	There's a fire down the hall.		
+492	毎年	まいねん	every year	adv; n	3527	毎年ここに来なきゃ。	I'll have to come here every year.	トムって、毎年ボストンに行ってるんだよ。	톰은 매년 보스턴에 가요.
+493	雑誌	ざっし	magazine	n	3608	その雑誌はどこで買えますか。	Where can I buy that magazine?	この雑誌をいただいてもいいですか。	이 잡지 내가 가져도 돼?
+494	電車	でんしゃ	electric train	n	3614	電車の中ですりにやられちゃったんだ。	I had my pocket picked on the train.	電車で来ました。	기차를 타고 왔어요.
+495	黄色	きいろ	yellow	n; adj-no; adj-na	3643	木の葉は秋には黄色になる。	The leaves of the trees turn yellow in fall.		
+496	黄色い	きいろい	yellow	adj-i	3643	その黄色いのをいただきましょう。	I'll take the yellow one.		
+497	ノート	ノート	notebook; exercise book	n	3646	これらの語をノートに書きなさい。	Write these words in your notebook.		
+498	狭い	せまい	narrow	adj-i	3679	オランダは狭い国です。	The Netherlands is a small country.	私のうちは小さくて、狭いです。	제 집은 작고 좁습니다.
+499	下手	へた	unskillful	adj-na; n	3685	いいわけをするのがとても下手。	He is very bad at inventing excuses.	説明下手でごめんね。	설명이 별로라서 미안해.
+500	死ぬ	しぬ	to die	v5n; vi	3697	その少年は死んだものとしてあきらめられた。	The boy was given up for dead.	僕は死ぬことが怖くないです。	전 죽음이 두렵지 않습니다.
+501	売る	うる	to sell	v5r; vt	3701	トムはメアリーにバイクを売った。	Tom sold his motorcycle to Mary.		
+502	砂糖	さとう	sugar	n	3713	ポットにはあまり砂糖がなかった。	There wasn't much sugar in the pot.	コーヒーに砂糖は入れないよ。	커피에 설탕 안 넣어.
+503	貸す	かす	to lend	v5s; vt	3716	ホッチキスを貸してくれませんか。	Will you please lend me a stapler?		
+504	待つ	まつ	to wait	v5t; vt; vi	3736	ちょっと待っていてもらえますか。	Would you mind waiting a few minutes?	待つしかない。	기다릴 수 밖에 없다.
+505	天気	てんき	weather	n	3779	今日が天気ならいいのに。	I wish it were fine today.	明日の天気はどう？	내일 날씨는 어때?
+506	働く	はたらく	to work	v5k; vi	3833	スイッチは時間通りに働かなかった。	The switch didn't work on time.	私は日曜日に働く。	나는 일요일에 일한다.
+507	宿題	しゅくだい	homework	n	3871	宿題はもうやってしまいましたか。	Have you done your assignment yet?	宿題は自分でやりなさい。	숙제는 스스로 하세요.
+508	洗濯	せんたく	washing	n; vs; vt	3906	洗濯はいつやってもいいですか。	Can I use the laundry any time?	ああ、もう最悪。ティッシュをポケットに入れたまま洗濯しちゃった。	아, 진짜 최악. 휴지를 주머니에 넣은 채로 세탁해버렸어.
+509	台所	だいどころ	kitchen	n	3934	ルーシーは今台所にいるでしょう。	Lucy should be in the kitchen now.		
+510	丸い	まるい	round; circular	adj-i	3945	ボールは丸い。	Balls are round.		
+511	ズボン	ズボン	trousers	n	3958	ちょっとこのズボンにつめて。	Please take the pants in a bit.	おもらしじゃなくて、ズボンに全部水こぼしちゃったよ。	오줌을 눈 게 아니라 바지에 전부 물을 엎은 거야.
+512	バター	バター	butter	n	3962	バターはミルクから出来る。	Butter is made from milk.	バターは牛乳から作られる。	버터는 우유로 만든다.
+513	上着	うわぎ	jacket	n	3975	ドアのそばのかぎに上着をかけなさい。	Hang your jacket on the hook by the door.		
+514	やる	やる	to do	v5r; vt	4022	５ドルをやる。	Here's $5.	もちろん僕もやるよ！	물론 나도 할게!
+515	作る	つくる	to make	v5r; vt	4031	たまごを割らずにオムレツは作れない。	You can't make an omelet without breaking eggs.		
+516	六	ろく	six	num	4037	私は毎朝六時に起きます。	I get up at six every morning.		
+517	晴れ	はれ	clear weather	n; adj-no	4219	ロンドンの天気は晴れです。	The weather is fine in London.	明日は晴れると思う。	내일은 해가 뜰 것 같아.
+518	晴れる	はれる	to be sunny	v1; vi	4219	あした晴れてくれるといいなあ。	I hope the weather will clear up tomorrow.	明日は晴れると思う。	내일은 해가 뜰 것 같아.
+519	春	はる	spring	n; adv	4260	カッコウは春にここにやってくる。	Cuckoos visit here in spring.		
+520	座る	すわる	to sit	v5r; vi	4421	父と母は木の下に座っていました。	My father and mother were sitting under a tree.		
+521	先月	せんげつ	last month	n; adv	4556	先月は、ほとんど雨が降らなかった。	We had little rain last month.	私は先月結婚式を挙げました。	저는 저번달에 결혼식을 올렸습니다.
+522	薄い	うすい	thin; weak	adj-i	4639	コーヒーは薄いのが好きです。	I'd like my coffee weak.	一方の本は薄い、他方は厚い、厚いのは約２００ページある。	책 한 권은 얇고, 다른 책은 두껍고, 두꺼운 것은 약 200페이지이다.
+523	レコード	レコード	record	n	4675	ステレオにレコードをかけてください。	Put a record on the stereo.		
+524	紅茶	こうちゃ	black tea	n	4693	紅茶かコーヒーはいかがですか。	Care for tea or coffee?	紅茶じゃなくて、コーヒーをお願いします。	홍차가 아니라 커피로 부탁합니다.
+525	風邪	かぜ	a cold	n	4831	ただの風邪でしょう。	You probably just have a cold.	風邪ですね。	감기네요.
+526	切符	きっぷ	ticket	n	5006	この切符で二人入れるよ。	The ticket admits two persons.		
+527	毎週	まいしゅう	every week	n; adv	5010	父は毎週日曜日にゴルフをします。	My father plays golf every Sunday.	毎週日曜、礼拝に行きます。	매주일요일 예배를 하러 갑니다
+528	食堂	しょくどう	dining hall	n	5013	食堂はセルフサービスでした。	The cafeteria was self-service.		
+529	教室	きょうしつ	classroom	n	5040	ＬＬ教室を使ってもよいですか。	May we use the language lab?		
+530	塩	しお	salt	n	5139	このスープは塩が少し足りない。	This soup wants a bit of salt.		
+531	茶色	ちゃいろ	brown	n; adj-no	5156	その犬は茶色で小さくて、やせています。	The dog is brown, small and thin.		
+532	返す	かえす	to return something	v5s; vt	5171	車はいつ返したらいいでしょうか。	When should I return the car?		
+533	締める	しめる	to tie	v1; vt	5227	いつもシートベルトを締めなさい。	Always fasten your seatbelt.	締め切りは今日の2時半です。	마감은 오늘 2시 반입니다.
+534	ギター	ギター	guitar	n	5250	どちらがあなたのギターですか。	Which is your guitar?	私はギターが弾けます。	기타를 칠 줄 알아요.
+535	ネクタイ	ネクタイ	tie; necktie	n	5292	このネクタイはいくらですか。	How much is this tie?	それ、新しいネクタイ？	그거, 새로운 넥타이야?
+536	聞く	きく	to hear; to listen to; to ask	v5k; vt	5325	ニューススタンドで聞いて下さい。	You'll have to ask at the newsstand.	僕はテレビを見るよりもラジオを聞くほうが好きだ。	난 TV 보는 것보다 라디오 듣는 게 더 좋다.
+537	野菜	やさい	vegetable	n	5360	その店は野菜を売っている。	The store deals in vegetables.	野菜の皮を剥いでいた。	야채 껍질을 벗겼다.
+538	あちら	あちら	there	pn	5433	こっちの本はあっちの本よりやさしい。	These books are easier than those books.	かしこまりました。サラダバーはあちらです。	알겠습니다. 샐러드 바는 저쪽입니다.
+539	毎朝	まいあさ	every morning	n; adv	5472	毎朝ジョギングすることにした。	I've decided to jog every morning.	毎朝六時に起きます。	매일 아침 6시에 일어나요.
+540	終る	おわる	to finish	v5r; vi	5534	そのコンサートは十時に終わった。	The concert came to an end at ten o'clock.		
+541	便利	べんり	useful; convenient	adj-na	5592	電話は便利なものである。	The telephone is a convenience.		
+542	並べる	ならべる	to line up; to set up	v1; vt	5722	メイドはテーブルにナイフとフォークを並べた。	The maid arranged the knives and forks on the table.		
+543	たて	たて	length; height	n	5725	テーブルを縦一列に並べなさい。	Put the tables end to end.		
+544	言う	いう	to say	v5u; vt	5740	「みんなひと休みしようぜ」とジョンは言った。	"John said, ""Hey guys, let's take a break."""	忘れたって言うの？	잊었다고 말하는 거야?
+545	入口	いりぐち	entrance	n	5779	１台の車が入り口に止まった。	A car stopped at the entrance.		
+546	立つ	たつ	to stand	v5t; vi	5861	立っているのは、みんな男だった。	Those standing were all men.	役に立つはずだ。	도움이 될 것이다.
+547	牛乳	ぎゅうにゅう	milk	n	5939	牛乳はバターやチーズになります。	Milk is made into butter and cheese.	バターは牛乳から作られる。	버터는 우유로 만든다.
+548	フォーク	フォーク	fork	n	6126				
+549	来年	らいねん	next year	n; adv	6135	あなたは来年この本を読むことが出来るでしょう。	You will be able to read this book next year.	来年16歳になります。	내년이면 나는 열여섯 살이 된다.
+550	ほんとう	ほんとう	truth	n; adj-no; adj-na	6186	本当のマンションではありません。	It isn't a real apartment.	ほんとにごめんなさい！	정말 미안해요.
+551	封筒	ふうとう	envelope	n	6190	だれがこの封筒を破って開けたのか。	Who has torn the envelope open?		
+552	夕方	ゆうがた	evening	n; adv	6228	ひょっとすると夕方前に雨になるかもしれない。	It might rain before evening.	トムは今日の夕方コンサートに行きます。	톰은 오늘 저녁 콘서트에 갑니다.
+553	渡る	わたる	to go across	v5r; vi	6238	一行はアメリカへ渡った。	The party crossed over to America.		
+554	マッチ	マッチ	match	n	6277	マッチありますか。	Do you have a match?		
+555	呼ぶ	よぶ	to call out; to invite	v5b; vt	6285	あなたをケパと呼ぶことにします。	You will be called Cephas.	「なんでトムは私のことメアリーって呼ぶの？」「メアリーじゃないの？」「メアリーじゃなくてマリー」	"""왜 톰은 날 메리라고 불러?"" ""메리가 아니야?"" ""메리가 아니라 마리!"""
+556	夕飯	ゆうはん	dinner	n	6443	夕飯はもう食べましたか。	Have you had dinner?	トム、よかったら夕飯食べていっていいよ。	톰, 괜찮으면 저녁밥 먹고 가도 돼.
+557	秋	あき	autumn	n; adv	6510	秋はもうすぐそこまで来ている。	Autumn is just around the corner.		
+558	飲む	のむ	to drink	v5m; vt	6597	コーラはみんな飲んでしまったの。	Has all the coke been drunk?	ジョンはこのところ酒を飲みすぎている。彼がこれ以上酒を飲むのをやめさせなければならない。	존은 요즈음 술을 너무 마시고 있다. 그가 이 이상 술을 마시는 것을 막지 않으면 안 된다.
+559	止まる	とまる	to come to a halt	v5r; vi	6632	ちょうどその時バスが止まった。	Just then, the bus stopped.	車は止まった。	차가 멈췄다.
+560	切る	きる	to cut	v5r; vt	6658	トランプをよく切ってください。	Please shuffle the cards carefully.	ちょうど、キツネが道路を横切るのが見えたんだ。	바로 여우가 도로 옆을 지난 걸 봤거든.
+561	厚い	あつい	kind; deep; thick	adj-i	6758	それは４ｃｍの厚さです。	It is four centimeters thick.	一方の本は薄い、他方は厚い、厚いのは約２００ページある。	책 한 권은 얇고, 다른 책은 두껍고, 두꺼운 것은 약 200페이지이다.
+562	来月	らいげつ	next month	n; adv	6783	来月タクシー料金があがります。	Taxi fares will go up next month.	来月１０日に二人は結婚２０周年を迎えます。	다음달 10일에 둘은 결혼 20주년을 맞이합니다.
+563	ポスト	ポスト	post	n	6931	ポストはどこにありますか。	Where is the mailbox?		
+564	靴下	くつした	socks	n	6943	この靴下はちぐはぐだ。	These socks do not match.		
+565	果物	くだもの	fruit	n	6951	父はそんなに果物を食べないんです。	My father doesn't eat all that much fruit.	新鮮な果物はあなたの健康に良いです。	신선한 과일은 당신의 건강에 좋습니다.
+566	八	はち	eight	num	6965	そのハイキングは八時間もかかるでしょう。	The hike will take no less than eight hours.		
+567	出す	だす	to put out	v5s; vt	7012	ここではおいしい食べ物が出されます。	They serve excellent food here.	今日は、僕が出すよ。	오늘은 내가 낼게.
+568	おなか	おなか	stomach	n	7017	何かおなかに入れてから出かけなさい。	You should put something in your stomach before you go.	おなかがすいて死にそうだ。	너무 배가 고파서 죽을 것 같아.
+569	読む	よむ	to read	v5m; vt	7163	本を読む時間がほとんどないんだ。	I have little time to read.	彼の新しい小説は読む価値がある。	그의 새로운 소설은 읽을만한 가치가 있다.
+570	引く	ひく	to pull	v5k; vt	7268	カーテンがゆっくり引かれた。	The curtains were drawn slowly.		
+571	洋服	ようふく	western-style clothes	n	7336	お前に新しい洋服を作ってあげよう。	I will make a new suit for you.		
+572	傘	かさ	umbrella	n	7365	タクシーに傘を忘れてしまった。	I left my umbrella in the cab.		
+573	眼鏡	めがね	glasses	n	7391	私はメガネがなくては読めない。	I cannot read without glasses.	トムは黒い眼鏡をかけている。	톰은 검은 안경을 쓰고 있다.
+574	だんだん	だんだん	gradually	adv; adv-to	7495	日がだんだん長くなってきています。	The days are getting longer and longer.	だんだん寒くなってきている。	점점 추워지고 있다.
+575	走る	はしる	to run	v5r; vi	7604	あの走ってる少年をごらんなさい。	Look at that boy running.	このヨットほど速く走るヨットはない。	이 요트만큼 빠른 요트는 없다.
+576	フィルム	フィルム	roll of film	n	7663	カラーフィルムを一本ください。	I want a roll of color film for prints.		
+577	グラム	グラム	gram	n	7814	プログラムをいただけますか。	May I have a program?	パングラムって面白い！	팬그램이라고 하는 거 재밌네!
+578	渡す	わたす	to hand over	v5s; vt	7947	わたしを川のむこうに渡してください。	Please take me across the river.		
+579	今月	こんげつ	this month	n; adv	8086	今月の売り上げはよくない。	Sales have been off this month.		
+580	毎月	まいげつ	every month	adv; n	8433	毎月のガス代はいくらですか。	How much is your monthly gas bill?		
+581	カレンダー	カレンダー	calendar	n	8487	このカレンダーはどこにかけましょうか。	Where shall I hang this calendar?		
+582	九	きゅう	nine	num	8546	彼は「九時だ」と言った。	"He said, ""It's nine o'clock."""		
+583	コップ	コップ	a glass	n	8561				
+584	細い	ほそい	thin	adj-i	8625	彼は太っているくせに声は細い。	His voice is thin even though he is fat.		
+585	文章	ぶんしょう	sentence; text	n	8813	ヘミングウェイの文章は悪文だった。	Hemingway had a poor writing style.	文章を書いています。	문장을 쓰고 있어요.
+586	スプーン	スプーン	spoon	n	8889	スプーンをいただけますか。	Could we have a spoon?		
+587	かばん	かばん	bag; basket	n	9165	これはジェーンさんのかばんです。	This is Jane's bag.		
+588	セーター	セーター	sweater; jumper	n	9323	このセーターは気に入らない。	I don't like this sweater.		
+589	吹く	ふく	to blow	v5k; vi	9350	あの日は強い風が吹いていました。	There was a strong wind that day.		
+590	開く	あく	to open; to become open	v5k; vi	9415	ぐいと押すとドアは開いた。	The door yielded to a strong push.		
+591	お弁当	おべんとう	boxed lunch	n	9522	彼は今日、お弁当を持って来た。	He brought his lunch today.		
+592	置く	おく	to put	v5k; vt	9556	それをテーブルの上に置きなさい。	Lay it on the table.		
+593	スカート	スカート	skirt	n	9622	スカートを見せていただけませんか。	Would you please show me that skirt?		
+594	書く	かく	to write	v5k; vt	10018	すぐに書かなければなりませんか。	Should I fill it in now?	彼はフランス語を話すことも書くこともできる。	그는 불어로 말하고 쓸 수 있다.
+595	カレー	カレー	curry	n	10095	このレストランのカレーはうまいよ。	The curry at this restaurant is good.		
+596	買う	かう	to buy	v5u; vt	10138	買うかどうかはあなたしだいです。	It is up to you whether to buy it or not.	エプロン買うほど料理しない。	앞치마를 살 정도로 요리를 하진 않아.
+597	泳ぐ	およぐ	to swim	v5g; vi	10255	トムはすぐに泳げるようになるよ。	Tom will be able to swim soon.	私は彼女が泳ぐのを見た。	나는 그녀가 헤엄치는 것을 봤다.
+598	飛ぶ	とぶ	to fly; to hop	v5b; vi	10512	ヒューズが飛んだ。	A fuse has blown.		
+599	たいへん	たいへん	very	adv	10859	それはたいへんなショックでした。	It was such a shock.		
+600	切手	きって	postage stamp	n	10999	切手の上からサインをしてください。	Sign across the stamp.	僕たちは全世界の切手を集める。	우리는 전 세계의 우표를 모은다.
+601	戸	と	Japanese style door	n	11037	誰かが戸をやかましくノックしている。	Someone is knocking loudly at the door.		
+602	御飯	ごはん	cooked rice; meal	n	11038	ご飯とパンどちらがいいですか。	Which do you prefer, rice or bread?		
+603	押す	おす	to push; to stamp something	v5s; vt	11274	シャッターを押してくれますか。	Could you press this button?		
+604	知る	しる	to know	v5r; vt	11696	ぼくは知らないし、気にもしない。	I don't know, nor do I care.		
+605	丈夫	じょうぶ	strong; durable	adj-na	11768	このロープはとてもじょうぶだ。	This rope is very tough.	大丈夫、心配するな。	괜찮아, 걱정하지 마.
+606	お手洗い	おてあらい	bathroom	n	11857	お手洗いはどこですか。	Where's the restroom?		
+607	鉛筆	えんぴつ	pencil	n	12063	えんぴつであなたの名前を書きなさい。	Write your name with the pencil.	あれは鉛筆です。	그거 연필이야
+608	涼しい	すずしい	refreshing	adj-i	12373	日増しに涼しくなっていく。	It's getting cooler day by day.	涼しくなってきた。	날씨가 시원해졌다.
+609	歩く	あるく	to walk	v5k; vi	12381	歩いて行きますか？それともバスで行きますか？	Will you go on foot or by bus?	車があるのにどうして歩くの？	차가 있는데 왜 걸어야 돼?
+610	夏休み	なつやすみ	summer holiday	n	12568	この夏休みはどこかへ行くのですか。	Are you going away this summer?		
+611	たばこ	たばこ	tobacco; cigarettes	n	12897	男はライターでたばこに火をつけた。	The man lit a cigarette with a lighter.	買ったばかりのカバーなんだぞ。	방금 산 커버야.
+612	あさって	あさって	day after tomorrow	n; adv	12961	あさって彼にここへ来てもらうつもりです。	I will have him come here the day after tomorrow.		
+613	差す	さす	to stretch out hands; to raise an umbrella	v5s; vt	13285	彼は雨の中を傘もささずに歩きつづけた。	He went on walking in the rain without an umbrella.		
+614	零	れい	zero	n	13585				
+615	牛肉	ぎゅうにく	beef	n	13635	日本人はイギリス人より牛肉を食べる。	The Japanese eat more beef than the British do.	「そんなに牛肉ばっか食べてたら牛になっちゃうよ」「んなわけねーじゃん」	"""그렇게 소고기만 먹어 대면 소가 돼 버릴 거야."" ""그럴 리 없거든."""
+616	いちばん	いちばん	best; first	n; adj-no	14066	このリンゴがいちばんおいしい。	This is the most delicious apple.		
+617	花瓶	かびん	a vase	n	14373	花びんに水を入れなさい。	Put some water into the vase.	彼が割った花瓶は私の叔母のものです。	그가 깬 꽃병은 저희 숙모의 꽃병입니다.
+618	灰皿	はいざら	ashtray	n	14411	灰皿を下さい。	I need an ashtray.		
+619	曇り	くもり	cloudy weather	n	14856	曇りの日です。	It's a cloudy day.		
+620	曇る	くもる	to become cloudy; to become dim	v5r; vi	14856	今日は曇っている。	It is cloudy today.		
+621	スリッパ	スリッパ	slippers	n	14859	スリッパをはいてください。	Please put on your slippers.		
+622	煩い	うるさい	noisy; annoying	adj-i	15068	あの子はなんてうるさい子だろう。	What a nuisance that child is!		
+623	ストーブ	ストーブ	heater	n	15334	私は古いストーブに１０ドルの値をつけた。	I bid ten dollars for the old stove.		
+624	デパート	デパート	department store	n	15544	あのデパートで新しいコートを買いたい。	I would like to buy a new coat at that department store.		
+625	洗う	あらう	to wash	v5u; vt	16181	いつこの車は洗われましたか。	When was this car washed?	めし作ってくれるんなら、皿は俺が洗うよ。	식사를 차려 준다면 설거지는 내가 할게.
+626	八つ	やっつ	eight	num	16540	そこに八つの小石があった。	There were eight pebbles there.		
+627	本棚	ほんだな	bookshelves	n	16578	私は本棚の本をすべて読んだわけではない。	I haven't read all the books on the shelves.		
+628	登る	のぼる	to climb	v5r; vi	16666	木は高ければ高いほど登りにくい。	The taller a tree is, the harder it is to climb.	トムってよく木に登るんだ。	톰은 자주 나무를 타.
+629	かぎ	かぎ	key	n	17156	車のカギをなくしちゃった。	I've lost my car key.		
+630	いい	いい	good	adj-ix	17211	もう２、３ページ読みさえすればいい。	You have only to read a few more pages.	いいなあ。	네가 부러워.
+631	困る	こまる	to be worried	v5r; vi	17340	時間がなくてたいへん困っている。	I am pressed for time.		
+632	辞書	じしょ	dictionary	n	17396	それはどの辞書にもでています。	You find it in any dictionary.	辞書を持っていても、うまく使いこなせていない生徒が多いのが現状だ。	사전을 가지고 있어도 잘 사용하지 못하는 학생이 많은 게 현재 상황이다.
+633	易しい	やさしい	easy; simple	adj-i	17704	もっと易しい事を聞いて下さい。	Ask me something easier.		
+634	磨く	みがく	to brush teeth; to polish	v5k; vt	17818	そのなべを磨いていただけませんか。	Would you scrape that rusty pan?	男の人は歯を磨く。	남자는 이를 닦는다.
+635	並ぶ	ならぶ	to line up; to stand in a line	v5b; vi	17950	あんた、なぜに並んでいるのだい。	What are you lining up for?		
+636	住む	すむ	to live in	v5m; vi	18357	どうしてアメリカに住んでいたの？	Why did he live in the United States?	ボストンって、住むのにいい所？	보스턴은 살기 좋은 곳이야?
+637	ハンカチ	ハンカチ	handkerchief	n	18707	このハンカチはいくらですか。	How much is this handkerchief?		
+638	飴	あめ	candy	n	19018	いい子にしていたら、あめをあげよう。	If you are a good girl, you shall have candy.		
+639	一日	いちにち	one day; first of month	n	19239	一日で５００ドルつかってしまった。	I've spent $500 a day.	今日、大変な一日を送った。	오늘 힘든 하루를 보냈다.
+640	賑やか	にぎやか	bustling; busy	adj-na	19486	この通りは賑やかだ。	This street is lively.		
+641	作文	さくぶん	composition; writing	n; vs; vi	19851	作文は書いてしまいましたか。	Have you finished writing your composition?		
+642	弾く	ひく	to play an instrument with strings; including piano	v5k; vt	20046	ギターをひくのはおもしろい。	Playing the guitar is fun.		
+643	いす	いす	chair	n	20209	ちょっと椅子をずらしてくれない？	Could you move the chair a bit?		
+644	消す	けす	to erase; to turn off power	v5s; vt	20228	寝る前に電気を消してください。	Turn off the light before you go to bed.		
+645	会う	あう	to meet	v5u; vi	20646	もうスミスさんに会われましたね。	You've met Mr. Smith already, haven't you?	彼は妻と子供たちに２度と会うことはなかった。	그는 아내와 자식들을 두번다시 만나지 못했다.
+646	葉書	はがき	postcard	n	20716	この店に葉書がたくさんある。	There are many postcards in this store.		
+647	豚肉	ぶたにく	pork	n	21005	この豚肉は１キロいくらですか。	How much is this pork a kilo?		
+648	一昨日	おととい	day before yesterday	n; adv	22340	一昨日、彼は学校を休んだかもしれない。	He may have absented himself from school the day before yesterday.		
+649	一つ	ひとつ	one	num	23016	車にはハンドルが一つある。	A car has one steering wheel.	願いは一つだけ。	부탁은 하나뿐
+650	りっぱ	りっぱ	splendid	adj-na	25053	どうもごりっぱな言いわけだよ。	That is a fine excuse.		
+651	歌う	うたう	to sing	v5u; vt; vi	25526	ジョンはステージで何を歌いましたか。	What did John sing on the stage?	歌うことは好きですか。	노래하는 거 좋아해?
+652	鶏肉	とりにく	chicken meat	n	26963	鶏肉を３ポンド分ください。	I'd like three pounds of chicken.	生の鶏肉を食べると、毒効果が付く。	생 닭고기를 먹으면, 독 효과가 붙는다.
+653	撮る	とる	to take a photo or record a film	v5r; vt	28195	外からなら撮ってもかまいません。	It doesn't matter to us if you take a photo from the outside.	写真を撮ることは禁じられている。	사진 촬영은 금지되어 있습니다.
+654	漢字	かんじ	Chinese character	n	28244	この漢字はどういう意味ですか。	What does this kanji mean?	漢字、何個覚えた？	한자 몇개 외웠어?
+655	貼る	はる	to stick	v5r; vt	28588	その写真はアルバムに貼ったほうがよい。	You should stick those pictures in your album.		
+656	万年筆	まんねんひつ	fountain pen	n	29444	新しい万年筆をなくしてしまった。	I have lost my new fountain pen.		
+657	あびる	あびる	to bathe; to shower	v1; vt	29947	その時はシャワーを浴びていた。	I was taking a shower then.		
+658	日曜日	にちようび	Sunday	n; adv	31376	ちょうど日曜日にぶつかりますね。	It falls on Sunday.	今日は日曜日だ。	오늘은 일요일이다.
+659	背広	せびろ	business suit	n	31906	私は新しい背広を買った。	I bought a new suit of clothes.		
+660	いつも	いつも	always	adv	32939	あの子はいつもニコニコしている。	She is always smiling.	いい思いつきね。	좋은 생각이네.
+661	かかる	かかる	to take time or money	v5r; vi	33042	どうしたらエンジンがかかりますか。	How can I start the engine?	それは確かかい。	그건 확실한 거냐.
+662	三つ	みっつ	three	num	33089	コーヒー三つおねがいします。	Three coffees, please.		
+663	晩御飯	ばんごはん	evening meal	n	35118	晩ご飯ですよ、お父さん。	Dinner is ready, Father.		
+664	吸う	すう	to smoke; to suck	v5u; vt	35411	この紙はインクを吸わない。	This paper does not absorb ink.		
+665	分かる	わかる	to be understood	v5r; vi	37036	ボブがいつ来日したか分からない。	I don't know when Bob came to Japan.	分かった？	알았어?
+666	温い	ぬるい	luke warm	adj-i	37474	このコーヒーはぬるいです。	This coffee is not hot enough.		
+667	脱ぐ	ぬぐ	to take off clothes	v5g; vt	38172	ここで靴を脱がなければなりませんか。	Do I have to take off my shoes here?		
+668	水曜日	すいようび	Wednesday	n; adv	38627	今度の水曜日ならいいですよ。	Next Wednesday will be fine.	月曜日、火曜日、水曜日、木曜日、金曜日、土曜日、日曜日。	월요일, 화요일, 수요일, 목요일, 금요일, 토요일, 일요일.
+669	咲く	さく	to bloom	v5k; vi	40380	チューリップがみごとに咲いた。	The tulips have come out beautifully.		
+670	ください	ください	please	exp	41276	ニューススタンドで聞いて下さい。	You'll have to ask at the newsstand.	お待ちください。	기다리세요
+671	要る	いる	to need	v5r; vi	41929	今のところお金はいらない。	I don't need money at present.	欲しい物を買うのに、あと300ドル要るの。	원하는 것을 사는 데 있어서 300달러가 더 필요해.
+672	それから	それから	after that	exp	43005	それからすっきりきれいにしてくれ。	Then clean it really well.		
+673	交番	こうばん	police box	n	43456	向こうの交番で聞いてください。	Ask at the police station over there.		
+674	はし	はし	chopsticks	n	45254	パーカーさんは箸で食べてみました。	Mr Parker tried eating with chopsticks.	ホテルの予約はしたの？	호텔 예약은 했어?

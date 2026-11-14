@@ -1,4 +1,4 @@
-# nihongo-partner
+# nihongo-partner-skill
 
 **현재 초안이며 추후 학습하며 업데이트 예정**
 
@@ -21,14 +21,14 @@
 **Claude 데스크톱 앱의 Code 탭에서 쓰는 걸 권장한다.** 미야의 표정 이미지가 대화창에 바로 보인다. 터미널(CLI)이나 다른 환경에서는 이미지가 안 보이지만 수업은 그대로 된다.
 
 ```bash
-git clone https://github.com/miku-craft/nihongo-partner.git
+git clone https://github.com/miku-craft/nihongo-partner-skill.git
 ```
 
 ```bash
-cd nihongo-partner && claude
+cd nihongo-partner-skill && claude
 ```
 
-- 데스크톱 앱: Code 탭에서 clone한 `nihongo-partner` 폴더를 선택해 세션을 연다.
+- 데스크톱 앱: Code 탭에서 clone한 `nihongo-partner-skill` 폴더를 선택해 세션을 연다.
 - 터미널: 위 명령으로 연다.
 
 Claude Code가 열리면 **"일본어 수업하자"** 또는 `/miya`. 스킬이 `.claude/skills/miya/`에 있어서 이 폴더에서 열어야 잡힌다.
@@ -41,8 +41,8 @@ Claude Code가 열리면 **"일본어 수업하자"** 또는 `/miya`. 스킬이 
 |---|---|
 | 복습 | 오늘 복습할 카드를 섞어서 문제로 낸다. は/が처럼 헷갈리는 짝은 같이 낸다 |
 | 새 문법 1개 | 한국어와 같은 점·다른 점 위주로 짧게 |
-| 새 단어 (N5 8~10개, N3부터 12~15개) | 레벨 안에서 사용 빈도가 높은 순서 |
-| 새 한자 (N5 1자 ~ N1 6~7자) | 한국 한자음 → 받침 규칙 → 일본 음독 |
+| 새 단어 (N5 8-10개, N3부터 12-15개) | 레벨 안에서 사용 빈도가 높은 순서 |
+| 새 한자 (N5 1자부터 N1 6-7자까지) | 한국 한자음 → 받침 규칙 → 일본 음독 |
 | 문제 풀기 | 읽기 → 고르기 → 직접 말하기 순으로 어려워진다 |
 | 문장 만들기 | 오늘 배운 걸로 직접 한 문장. 틀리면 먼저 힌트로 스스로 고치게 하고, 그래도 틀리면 정답과 이유를 알려 준다 |
 | 단원 끝 | 짧은 읽기 지문 + 같은 주제로 세 번 말하기. 통과하면 다음 단원 |
